@@ -32,7 +32,16 @@ const rackLodLevels = [
     { distance: 40, file: "rack-low.glb" }
 ];
 
-async function createScene(deposito: Deposito, warehouseLayout: WarehouseStreet[]): Promise<Scene> {
+function yieldToBrowser(): Promise<void> {
+    return new Promise(resolve => requestAnimationFrame(() => setTimeout(resolve, 0)));
+}
+
+async function createScene(
+    deposito: Deposito,
+    warehouseLayout: WarehouseStreet[],
+    onProgress: (rendered: number, total: number) => void,
+    onStage: (description: string, stage: number) => Promise<void>
+): Promise<Scene> {
     const scene = new Scene(engine);
     scene.metadata = { deposito, depositoId: deposito.id, warehouseLayout };
 
@@ -75,7 +84,9 @@ async function createScene(deposito: Deposito, warehouseLayout: WarehouseStreet[
     if (warehouseLayout.length === 0) return scene;
 
     try {
+        await onStage("Montagem das estruturas", 2);
         const rack = await createWarehouse(scene, warehouseLayout);
+        await onStage("Ajuste do depósito e enquadramento da câmera", 3);
         placeOnGround(rack);
         fitGroundToWarehouse(ground, rack);
         const bounds = getRackBounds(rack);
@@ -83,8 +94,10 @@ async function createScene(deposito: Deposito, warehouseLayout: WarehouseStreet[
         const radius = bounds.max.subtract(bounds.min).length() / 2;
         camera.radius = Math.max(12, radius * 1.1 / Math.sin(camera.fov / 2));
 
+        await onStage("Preparação dos modelos de detalhe (LODs)", 4);
         await prepareRackLods(scene, rack);
-        populateStockPositions(scene, rack);
+        await onStage("Renderização dos endereços", 5);
+        await populateStockPositions(scene, rack, onProgress);
         setupEditMode(scene, camera, canvas, rack);
         return scene;
     } catch (error) {
@@ -156,6 +169,7 @@ async function createWarehouse(scene: Scene, streets: WarehouseStreet[]): Promis
     const columnGap = 0.1;
     const aisleWidth = 3;
     let streetPosition = 0;
+    let completedColumns = 0;
 
     for (const [streetIndex, street] of streets.entries()) {
         let columnPosition = 0;
@@ -202,6 +216,8 @@ async function createWarehouse(scene: Scene, streets: WarehouseStreet[]): Promis
             rack.position.z += columnPosition - bounds.min.z;
             columnPosition += depth + columnGap;
             streetWidth = Math.max(streetWidth, width);
+            completedColumns++;
+            if (completedColumns % 100 === 0) await yieldToBrowser();
         }
         streetPosition += streetWidth + aisleWidth;
     }
@@ -296,11 +312,13 @@ for (const path of Object.keys(depositFiles).sort()) {
     const name = path.split("/").pop()!.replace(/\.json$/, "");
     depositSelect.append(new Option(name, path));
 }
+const depositAddressCount = document.createElement("p");
+depositAddressCount.hidden = true;
 const depositStatus = document.createElement("p");
 depositStatus.setAttribute("role", "status");
 depositStatus.hidden = true;
 depositLabel.append(depositSelect);
-depositPanel.append(depositLabel, depositStatus);
+depositPanel.append(depositLabel, depositAddressCount, depositStatus);
 document.body.append(depositPanel);
 
 let activeScene: Scene | undefined;
@@ -311,18 +329,34 @@ async function selectDeposit(): Promise<void> {
     const selected = depositSelect.value;
     depositSelect.disabled = true;
     depositPanel.setAttribute("aria-busy", "true");
+    depositAddressCount.hidden = true;
     depositStatus.hidden = false;
-    depositStatus.textContent = "Carregando depósito...";
+    const progressText = document.createTextNode("");
+    const updateStage = async (description: string, stage: number) => {
+        const title = document.createElement("strong");
+        title.textContent = description;
+        progressText.textContent = "";
+        depositStatus.replaceChildren("Processando ", title, ` etapa ${stage}/5`, progressText);
+        await yieldToBrowser();
+    };
     try {
+        await updateStage("Leitura e processamento do JSON", 1);
         const { deposito, warehouseLayout } = selected === "demo"
             ? { deposito: demoDeposit, warehouseLayout: demoWarehouseLayout }
             : parseWarehouseData(JSON.parse(await depositFiles[selected]()));
-        const scene = await createScene(deposito, warehouseLayout);
+        const totalAddresses = warehouseLayout.reduce((count, street) => count + street.colunas.reduce(
+            (sum, column) => sum + column.andares.reduce((total, level) => total + level.enderecos.length, 0), 0
+        ), 0);
+        const updateProgress = (rendered: number, total: number) => {
+            progressText.textContent = ` - renderizando ${rendered} de ${total} endereços`;
+        };
+        const scene = await createScene(deposito, warehouseLayout, updateProgress, updateStage);
         activeScene?.dispose();
         activeScene = scene;
         scene.activeCamera?.attachControl(canvas, true);
         activeDeposit = selected;
         depositSelect.selectedOptions[0].textContent = deposito.descricao;
+        depositAddressCount.textContent = `qtd endereços: ${totalAddresses}`;
         depositStatus.hidden = warehouseLayout.length > 0;
         depositStatus.textContent = "Depósito sem endereços.";
     } catch (error) {
@@ -331,6 +365,7 @@ async function selectDeposit(): Promise<void> {
         depositSelect.value = activeDeposit;
         activeScene?.activeCamera?.attachControl(canvas, true);
     } finally {
+        depositAddressCount.hidden = !depositAddressCount.textContent;
         depositSelect.disabled = false;
         depositPanel.setAttribute("aria-busy", "false");
     }

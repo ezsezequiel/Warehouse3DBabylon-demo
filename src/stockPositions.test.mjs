@@ -3,7 +3,7 @@ import { test } from "node:test";
 import { InstancedMesh, MeshBuilder, NullEngine, Ray, Scene, TransformNode, Vector3 } from "@babylonjs/core";
 import { populateStockPositions } from "./stockPositions.ts";
 
-test("cria posições por ID e paletes apenas para endereços ocupados", () => {
+test("cria posições por ID e paletes apenas para endereços ocupados", async () => {
     const engine = new NullEngine();
     try {
         const scene = new Scene(engine);
@@ -25,7 +25,16 @@ test("cria posições por ID e paletes apenas para endereços ocupados", () => {
             beam.position.y = level;
             beam.metadata = { rackPart: "beam", stockLevel: level };
         }
-        populateStockPositions(scene, warehouse);
+        const progress = [];
+        await populateStockPositions(scene, warehouse, (rendered, total) => {
+            progress.push([rendered, total]);
+            if (rendered > 0) {
+                const address = rack.metadata.andares[rendered - 1].enderecos[0];
+                assert.ok(scene.getMeshByName(`stock-position-hitbox-${address.id}`));
+                assert.equal(Boolean(scene.getTransformNodeByName(`pallet-${address.id}`)), address.ocupado);
+            }
+        });
+        assert.deepEqual(progress, [[0, 3], [1, 3], [2, 3], [3, 3]]);
         const positions = scene.metadata.stockPositions;
         assert.equal(positions.size, 3);
         assert.equal(positions.get("empty").metadata.enderecoId, "empty");
@@ -58,7 +67,7 @@ test("cria posições por ID e paletes apenas para endereços ocupados", () => {
     }
 });
 
-test("endereços vazios não geram geometria nem materiais de paletes", () => {
+test("endereços vazios não geram geometria nem materiais de paletes", async () => {
     const engine = new NullEngine();
     try {
         const scene = new Scene(engine);
@@ -71,7 +80,7 @@ test("endereços vazios não geram geometria nem materiais de paletes", () => {
         const frame = MeshBuilder.CreateBox("frame", { width: 1, height: 1, depth: 1 }, scene);
         frame.parent = rack;
         frame.metadata = { rackPart: "frame" };
-        populateStockPositions(scene, warehouse);
+        await populateStockPositions(scene, warehouse);
         assert.equal(scene.metadata.stockPositions.size, 1);
         assert.equal(scene.getTransformNodeByName("pallet-vacant"), null);
         assert.equal(scene.materials.filter(material => material.name.startsWith("pallet-")).length, 0);

@@ -128,7 +128,11 @@ function localBounds(meshes: (Mesh | InstancedMesh)[], root: TransformNode): Bou
     return { min, max };
 }
 
-export function populateStockPositions(scene: Scene, warehouseRoot: TransformNode): void {
+export async function populateStockPositions(
+    scene: Scene,
+    warehouseRoot: TransformNode,
+    onProgress?: (rendered: number, total: number) => void
+): Promise<void> {
     let palletSources: Mesh[] | undefined;
     const pickSource = MeshBuilder.CreateBox("stock-position-pick-source", { size: 1 }, scene);
     pickSource.isVisible = false;
@@ -137,6 +141,10 @@ export function populateStockPositions(scene: Scene, warehouseRoot: TransformNod
     const positions = new Map<string, TransformNode>();
     const racks = warehouseRoot.getChildTransformNodes(true)
         .filter(node => Array.isArray(node.metadata?.andares));
+    const total = racks.reduce((count, rack) => count +
+        (rack.metadata.andares as WarehouseLevel[]).reduce((sum, level) => sum + level.enderecos.length, 0), 0);
+    let rendered = 0;
+    onProgress?.(rendered, total);
 
     for (const rack of racks) {
         const structuralMeshes = rack.getChildMeshes().filter(
@@ -191,18 +199,24 @@ export function populateStockPositions(scene: Scene, warehouseRoot: TransformNod
                 pickVolume.isPickable = true;
                 pickVolume.metadata = position.metadata;
 
-                if (!address.ocupado) continue;
-                palletSources ??= createPalletSources(scene);
-                const pallet = new TransformNode(`pallet-${address.id}`, scene);
-                pallet.parent = position;
-                pallet.metadata = position.metadata;
-                pallet.scaling.set(width / 1.2, height / 1.028, slotDepth * 0.96);
-                for (const source of palletSources) {
-                    const instance = source.createInstance(`${source.name}-${address.id}`);
-                    instance.parent = pallet;
-                    instance.isVisible = true;
-                    instance.isPickable = true;
-                    instance.metadata = position.metadata;
+                if (address.ocupado) {
+                    palletSources ??= createPalletSources(scene);
+                    const pallet = new TransformNode(`pallet-${address.id}`, scene);
+                    pallet.parent = position;
+                    pallet.metadata = position.metadata;
+                    pallet.scaling.set(width / 1.2, height / 1.028, slotDepth * 0.96);
+                    for (const source of palletSources) {
+                        const instance = source.createInstance(`${source.name}-${address.id}`);
+                        instance.parent = pallet;
+                        instance.isVisible = true;
+                        instance.isPickable = true;
+                        instance.metadata = position.metadata;
+                    }
+                }
+                rendered++;
+                onProgress?.(rendered, total);
+                if (rendered % 100 === 0 || rendered === total) {
+                    await new Promise<void>(resolve => setTimeout(resolve, 0));
                 }
             }
         }
