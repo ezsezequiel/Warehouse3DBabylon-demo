@@ -1,0 +1,2524 @@
+{
+  "deposito": {
+    "id": "cad70fac-1472-4adc-bee6-cb45252012ed",
+    "unidadeId": "2ea8802a-d35a-4a0b-a15b-5217e9a6c02a",
+    "descricao": "500 end - com produtos com lote de data validade (3d ok)",
+    "situacao": "ATIVO"
+  },
+  "estruturas": [
+    {
+      "descricaoPadrao": "Rua",
+      "descricao": "Rua"
+    },
+    {
+      "descricaoPadrao": "Coluna",
+      "descricao": "Coluna"
+    },
+    {
+      "descricaoPadrao": "Andar",
+      "descricao": "Andar"
+    }
+  ],
+  "enderecos": [
+    [
+      "c92334f0-5fa0-4520-950e-975909435e59",
+      "Rua 1 ; Coluna 1 ; Andar 1",
+      true
+    ],
+    [
+      "0e2bd191-d6bc-4120-8424-15925d8fb6e9",
+      "Rua 1 ; Coluna 1 ; Andar 2",
+      true
+    ],
+    [
+      "65f3009d-4952-4c51-8f2a-4ddf0fed9542",
+      "Rua 1 ; Coluna 1 ; Andar 3",
+      true
+    ],
+    [
+      "97340c29-b8dd-4fef-bdbe-f6a2f5cdf917",
+      "Rua 1 ; Coluna 1 ; Andar 4",
+      true
+    ],
+    [
+      "2356e7fd-39d1-43ab-9986-71455b6f579c",
+      "Rua 1 ; Coluna 1 ; Andar 5",
+      true
+    ],
+    [
+      "54694d2e-5712-4ecc-8106-ae7e999e0665",
+      "Rua 1 ; Coluna 2 ; Andar 1",
+      true
+    ],
+    [
+      "2768b49c-5484-4c0b-b218-3945664b68c2",
+      "Rua 1 ; Coluna 2 ; Andar 2",
+      true
+    ],
+    [
+      "db8755f8-718d-423d-a4d0-b643eccb8510",
+      "Rua 1 ; Coluna 2 ; Andar 3",
+      false
+    ],
+    [
+      "39b04981-c50c-407c-b6dd-2edc51af9f5d",
+      "Rua 1 ; Coluna 2 ; Andar 4",
+      true
+    ],
+    [
+      "2a8d49ca-c57a-4cca-bb15-3cce1925d76c",
+      "Rua 1 ; Coluna 2 ; Andar 5",
+      true
+    ],
+    [
+      "c02cf728-d960-4642-aedd-7873c9fed6c5",
+      "Rua 1 ; Coluna 3 ; Andar 1",
+      true
+    ],
+    [
+      "a6884426-a941-4535-8664-98e25694fb62",
+      "Rua 1 ; Coluna 3 ; Andar 2",
+      true
+    ],
+    [
+      "9904e141-f9b5-4ac9-bb3b-9f16323d59ba",
+      "Rua 1 ; Coluna 3 ; Andar 3",
+      true
+    ],
+    [
+      "4772d768-6cb8-4379-830f-e1500fb589ff",
+      "Rua 1 ; Coluna 3 ; Andar 4",
+      true
+    ],
+    [
+      "dbf7d3f6-523b-4e78-ae91-bf52715f24ba",
+      "Rua 1 ; Coluna 3 ; Andar 5",
+      true
+    ],
+    [
+      "b19620ea-6779-49be-9562-9f08bacb995a",
+      "Rua 1 ; Coluna 4 ; Andar 1",
+      true
+    ],
+    [
+      "fa21746a-556b-4ece-a18f-264927de82ca",
+      "Rua 1 ; Coluna 4 ; Andar 2",
+      true
+    ],
+    [
+      "3c7a4e3f-6452-4cd0-875b-a02814953380",
+      "Rua 1 ; Coluna 4 ; Andar 3",
+      true
+    ],
+    [
+      "c8756628-fb5a-4030-894e-8bb659daf052",
+      "Rua 1 ; Coluna 4 ; Andar 4",
+      true
+    ],
+    [
+      "bcbaca55-355a-4672-a942-d9f9b7e7b297",
+      "Rua 1 ; Coluna 4 ; Andar 5",
+      true
+    ],
+    [
+      "4400a767-a261-4d89-87fd-cad014efcade",
+      "Rua 1 ; Coluna 5 ; Andar 1",
+      true
+    ],
+    [
+      "372586bf-cbad-42c9-af27-c656065c22ac",
+      "Rua 1 ; Coluna 5 ; Andar 2",
+      true
+    ],
+    [
+      "98a8dc80-f20b-4859-b8a8-ae87bd86930f",
+      "Rua 1 ; Coluna 5 ; Andar 3",
+      true
+    ],
+    [
+      "78dc31ad-1d33-4329-98e4-d42957f96f9f",
+      "Rua 1 ; Coluna 5 ; Andar 4",
+      true
+    ],
+    [
+      "794a63a9-646f-427d-9427-35526f9d42af",
+      "Rua 1 ; Coluna 5 ; Andar 5",
+      true
+    ],
+    [
+      "c6935716-7e8e-40ac-85f6-ff78ae85f86b",
+      "Rua 1 ; Coluna 6 ; Andar 1",
+      true
+    ],
+    [
+      "db45dbd2-41cf-4009-8d68-a494a000421a",
+      "Rua 1 ; Coluna 6 ; Andar 2",
+      true
+    ],
+    [
+      "830c061e-11a8-4ab6-bac8-94ebaafcb5e7",
+      "Rua 1 ; Coluna 6 ; Andar 3",
+      true
+    ],
+    [
+      "17de2e99-cff5-4b58-ad61-73a5a4a535d9",
+      "Rua 1 ; Coluna 6 ; Andar 4",
+      true
+    ],
+    [
+      "a46fcbe8-7507-479a-9611-15ff9bf580de",
+      "Rua 1 ; Coluna 6 ; Andar 5",
+      true
+    ],
+    [
+      "9dc755db-9d01-4a21-8a25-7078d5aa1cd4",
+      "Rua 1 ; Coluna 7 ; Andar 1",
+      true
+    ],
+    [
+      "502622ae-4db2-48c4-a08b-6252343f53a0",
+      "Rua 1 ; Coluna 7 ; Andar 2",
+      true
+    ],
+    [
+      "df341170-006b-421d-802f-501243892763",
+      "Rua 1 ; Coluna 7 ; Andar 3",
+      true
+    ],
+    [
+      "646667b8-60e3-4038-8c5e-4c4a7e2708b5",
+      "Rua 1 ; Coluna 7 ; Andar 4",
+      true
+    ],
+    [
+      "9117bb10-1e78-4a92-ac41-d67fb4895c31",
+      "Rua 1 ; Coluna 7 ; Andar 5",
+      true
+    ],
+    [
+      "1e83eb52-74b7-4010-89db-8957135150e7",
+      "Rua 1 ; Coluna 8 ; Andar 1",
+      true
+    ],
+    [
+      "018369a8-ce84-4084-a1c2-46ebbd3cc66f",
+      "Rua 1 ; Coluna 8 ; Andar 2",
+      true
+    ],
+    [
+      "f693554e-f553-4043-9f42-3c0529a1ebc4",
+      "Rua 1 ; Coluna 8 ; Andar 3",
+      true
+    ],
+    [
+      "13338a9a-2669-409c-8292-0ac21018cac6",
+      "Rua 1 ; Coluna 8 ; Andar 4",
+      true
+    ],
+    [
+      "b2621958-048c-43ba-ae63-a949b9a68d8f",
+      "Rua 1 ; Coluna 8 ; Andar 5",
+      true
+    ],
+    [
+      "9bfc3370-a154-4f01-b3c4-db109e13f451",
+      "Rua 1 ; Coluna 9 ; Andar 1",
+      true
+    ],
+    [
+      "fc314bde-784f-4020-9911-66af569d19df",
+      "Rua 1 ; Coluna 9 ; Andar 2",
+      true
+    ],
+    [
+      "93eeefe5-6f64-4826-92e7-44eaf60ca0b7",
+      "Rua 1 ; Coluna 9 ; Andar 3",
+      true
+    ],
+    [
+      "623b6f39-5393-49f6-ac7d-38c96c48abaa",
+      "Rua 1 ; Coluna 9 ; Andar 4",
+      true
+    ],
+    [
+      "615c1853-ea93-4357-bcb4-c04f0f5d3045",
+      "Rua 1 ; Coluna 9 ; Andar 5",
+      true
+    ],
+    [
+      "5d24b031-d60f-4984-9add-02544e1fc049",
+      "Rua 1 ; Coluna 10 ; Andar 1",
+      true
+    ],
+    [
+      "769c02f3-37ba-42c8-8ff4-63700deb782e",
+      "Rua 1 ; Coluna 10 ; Andar 2",
+      true
+    ],
+    [
+      "982fc999-01b5-47ac-826c-f21b39fd7f34",
+      "Rua 1 ; Coluna 10 ; Andar 3",
+      true
+    ],
+    [
+      "2f389468-f61f-4887-8374-07a039eceadc",
+      "Rua 1 ; Coluna 10 ; Andar 4",
+      true
+    ],
+    [
+      "12aa75ba-e1be-4a09-9041-71bb5373fce2",
+      "Rua 1 ; Coluna 10 ; Andar 5",
+      true
+    ],
+    [
+      "9d17d6af-5ec3-4216-bebb-43ffa6a67669",
+      "Rua 2 ; Coluna 1 ; Andar 1",
+      true
+    ],
+    [
+      "91a015e6-ed8d-4013-a1bd-0fd89af3199c",
+      "Rua 2 ; Coluna 1 ; Andar 2",
+      true
+    ],
+    [
+      "4c9b8780-eeee-435f-9595-d9e55b41bb10",
+      "Rua 2 ; Coluna 1 ; Andar 3",
+      true
+    ],
+    [
+      "1f108aba-1288-4718-ac33-d165df244318",
+      "Rua 2 ; Coluna 1 ; Andar 4",
+      true
+    ],
+    [
+      "fecab916-b4b8-45b9-960c-705704e314a6",
+      "Rua 2 ; Coluna 1 ; Andar 5",
+      true
+    ],
+    [
+      "8375c1d4-e7a3-4fc0-b038-7bfea0bdaf03",
+      "Rua 2 ; Coluna 2 ; Andar 1",
+      true
+    ],
+    [
+      "9877f0ff-2338-4763-92f3-c8fb634c3eb5",
+      "Rua 2 ; Coluna 2 ; Andar 2",
+      true
+    ],
+    [
+      "4cd1fa16-e71e-49ab-8d42-2f0782dffa2b",
+      "Rua 2 ; Coluna 2 ; Andar 3",
+      true
+    ],
+    [
+      "205dd8fb-d3f2-4bf1-a8dc-0cf875fe3376",
+      "Rua 2 ; Coluna 2 ; Andar 4",
+      true
+    ],
+    [
+      "ad332b4e-3d0d-4e71-832d-f2a248fe9dc5",
+      "Rua 2 ; Coluna 2 ; Andar 5",
+      true
+    ],
+    [
+      "6cf176ba-1a9b-423d-bb2d-a6cb854ac7c3",
+      "Rua 2 ; Coluna 3 ; Andar 1",
+      true
+    ],
+    [
+      "9ffcd6c8-c115-453e-b7a7-7ee22ee7f637",
+      "Rua 2 ; Coluna 3 ; Andar 2",
+      true
+    ],
+    [
+      "db09f799-825f-4eab-99c7-a8e04dcdd898",
+      "Rua 2 ; Coluna 3 ; Andar 3",
+      true
+    ],
+    [
+      "f24fe162-2cef-4884-af04-790439498636",
+      "Rua 2 ; Coluna 3 ; Andar 4",
+      true
+    ],
+    [
+      "10b54b3f-8a86-4037-a363-30170128d618",
+      "Rua 2 ; Coluna 3 ; Andar 5",
+      true
+    ],
+    [
+      "067b7e0a-f395-41e7-b5f3-8350d4377f53",
+      "Rua 2 ; Coluna 4 ; Andar 1",
+      true
+    ],
+    [
+      "9817916a-06b7-4023-80fc-b5f6378e0652",
+      "Rua 2 ; Coluna 4 ; Andar 2",
+      true
+    ],
+    [
+      "4edd6f2b-46d6-40b7-ba39-6db0a6065871",
+      "Rua 2 ; Coluna 4 ; Andar 3",
+      true
+    ],
+    [
+      "42d73b25-b433-46bf-97c0-97209a6cd416",
+      "Rua 2 ; Coluna 4 ; Andar 4",
+      true
+    ],
+    [
+      "3e86ad3c-7cdb-472f-ac59-4c001e3875df",
+      "Rua 2 ; Coluna 4 ; Andar 5",
+      true
+    ],
+    [
+      "c012f926-c492-43f5-a15e-5f76c10f3c17",
+      "Rua 2 ; Coluna 5 ; Andar 1",
+      true
+    ],
+    [
+      "2afe2f06-8d3c-47a7-a43e-490eb7daf23a",
+      "Rua 2 ; Coluna 5 ; Andar 2",
+      true
+    ],
+    [
+      "0d73c880-6711-4cd3-8499-57db6722a2cf",
+      "Rua 2 ; Coluna 5 ; Andar 3",
+      true
+    ],
+    [
+      "f5be4a90-e526-46d2-ae81-12f9d02bd5d9",
+      "Rua 2 ; Coluna 5 ; Andar 4",
+      true
+    ],
+    [
+      "f1835c7d-0727-40ab-b408-c103c10cc8dc",
+      "Rua 2 ; Coluna 5 ; Andar 5",
+      true
+    ],
+    [
+      "ff84dbfb-6c8c-43bb-a496-fe719be1ae0b",
+      "Rua 2 ; Coluna 6 ; Andar 1",
+      true
+    ],
+    [
+      "7abd7ebc-11b1-4bd2-a1ab-419a7ee4ebb9",
+      "Rua 2 ; Coluna 6 ; Andar 2",
+      true
+    ],
+    [
+      "cd9cb6af-d601-4dae-93db-86448f60bfbe",
+      "Rua 2 ; Coluna 6 ; Andar 3",
+      true
+    ],
+    [
+      "e86bffa8-def5-4e76-840b-887eac23b244",
+      "Rua 2 ; Coluna 6 ; Andar 4",
+      true
+    ],
+    [
+      "e9582d32-4e12-4eac-9f87-e6d6edefdf9a",
+      "Rua 2 ; Coluna 6 ; Andar 5",
+      true
+    ],
+    [
+      "c70c422e-2f50-4235-9ef6-71b8056dd82e",
+      "Rua 2 ; Coluna 7 ; Andar 1",
+      true
+    ],
+    [
+      "0d652ae1-db24-45bc-b460-37fba4d614bc",
+      "Rua 2 ; Coluna 7 ; Andar 2",
+      true
+    ],
+    [
+      "fde78be6-2e67-4ac2-a3fe-895a90cf7a0c",
+      "Rua 2 ; Coluna 7 ; Andar 3",
+      true
+    ],
+    [
+      "88e94131-cf02-4047-88d9-432e546b7c30",
+      "Rua 2 ; Coluna 7 ; Andar 4",
+      true
+    ],
+    [
+      "fa084c84-dbe7-4f96-ad65-2fa7db1ccfad",
+      "Rua 2 ; Coluna 7 ; Andar 5",
+      true
+    ],
+    [
+      "37afabd5-58e9-4e6f-bec0-6c6065a9898b",
+      "Rua 2 ; Coluna 8 ; Andar 1",
+      true
+    ],
+    [
+      "8efce403-086e-479f-a29c-16b890260378",
+      "Rua 2 ; Coluna 8 ; Andar 2",
+      true
+    ],
+    [
+      "69813f5c-cf20-4d0a-a18d-8825769ace23",
+      "Rua 2 ; Coluna 8 ; Andar 3",
+      true
+    ],
+    [
+      "dc6e0e05-36ba-4f42-9f1f-6722744d588d",
+      "Rua 2 ; Coluna 8 ; Andar 4",
+      true
+    ],
+    [
+      "01d29389-70af-45d5-9648-ed33987be1b2",
+      "Rua 2 ; Coluna 8 ; Andar 5",
+      true
+    ],
+    [
+      "4ff3e997-c2de-4d0c-9066-3c3a3b3cae87",
+      "Rua 2 ; Coluna 9 ; Andar 1",
+      true
+    ],
+    [
+      "472fd2e6-09f6-47fd-a34e-b4cde184e043",
+      "Rua 2 ; Coluna 9 ; Andar 2",
+      true
+    ],
+    [
+      "d18540bb-ce22-4190-ac22-4a764af2be3d",
+      "Rua 2 ; Coluna 9 ; Andar 3",
+      true
+    ],
+    [
+      "3cc7593f-3d7b-4163-9e1f-5f66626ac745",
+      "Rua 2 ; Coluna 9 ; Andar 4",
+      true
+    ],
+    [
+      "5895ec2d-3c8d-4962-8900-a922083f859a",
+      "Rua 2 ; Coluna 9 ; Andar 5",
+      true
+    ],
+    [
+      "214e087c-0338-4aae-8e2d-1130be2439f5",
+      "Rua 2 ; Coluna 10 ; Andar 1",
+      true
+    ],
+    [
+      "dae05f15-95cb-49ca-b524-16357474b63c",
+      "Rua 2 ; Coluna 10 ; Andar 2",
+      true
+    ],
+    [
+      "71178025-4406-4977-a14f-c88d9c7b2d13",
+      "Rua 2 ; Coluna 10 ; Andar 3",
+      true
+    ],
+    [
+      "70fcbfd9-d2eb-412c-97f5-650f33937c46",
+      "Rua 2 ; Coluna 10 ; Andar 4",
+      true
+    ],
+    [
+      "43d68f3d-fc51-4e36-a99e-08a4fd0e4b03",
+      "Rua 2 ; Coluna 10 ; Andar 5",
+      true
+    ],
+    [
+      "4289e7a4-604b-42f9-8f66-769ad8b6690b",
+      "Rua 3 ; Coluna 1 ; Andar 1",
+      true
+    ],
+    [
+      "5655ebef-4ec7-477e-87f5-4f83d5970049",
+      "Rua 3 ; Coluna 1 ; Andar 2",
+      true
+    ],
+    [
+      "42f07672-6027-4968-b510-e6577b3f815e",
+      "Rua 3 ; Coluna 1 ; Andar 3",
+      true
+    ],
+    [
+      "b54a4ca4-0619-421a-8c7f-5939f69c4f33",
+      "Rua 3 ; Coluna 1 ; Andar 4",
+      true
+    ],
+    [
+      "a821d304-fe92-461c-8ff9-f8ddbb2b8897",
+      "Rua 3 ; Coluna 1 ; Andar 5",
+      true
+    ],
+    [
+      "7e5af9d1-f03f-47e1-9c75-9d277ebd8002",
+      "Rua 3 ; Coluna 2 ; Andar 1",
+      true
+    ],
+    [
+      "0b302cc0-09a8-4556-822b-8cf592809bee",
+      "Rua 3 ; Coluna 2 ; Andar 2",
+      true
+    ],
+    [
+      "28be5489-5b0c-40e0-9b51-9f1195913a30",
+      "Rua 3 ; Coluna 2 ; Andar 3",
+      true
+    ],
+    [
+      "b96395f8-b149-4782-9ca3-4e2c19ec2dc6",
+      "Rua 3 ; Coluna 2 ; Andar 4",
+      true
+    ],
+    [
+      "6e94885a-b09e-4e56-8eb6-7896ce7becea",
+      "Rua 3 ; Coluna 2 ; Andar 5",
+      true
+    ],
+    [
+      "30392d35-8c4b-4d13-bc90-78ffb4549b2a",
+      "Rua 3 ; Coluna 3 ; Andar 1",
+      true
+    ],
+    [
+      "8f66142b-f004-4dc4-9a70-3b6e8c5cd5f5",
+      "Rua 3 ; Coluna 3 ; Andar 2",
+      true
+    ],
+    [
+      "e5daec06-4fcc-4d46-bd64-c05e8492b0c7",
+      "Rua 3 ; Coluna 3 ; Andar 3",
+      true
+    ],
+    [
+      "9836f6e7-c51c-4759-8aed-cf6b1cd28f26",
+      "Rua 3 ; Coluna 3 ; Andar 4",
+      true
+    ],
+    [
+      "96a98731-3bb5-448a-87df-129b0cfcf460",
+      "Rua 3 ; Coluna 3 ; Andar 5",
+      true
+    ],
+    [
+      "796fc7d5-915e-475f-a802-178392b5ae0d",
+      "Rua 3 ; Coluna 4 ; Andar 1",
+      true
+    ],
+    [
+      "42d1fdbd-50ce-4717-8534-f707b16932f0",
+      "Rua 3 ; Coluna 4 ; Andar 2",
+      true
+    ],
+    [
+      "ff8fe496-52fa-4d3b-8051-c8854545f7d4",
+      "Rua 3 ; Coluna 4 ; Andar 3",
+      true
+    ],
+    [
+      "c2ba8769-c266-42be-a2b4-d799e1ac83ed",
+      "Rua 3 ; Coluna 4 ; Andar 4",
+      true
+    ],
+    [
+      "b6b7aec9-a4a7-474a-9de2-793c9dce9d53",
+      "Rua 3 ; Coluna 4 ; Andar 5",
+      true
+    ],
+    [
+      "28d63ee6-ade8-4f99-9bce-b6307fcb357b",
+      "Rua 3 ; Coluna 5 ; Andar 1",
+      true
+    ],
+    [
+      "444e2d12-eb6c-4c8f-a80e-9c71a706d00b",
+      "Rua 3 ; Coluna 5 ; Andar 2",
+      true
+    ],
+    [
+      "ebdf69e5-ae73-45f9-81f0-39d3f4d767a0",
+      "Rua 3 ; Coluna 5 ; Andar 3",
+      true
+    ],
+    [
+      "85b1dc93-c619-4e77-8f2a-de85ad39c765",
+      "Rua 3 ; Coluna 5 ; Andar 4",
+      true
+    ],
+    [
+      "924ee215-2101-4357-ac22-38a579e4a174",
+      "Rua 3 ; Coluna 5 ; Andar 5",
+      true
+    ],
+    [
+      "6ccea37d-f580-46d2-a011-99e606ca9bee",
+      "Rua 3 ; Coluna 6 ; Andar 1",
+      true
+    ],
+    [
+      "6dd53932-03b0-4403-9fc1-34f1e5a1b67b",
+      "Rua 3 ; Coluna 6 ; Andar 2",
+      true
+    ],
+    [
+      "38276332-c48c-4031-813b-1d51d8a9b178",
+      "Rua 3 ; Coluna 6 ; Andar 3",
+      true
+    ],
+    [
+      "4fd14e95-1646-4e30-9c51-28340b0e3d86",
+      "Rua 3 ; Coluna 6 ; Andar 4",
+      true
+    ],
+    [
+      "95b373eb-29e1-4f3f-ba01-b9d0ebf5f1e5",
+      "Rua 3 ; Coluna 6 ; Andar 5",
+      true
+    ],
+    [
+      "6931a7cf-3a23-4a6f-8789-2fac35848846",
+      "Rua 3 ; Coluna 7 ; Andar 1",
+      false
+    ],
+    [
+      "519125bb-ef83-4bc5-a6ea-9bc2bff67927",
+      "Rua 3 ; Coluna 7 ; Andar 2",
+      false
+    ],
+    [
+      "f7654b73-1895-422f-81e7-1fff63c06d03",
+      "Rua 3 ; Coluna 7 ; Andar 3",
+      false
+    ],
+    [
+      "536628d4-707c-42c9-a3ef-ae869e8c5bbd",
+      "Rua 3 ; Coluna 7 ; Andar 4",
+      false
+    ],
+    [
+      "606050e7-7d33-4523-b6f4-fee90837f64e",
+      "Rua 3 ; Coluna 7 ; Andar 5",
+      false
+    ],
+    [
+      "2005df1b-0523-4c27-ae9b-f75fca6dd228",
+      "Rua 3 ; Coluna 8 ; Andar 1",
+      false
+    ],
+    [
+      "f8d0da72-a98d-4027-b374-2a51a966a521",
+      "Rua 3 ; Coluna 8 ; Andar 2",
+      false
+    ],
+    [
+      "af900815-e2bc-482e-ae42-ff67fc76f175",
+      "Rua 3 ; Coluna 8 ; Andar 3",
+      false
+    ],
+    [
+      "56d1e578-32ec-4cba-bbe1-34b66906c1b4",
+      "Rua 3 ; Coluna 8 ; Andar 4",
+      false
+    ],
+    [
+      "16b1fa36-1029-4c2a-a690-8fc382d7b2d7",
+      "Rua 3 ; Coluna 8 ; Andar 5",
+      false
+    ],
+    [
+      "446d97c4-a210-4c78-8214-8d0e41cfddc5",
+      "Rua 3 ; Coluna 9 ; Andar 1",
+      false
+    ],
+    [
+      "d6ddd162-c2e3-4cca-8444-20f10bbb6e9c",
+      "Rua 3 ; Coluna 9 ; Andar 2",
+      false
+    ],
+    [
+      "b5ce9efa-52e8-40cd-bb0e-60b3b9fb3df5",
+      "Rua 3 ; Coluna 9 ; Andar 3",
+      false
+    ],
+    [
+      "c04bd403-8982-4dc9-8c3a-1897e2bfb156",
+      "Rua 3 ; Coluna 9 ; Andar 4",
+      false
+    ],
+    [
+      "8a191e00-e596-43eb-ab9e-5bcaf0d78d30",
+      "Rua 3 ; Coluna 9 ; Andar 5",
+      false
+    ],
+    [
+      "d614c434-4caf-448a-90d4-2428ae1e39e2",
+      "Rua 3 ; Coluna 10 ; Andar 1",
+      false
+    ],
+    [
+      "da9b8db7-6e7e-4522-a73c-139f5029c65b",
+      "Rua 3 ; Coluna 10 ; Andar 2",
+      false
+    ],
+    [
+      "4be5d13a-5cc7-40f2-b787-2458dcfad7d0",
+      "Rua 3 ; Coluna 10 ; Andar 3",
+      false
+    ],
+    [
+      "de7fb032-2217-4e01-ac00-79ef1a97a56b",
+      "Rua 3 ; Coluna 10 ; Andar 4",
+      false
+    ],
+    [
+      "1a36049b-0220-44f8-85d7-111c731a1e20",
+      "Rua 3 ; Coluna 10 ; Andar 5",
+      false
+    ],
+    [
+      "4e54f2a6-cae3-4e1d-8fab-c6d1876483a8",
+      "Rua 4 ; Coluna 1 ; Andar 1",
+      false
+    ],
+    [
+      "87c51ad0-14e5-4165-b9dc-fc8a045b4bc5",
+      "Rua 4 ; Coluna 1 ; Andar 2",
+      false
+    ],
+    [
+      "9a2a9dcf-f3cb-4040-9ec3-b276519cd22a",
+      "Rua 4 ; Coluna 1 ; Andar 3",
+      false
+    ],
+    [
+      "2cebc5da-bfed-4bd3-bb74-1582af6f048c",
+      "Rua 4 ; Coluna 1 ; Andar 4",
+      false
+    ],
+    [
+      "0d292880-543f-4840-ba16-2b50427bd767",
+      "Rua 4 ; Coluna 1 ; Andar 5",
+      false
+    ],
+    [
+      "48b33389-ca0f-42da-829e-59760300767e",
+      "Rua 4 ; Coluna 2 ; Andar 1",
+      false
+    ],
+    [
+      "0ee82559-4c96-4e6e-80d0-c47710734ec3",
+      "Rua 4 ; Coluna 2 ; Andar 2",
+      false
+    ],
+    [
+      "a6a66615-fa5e-44fa-a159-abd231c9c500",
+      "Rua 4 ; Coluna 2 ; Andar 3",
+      false
+    ],
+    [
+      "a7875f5f-44ce-4da7-920f-86a20a856e79",
+      "Rua 4 ; Coluna 2 ; Andar 4",
+      false
+    ],
+    [
+      "d07680d1-ff03-4a1d-9d6c-6761d9c8c63e",
+      "Rua 4 ; Coluna 2 ; Andar 5",
+      false
+    ],
+    [
+      "d462e7db-63c6-437c-a5f0-d131188493cc",
+      "Rua 4 ; Coluna 3 ; Andar 1",
+      false
+    ],
+    [
+      "86aac81a-0c25-409d-b281-0ea5c8578371",
+      "Rua 4 ; Coluna 3 ; Andar 2",
+      false
+    ],
+    [
+      "2bdb9321-7dd2-4269-9554-d81713226b3f",
+      "Rua 4 ; Coluna 3 ; Andar 3",
+      false
+    ],
+    [
+      "5feda0d9-4615-464c-a658-acadae2bbf02",
+      "Rua 4 ; Coluna 3 ; Andar 4",
+      false
+    ],
+    [
+      "89d6a5b6-1b0b-434b-81ac-8e57ddc84395",
+      "Rua 4 ; Coluna 3 ; Andar 5",
+      false
+    ],
+    [
+      "2cc98e9e-aee0-465c-8849-3b2e7f9660d5",
+      "Rua 4 ; Coluna 4 ; Andar 1",
+      false
+    ],
+    [
+      "f7b41645-dca6-42d9-bb49-82144968bcaf",
+      "Rua 4 ; Coluna 4 ; Andar 2",
+      false
+    ],
+    [
+      "9e2b8a6b-73e4-4534-ab12-73cfe54bf26c",
+      "Rua 4 ; Coluna 4 ; Andar 3",
+      false
+    ],
+    [
+      "1f861f84-c09a-4ac4-8b33-efd7b3e59833",
+      "Rua 4 ; Coluna 4 ; Andar 4",
+      false
+    ],
+    [
+      "090e1aa5-4842-4240-8341-f7ae9c6f15bd",
+      "Rua 4 ; Coluna 4 ; Andar 5",
+      false
+    ],
+    [
+      "129aba47-040f-40fb-978a-7a5a4d15c5b1",
+      "Rua 4 ; Coluna 5 ; Andar 1",
+      false
+    ],
+    [
+      "e8032e5b-6d75-4041-b10b-de3b81664c91",
+      "Rua 4 ; Coluna 5 ; Andar 2",
+      false
+    ],
+    [
+      "8971a2f7-148a-4fae-8b93-1d7adfeb56f0",
+      "Rua 4 ; Coluna 5 ; Andar 3",
+      false
+    ],
+    [
+      "e99398cd-06fc-4817-9213-44b0d78cd372",
+      "Rua 4 ; Coluna 5 ; Andar 4",
+      false
+    ],
+    [
+      "1c648dea-93c8-4c81-8b3c-085e04e4713d",
+      "Rua 4 ; Coluna 5 ; Andar 5",
+      false
+    ],
+    [
+      "3cc3c191-8866-4e8f-8514-af9a705e9492",
+      "Rua 4 ; Coluna 6 ; Andar 1",
+      false
+    ],
+    [
+      "4cc109cb-64b0-4eec-a8d1-5db8d2626979",
+      "Rua 4 ; Coluna 6 ; Andar 2",
+      false
+    ],
+    [
+      "ad466194-a4c2-49f2-9b66-e0d90d4e1219",
+      "Rua 4 ; Coluna 6 ; Andar 3",
+      false
+    ],
+    [
+      "dcbaca20-0813-4efb-a876-da43666c0ba3",
+      "Rua 4 ; Coluna 6 ; Andar 4",
+      false
+    ],
+    [
+      "343b5ff8-d70d-4664-806c-8ecd1c6cb099",
+      "Rua 4 ; Coluna 6 ; Andar 5",
+      false
+    ],
+    [
+      "9c5744cc-f61f-4a3f-a69a-1788cc299420",
+      "Rua 4 ; Coluna 7 ; Andar 1",
+      false
+    ],
+    [
+      "d8a973c3-ab65-4c3a-8c5d-34ed599880f8",
+      "Rua 4 ; Coluna 7 ; Andar 2",
+      false
+    ],
+    [
+      "7277d4d7-7c50-4698-ab1d-fbdc650d72b2",
+      "Rua 4 ; Coluna 7 ; Andar 3",
+      false
+    ],
+    [
+      "34d85d99-5ed6-49a8-8d79-a711bfafd28f",
+      "Rua 4 ; Coluna 7 ; Andar 4",
+      false
+    ],
+    [
+      "51c8ebda-1137-4f4d-a615-658059f39ccc",
+      "Rua 4 ; Coluna 7 ; Andar 5",
+      false
+    ],
+    [
+      "5349b1a1-3a5e-44aa-ac98-608dff6915ae",
+      "Rua 4 ; Coluna 8 ; Andar 1",
+      false
+    ],
+    [
+      "8cfd9140-1be1-476e-a879-50003b31b10d",
+      "Rua 4 ; Coluna 8 ; Andar 2",
+      false
+    ],
+    [
+      "687c0cfa-b577-41ee-87e0-e8bf6302f5b1",
+      "Rua 4 ; Coluna 8 ; Andar 3",
+      false
+    ],
+    [
+      "fdaaa8eb-a05d-4134-9cec-71c131979b04",
+      "Rua 4 ; Coluna 8 ; Andar 4",
+      false
+    ],
+    [
+      "bffed38e-a143-4eda-9cf7-cac6dba6c9fb",
+      "Rua 4 ; Coluna 8 ; Andar 5",
+      false
+    ],
+    [
+      "c7861ec2-df29-4023-b041-9d297b08efd0",
+      "Rua 4 ; Coluna 9 ; Andar 1",
+      false
+    ],
+    [
+      "6572327e-c659-49c7-9941-4c3889b044aa",
+      "Rua 4 ; Coluna 9 ; Andar 2",
+      false
+    ],
+    [
+      "34e2c506-f5ac-4407-8f53-19a75e094b1f",
+      "Rua 4 ; Coluna 9 ; Andar 3",
+      false
+    ],
+    [
+      "37b22d6d-415c-421a-8767-72ff8072f53c",
+      "Rua 4 ; Coluna 9 ; Andar 4",
+      false
+    ],
+    [
+      "8099cd10-8463-40c0-92bd-c6bf371a6568",
+      "Rua 4 ; Coluna 9 ; Andar 5",
+      false
+    ],
+    [
+      "3566fdde-4ab1-4b66-9c9e-a402cd2d955a",
+      "Rua 4 ; Coluna 10 ; Andar 1",
+      false
+    ],
+    [
+      "0c73cca4-f210-4fd1-91c5-29f5f1c88ec3",
+      "Rua 4 ; Coluna 10 ; Andar 2",
+      false
+    ],
+    [
+      "b6dcca11-446f-4b59-b2cb-e5f8503497bc",
+      "Rua 4 ; Coluna 10 ; Andar 3",
+      false
+    ],
+    [
+      "176033ed-fd12-4f76-89d1-8a5b37e08d55",
+      "Rua 4 ; Coluna 10 ; Andar 4",
+      false
+    ],
+    [
+      "e8ceb67e-09d7-4647-80e5-174475c72381",
+      "Rua 4 ; Coluna 10 ; Andar 5",
+      false
+    ],
+    [
+      "578f027c-3491-4855-931a-edeb0a41046e",
+      "Rua 5 ; Coluna 1 ; Andar 1",
+      false
+    ],
+    [
+      "bdafe90c-df3d-4bde-8184-086fe0059096",
+      "Rua 5 ; Coluna 1 ; Andar 2",
+      false
+    ],
+    [
+      "f6db739d-8140-4b9c-b25e-782c2c6cb814",
+      "Rua 5 ; Coluna 1 ; Andar 3",
+      false
+    ],
+    [
+      "ee39cb92-ff21-45eb-9e38-8a1bf45365c8",
+      "Rua 5 ; Coluna 1 ; Andar 4",
+      false
+    ],
+    [
+      "aa7a03e1-50d8-4240-b0ac-3e6d53798c5f",
+      "Rua 5 ; Coluna 1 ; Andar 5",
+      false
+    ],
+    [
+      "f15169ae-f39a-45c8-abc5-b8cac1bf19a5",
+      "Rua 5 ; Coluna 2 ; Andar 1",
+      false
+    ],
+    [
+      "7c8c724e-e7c2-4f32-adb0-7fb72bc566a3",
+      "Rua 5 ; Coluna 2 ; Andar 2",
+      false
+    ],
+    [
+      "34d3822c-17e6-4b4c-ac48-9bfe72d45346",
+      "Rua 5 ; Coluna 2 ; Andar 3",
+      false
+    ],
+    [
+      "f2144d60-faf1-4c74-b1e3-94c0d0091c5a",
+      "Rua 5 ; Coluna 2 ; Andar 4",
+      false
+    ],
+    [
+      "33ba7341-1bf2-4259-b23b-0fd000c0b5bd",
+      "Rua 5 ; Coluna 2 ; Andar 5",
+      false
+    ],
+    [
+      "794027ad-3719-4189-8d1a-6ad4257d98d0",
+      "Rua 5 ; Coluna 3 ; Andar 1",
+      false
+    ],
+    [
+      "04fa6cb1-5ab6-46fd-85ce-178339160a86",
+      "Rua 5 ; Coluna 3 ; Andar 2",
+      false
+    ],
+    [
+      "f431f197-147d-4df4-bbe9-091a51c1b5fb",
+      "Rua 5 ; Coluna 3 ; Andar 3",
+      false
+    ],
+    [
+      "763b7be2-e77a-4fda-bb76-18c6b40c5801",
+      "Rua 5 ; Coluna 3 ; Andar 4",
+      false
+    ],
+    [
+      "0183315a-c2e2-494e-a894-eb116781f784",
+      "Rua 5 ; Coluna 3 ; Andar 5",
+      false
+    ],
+    [
+      "1707d84d-9088-46a5-8b4b-7ac1d98c0646",
+      "Rua 5 ; Coluna 4 ; Andar 1",
+      false
+    ],
+    [
+      "8d34162a-88a6-4cae-8278-4b6cfd76e5e3",
+      "Rua 5 ; Coluna 4 ; Andar 2",
+      false
+    ],
+    [
+      "24b0115f-8764-4f2b-8790-1051a7637228",
+      "Rua 5 ; Coluna 4 ; Andar 3",
+      false
+    ],
+    [
+      "595ede0f-6f93-4181-b50e-579e0293fdb2",
+      "Rua 5 ; Coluna 4 ; Andar 4",
+      false
+    ],
+    [
+      "d23be65c-c973-49d9-ac15-24ae3ed73727",
+      "Rua 5 ; Coluna 4 ; Andar 5",
+      false
+    ],
+    [
+      "b8216b1a-0d2d-415d-ba7a-165985c0eed5",
+      "Rua 5 ; Coluna 5 ; Andar 1",
+      false
+    ],
+    [
+      "dc52c65a-972c-4114-91db-04e68b075019",
+      "Rua 5 ; Coluna 5 ; Andar 2",
+      false
+    ],
+    [
+      "b30e0817-6ed3-48a0-8ce3-0025f479c183",
+      "Rua 5 ; Coluna 5 ; Andar 3",
+      false
+    ],
+    [
+      "ffa8f4c6-0a0c-47ce-90ab-c87e8f9bc732",
+      "Rua 5 ; Coluna 5 ; Andar 4",
+      false
+    ],
+    [
+      "eb9f48ef-86f1-4355-804f-569096bf3348",
+      "Rua 5 ; Coluna 5 ; Andar 5",
+      false
+    ],
+    [
+      "050f2e4f-8ed5-4d34-b142-ef0dc66662e6",
+      "Rua 5 ; Coluna 6 ; Andar 1",
+      false
+    ],
+    [
+      "409a8e45-2ab7-4275-960c-802da3907e87",
+      "Rua 5 ; Coluna 6 ; Andar 2",
+      false
+    ],
+    [
+      "a98ac118-cb4c-4e86-9a80-69c73857fd69",
+      "Rua 5 ; Coluna 6 ; Andar 3",
+      false
+    ],
+    [
+      "3968f629-4bda-4690-88d5-cab47e0125f3",
+      "Rua 5 ; Coluna 6 ; Andar 4",
+      false
+    ],
+    [
+      "994ca1e1-ce63-4130-a0fe-c8fc2012eb42",
+      "Rua 5 ; Coluna 6 ; Andar 5",
+      false
+    ],
+    [
+      "19cfad48-2b8e-43c6-afc5-6767d251ccbe",
+      "Rua 5 ; Coluna 7 ; Andar 1",
+      false
+    ],
+    [
+      "767ab83f-6f74-4dd4-859c-3dce766cc21c",
+      "Rua 5 ; Coluna 7 ; Andar 2",
+      false
+    ],
+    [
+      "8daa2e4b-4066-46ad-80a1-1f2526415434",
+      "Rua 5 ; Coluna 7 ; Andar 3",
+      false
+    ],
+    [
+      "de1531c7-3fa3-47fd-884d-fdef8efd7214",
+      "Rua 5 ; Coluna 7 ; Andar 4",
+      false
+    ],
+    [
+      "2e25077a-ed3c-4f7f-b866-fda586d1643f",
+      "Rua 5 ; Coluna 7 ; Andar 5",
+      false
+    ],
+    [
+      "6faac09b-07ca-4c28-af8e-6f4eaf9a3942",
+      "Rua 5 ; Coluna 8 ; Andar 1",
+      false
+    ],
+    [
+      "b6c6784d-ac29-4b9b-8a2f-460802d9bade",
+      "Rua 5 ; Coluna 8 ; Andar 2",
+      false
+    ],
+    [
+      "966ccdcb-8aa0-484e-8a24-1d0114ac11b9",
+      "Rua 5 ; Coluna 8 ; Andar 3",
+      false
+    ],
+    [
+      "509c98a1-2536-41bb-bc3e-53e4ce81b8bd",
+      "Rua 5 ; Coluna 8 ; Andar 4",
+      false
+    ],
+    [
+      "6fe8b976-c242-4bbb-a8f2-991029c94780",
+      "Rua 5 ; Coluna 8 ; Andar 5",
+      false
+    ],
+    [
+      "3fb81183-b5d0-4b7a-82a7-a81b974e2ef6",
+      "Rua 5 ; Coluna 9 ; Andar 1",
+      false
+    ],
+    [
+      "004cfd17-13ff-487a-ae8b-7c4349b66599",
+      "Rua 5 ; Coluna 9 ; Andar 2",
+      false
+    ],
+    [
+      "58ac42df-b63d-4b0f-87cf-c338f2c146d6",
+      "Rua 5 ; Coluna 9 ; Andar 3",
+      false
+    ],
+    [
+      "a1812375-4f58-4725-8f73-dc322db09d37",
+      "Rua 5 ; Coluna 9 ; Andar 4",
+      false
+    ],
+    [
+      "81f65db9-ab4d-40ac-aabe-325ba4ac2f4c",
+      "Rua 5 ; Coluna 9 ; Andar 5",
+      false
+    ],
+    [
+      "30e8db1b-d77d-4955-ae67-237c99b4bac9",
+      "Rua 5 ; Coluna 10 ; Andar 1",
+      false
+    ],
+    [
+      "978c4260-a9b2-471e-8664-9e8f9abe602e",
+      "Rua 5 ; Coluna 10 ; Andar 2",
+      false
+    ],
+    [
+      "3aa610c6-e6da-4f22-a63a-1c794940569d",
+      "Rua 5 ; Coluna 10 ; Andar 3",
+      false
+    ],
+    [
+      "c16d5273-ce50-471e-bab7-0aa85e7725bc",
+      "Rua 5 ; Coluna 10 ; Andar 4",
+      false
+    ],
+    [
+      "d1cda0bc-11a2-4b94-87b7-062881d3abab",
+      "Rua 5 ; Coluna 10 ; Andar 5",
+      false
+    ],
+    [
+      "19754ea8-de2a-4460-9985-9f600e494acf",
+      "Rua 6 ; Coluna 1 ; Andar 1",
+      false
+    ],
+    [
+      "b90042a0-5db2-480e-aaec-43c6026e4a77",
+      "Rua 6 ; Coluna 1 ; Andar 2",
+      false
+    ],
+    [
+      "d53dde58-59fa-4c53-8ce3-0189415dc392",
+      "Rua 6 ; Coluna 1 ; Andar 3",
+      false
+    ],
+    [
+      "dacb819f-69ff-42a9-b564-981cbc2ee578",
+      "Rua 6 ; Coluna 1 ; Andar 4",
+      false
+    ],
+    [
+      "1a7dadab-40fd-426f-849b-2cd1a9cae381",
+      "Rua 6 ; Coluna 1 ; Andar 5",
+      false
+    ],
+    [
+      "537bef00-1d47-40b6-86a1-75430c20746a",
+      "Rua 6 ; Coluna 2 ; Andar 1",
+      false
+    ],
+    [
+      "fc0001fc-2b04-4583-a1c5-d49704bc7a0a",
+      "Rua 6 ; Coluna 2 ; Andar 2",
+      false
+    ],
+    [
+      "dcfd4498-52e4-41bd-8d91-18f5aaa4662c",
+      "Rua 6 ; Coluna 2 ; Andar 3",
+      false
+    ],
+    [
+      "fdf303c8-5ae0-4ce6-9cb6-1a3519880d54",
+      "Rua 6 ; Coluna 2 ; Andar 4",
+      false
+    ],
+    [
+      "d9d923b3-aaec-44e5-8e35-76a7167a02f7",
+      "Rua 6 ; Coluna 2 ; Andar 5",
+      false
+    ],
+    [
+      "63b55e17-2fb8-47b3-887a-52ee14989cc5",
+      "Rua 6 ; Coluna 3 ; Andar 1",
+      false
+    ],
+    [
+      "e3734b11-625f-4d9d-b506-cf61577b622d",
+      "Rua 6 ; Coluna 3 ; Andar 2",
+      false
+    ],
+    [
+      "28c9b646-c8c6-45bb-9981-3e4db434e26b",
+      "Rua 6 ; Coluna 3 ; Andar 3",
+      false
+    ],
+    [
+      "1e88e429-dab6-423c-979e-44a2b5ec2542",
+      "Rua 6 ; Coluna 3 ; Andar 4",
+      false
+    ],
+    [
+      "0f1e5bdd-fa4a-4bf7-bfee-65d0e40fd08f",
+      "Rua 6 ; Coluna 3 ; Andar 5",
+      false
+    ],
+    [
+      "803a88e4-4ae9-448a-8a96-d6eb90bb3e8f",
+      "Rua 6 ; Coluna 4 ; Andar 1",
+      false
+    ],
+    [
+      "8a4bb267-db20-439d-8706-ea68323fe566",
+      "Rua 6 ; Coluna 4 ; Andar 2",
+      false
+    ],
+    [
+      "cc3ccb8b-c8aa-46bf-8ef5-8ea46ba93d6c",
+      "Rua 6 ; Coluna 4 ; Andar 3",
+      false
+    ],
+    [
+      "40ffc716-1530-4185-a184-c6f7c109acc5",
+      "Rua 6 ; Coluna 4 ; Andar 4",
+      false
+    ],
+    [
+      "4db186f5-ecbd-4e65-a0c0-23019a66c1b3",
+      "Rua 6 ; Coluna 4 ; Andar 5",
+      false
+    ],
+    [
+      "99f29464-2ba5-4490-a53c-41f84325ed5d",
+      "Rua 6 ; Coluna 5 ; Andar 1",
+      false
+    ],
+    [
+      "a11ae95a-0dbe-4a1b-8297-2c918ab18b65",
+      "Rua 6 ; Coluna 5 ; Andar 2",
+      false
+    ],
+    [
+      "118041f7-cb16-4056-8634-d3231dbb3979",
+      "Rua 6 ; Coluna 5 ; Andar 3",
+      false
+    ],
+    [
+      "1cfe3c69-bafa-4b1a-9da9-cec994f47bfa",
+      "Rua 6 ; Coluna 5 ; Andar 4",
+      false
+    ],
+    [
+      "ec4c5867-2ccc-47da-8fd9-8665198812a3",
+      "Rua 6 ; Coluna 5 ; Andar 5",
+      false
+    ],
+    [
+      "3957146a-e7a3-4e48-bfc9-10976eb55740",
+      "Rua 6 ; Coluna 6 ; Andar 1",
+      false
+    ],
+    [
+      "d84d07f3-3521-4169-a6ee-39e31bab6cbb",
+      "Rua 6 ; Coluna 6 ; Andar 2",
+      false
+    ],
+    [
+      "a66bca60-7718-4b5e-850a-d69f7d56bfe2",
+      "Rua 6 ; Coluna 6 ; Andar 3",
+      false
+    ],
+    [
+      "b09e30e1-9690-4b54-9b78-498aad2e4f24",
+      "Rua 6 ; Coluna 6 ; Andar 4",
+      false
+    ],
+    [
+      "5ecae1a3-9f1a-40eb-9c8d-0e7e93077293",
+      "Rua 6 ; Coluna 6 ; Andar 5",
+      false
+    ],
+    [
+      "eb0e4eac-f643-4bf6-b6f3-9a7efee21f41",
+      "Rua 6 ; Coluna 7 ; Andar 1",
+      false
+    ],
+    [
+      "37c041dc-bf7e-45e4-93ba-2420db9b35ed",
+      "Rua 6 ; Coluna 7 ; Andar 2",
+      false
+    ],
+    [
+      "93ae76fa-b7cb-43c8-8961-38e0bb003ac5",
+      "Rua 6 ; Coluna 7 ; Andar 3",
+      false
+    ],
+    [
+      "06e7b2dd-1b81-4f94-82c4-2f63d3347cb6",
+      "Rua 6 ; Coluna 7 ; Andar 4",
+      false
+    ],
+    [
+      "85186f55-9dad-44e0-890d-4294014bde39",
+      "Rua 6 ; Coluna 7 ; Andar 5",
+      false
+    ],
+    [
+      "7bd597d4-9887-48a7-954a-2dfb4a4a9198",
+      "Rua 6 ; Coluna 8 ; Andar 1",
+      false
+    ],
+    [
+      "d3e76624-2789-4375-9ceb-1a0be42e28de",
+      "Rua 6 ; Coluna 8 ; Andar 2",
+      false
+    ],
+    [
+      "8020adb2-577a-4850-888c-e8a60ee62608",
+      "Rua 6 ; Coluna 8 ; Andar 3",
+      false
+    ],
+    [
+      "a07b5bda-0ed0-47e7-b978-95788a9e8c45",
+      "Rua 6 ; Coluna 8 ; Andar 4",
+      false
+    ],
+    [
+      "2677e0ba-8f7a-4c8a-b3b2-3020b28a0dc1",
+      "Rua 6 ; Coluna 8 ; Andar 5",
+      false
+    ],
+    [
+      "c5394055-cbd1-4279-85dc-1233bb35696b",
+      "Rua 6 ; Coluna 9 ; Andar 1",
+      false
+    ],
+    [
+      "5d091a52-f7d6-4722-8cea-51279d8d0c31",
+      "Rua 6 ; Coluna 9 ; Andar 2",
+      false
+    ],
+    [
+      "dfd98847-b197-4ea7-9b5d-3950482acfe9",
+      "Rua 6 ; Coluna 9 ; Andar 3",
+      false
+    ],
+    [
+      "eca44442-8574-4a63-be16-369169545a49",
+      "Rua 6 ; Coluna 9 ; Andar 4",
+      false
+    ],
+    [
+      "995a0f4c-27a0-4e1c-a6eb-fe23391df1ac",
+      "Rua 6 ; Coluna 9 ; Andar 5",
+      false
+    ],
+    [
+      "726952ab-732f-43bd-977d-dfd458672dc6",
+      "Rua 6 ; Coluna 10 ; Andar 1",
+      false
+    ],
+    [
+      "1286b5a0-d92c-46e5-9581-2ce579cf6d00",
+      "Rua 6 ; Coluna 10 ; Andar 2",
+      false
+    ],
+    [
+      "f4966a07-5646-423d-a7f3-295f0467b705",
+      "Rua 6 ; Coluna 10 ; Andar 3",
+      false
+    ],
+    [
+      "aa170981-1c5e-43e4-b7b5-415eb933144b",
+      "Rua 6 ; Coluna 10 ; Andar 4",
+      false
+    ],
+    [
+      "a42f0ac2-420c-493f-ab34-847aed39c40d",
+      "Rua 6 ; Coluna 10 ; Andar 5",
+      false
+    ],
+    [
+      "07b5e719-614a-4f22-97f4-d32f4172671a",
+      "Rua 7 ; Coluna 1 ; Andar 1",
+      false
+    ],
+    [
+      "e7f00e25-ca53-4b33-b427-2c1b426e6598",
+      "Rua 7 ; Coluna 1 ; Andar 2",
+      false
+    ],
+    [
+      "3fa7c989-0426-4d1f-8641-e4d444f5e7eb",
+      "Rua 7 ; Coluna 1 ; Andar 3",
+      false
+    ],
+    [
+      "9d410993-78ea-428e-998b-eb8d62ea30f0",
+      "Rua 7 ; Coluna 1 ; Andar 4",
+      false
+    ],
+    [
+      "4c35d6db-8eaa-4a9f-89ff-e93602d0234d",
+      "Rua 7 ; Coluna 1 ; Andar 5",
+      false
+    ],
+    [
+      "44517497-14be-4a67-9702-f6c086dc1818",
+      "Rua 7 ; Coluna 2 ; Andar 1",
+      false
+    ],
+    [
+      "8e8961d4-7bc7-4253-bfbf-c5b2bb2a3e1b",
+      "Rua 7 ; Coluna 2 ; Andar 2",
+      false
+    ],
+    [
+      "a36f40fc-c751-4cc5-8d98-1c176c05aaca",
+      "Rua 7 ; Coluna 2 ; Andar 3",
+      false
+    ],
+    [
+      "fda38a09-af52-4177-91db-251e4753fd8a",
+      "Rua 7 ; Coluna 2 ; Andar 4",
+      false
+    ],
+    [
+      "4ef03d38-8834-42de-b739-736e9f3e3ee3",
+      "Rua 7 ; Coluna 2 ; Andar 5",
+      false
+    ],
+    [
+      "393a801b-dcdb-4eb5-881a-9753a459d197",
+      "Rua 7 ; Coluna 3 ; Andar 1",
+      false
+    ],
+    [
+      "84d1837a-4330-4bb7-a482-6021b47e4491",
+      "Rua 7 ; Coluna 3 ; Andar 2",
+      false
+    ],
+    [
+      "e5126d1a-1943-4791-a884-99e28c39ebd4",
+      "Rua 7 ; Coluna 3 ; Andar 3",
+      false
+    ],
+    [
+      "93e3b956-293e-4e10-bfe7-125baa73e5df",
+      "Rua 7 ; Coluna 3 ; Andar 4",
+      false
+    ],
+    [
+      "815278ea-0703-4a6c-afe0-1bc2b4a65308",
+      "Rua 7 ; Coluna 3 ; Andar 5",
+      false
+    ],
+    [
+      "24ae8f4a-a6a4-4827-b002-8a2f3573f5b9",
+      "Rua 7 ; Coluna 4 ; Andar 1",
+      false
+    ],
+    [
+      "ef9d8678-e4d8-4ba6-87fe-e751bd181b73",
+      "Rua 7 ; Coluna 4 ; Andar 2",
+      false
+    ],
+    [
+      "e56fd26a-f1bd-49fb-b53a-d8f041290507",
+      "Rua 7 ; Coluna 4 ; Andar 3",
+      false
+    ],
+    [
+      "4e61abe5-f405-4179-9010-017b4730cd97",
+      "Rua 7 ; Coluna 4 ; Andar 4",
+      false
+    ],
+    [
+      "1ca1fe88-9965-484b-a225-e57148d9ac32",
+      "Rua 7 ; Coluna 4 ; Andar 5",
+      false
+    ],
+    [
+      "c880b852-8199-477f-9a84-7f61f2b9a257",
+      "Rua 7 ; Coluna 5 ; Andar 1",
+      false
+    ],
+    [
+      "8d945fa0-052a-4db9-a752-c1fc1acca59d",
+      "Rua 7 ; Coluna 5 ; Andar 2",
+      false
+    ],
+    [
+      "f95c0976-cedd-4744-af93-8ebcdcfb43ae",
+      "Rua 7 ; Coluna 5 ; Andar 3",
+      false
+    ],
+    [
+      "a9a4d310-69ea-4f8b-bf44-c478306f01a6",
+      "Rua 7 ; Coluna 5 ; Andar 4",
+      false
+    ],
+    [
+      "11198b90-1851-4303-931c-c0c055eb8026",
+      "Rua 7 ; Coluna 5 ; Andar 5",
+      false
+    ],
+    [
+      "572baa3e-df52-4430-b46c-50e87ce416d6",
+      "Rua 7 ; Coluna 6 ; Andar 1",
+      false
+    ],
+    [
+      "60a1b5ad-7063-4db6-9c26-389adcb70ea8",
+      "Rua 7 ; Coluna 6 ; Andar 2",
+      false
+    ],
+    [
+      "79a0b457-1b6a-4ab3-9585-81e931fe4e5a",
+      "Rua 7 ; Coluna 6 ; Andar 3",
+      false
+    ],
+    [
+      "40e92a7e-f054-4e1f-b6b8-d354c8dd1d4b",
+      "Rua 7 ; Coluna 6 ; Andar 4",
+      false
+    ],
+    [
+      "13820217-701e-4f9b-bd70-c62b857b428c",
+      "Rua 7 ; Coluna 6 ; Andar 5",
+      false
+    ],
+    [
+      "418ad6ed-cad5-43fc-a0cb-63fb9f7f8e30",
+      "Rua 7 ; Coluna 7 ; Andar 1",
+      false
+    ],
+    [
+      "c0119ffd-3cff-44a1-86c3-7bad4c6a5ebb",
+      "Rua 7 ; Coluna 7 ; Andar 2",
+      false
+    ],
+    [
+      "f7aefdc5-aec1-4bf4-998f-5e63c6ce3a06",
+      "Rua 7 ; Coluna 7 ; Andar 3",
+      false
+    ],
+    [
+      "56766bd7-2e3c-4a20-befe-2d89f5a7a414",
+      "Rua 7 ; Coluna 7 ; Andar 4",
+      false
+    ],
+    [
+      "16ab2fd2-7843-4ed9-b65b-81fd9acbf280",
+      "Rua 7 ; Coluna 7 ; Andar 5",
+      false
+    ],
+    [
+      "54f68b82-abdf-43b4-a805-cfe8976b4b7c",
+      "Rua 7 ; Coluna 8 ; Andar 1",
+      false
+    ],
+    [
+      "872d3043-16c1-4dfa-b275-1fda5c0c206f",
+      "Rua 7 ; Coluna 8 ; Andar 2",
+      false
+    ],
+    [
+      "b57ea531-9775-419e-bbce-98814504f2a3",
+      "Rua 7 ; Coluna 8 ; Andar 3",
+      false
+    ],
+    [
+      "d4bec4f2-e720-4007-8c53-4ee0c848f0be",
+      "Rua 7 ; Coluna 8 ; Andar 4",
+      false
+    ],
+    [
+      "3a3fbbaa-1abf-4a9b-97d3-c02c5776aa48",
+      "Rua 7 ; Coluna 8 ; Andar 5",
+      false
+    ],
+    [
+      "b8db9501-7ecc-426c-b130-a4d0a9764555",
+      "Rua 7 ; Coluna 9 ; Andar 1",
+      false
+    ],
+    [
+      "61618777-41c3-42fe-a405-01beaec4b9bd",
+      "Rua 7 ; Coluna 9 ; Andar 2",
+      false
+    ],
+    [
+      "73ac0bd2-b96e-4e63-a240-127b67b68470",
+      "Rua 7 ; Coluna 9 ; Andar 3",
+      false
+    ],
+    [
+      "cd108101-499d-4c39-9bcd-8caaf785240c",
+      "Rua 7 ; Coluna 9 ; Andar 4",
+      false
+    ],
+    [
+      "ee90696c-545c-4abf-a095-ae30f1d5be5c",
+      "Rua 7 ; Coluna 9 ; Andar 5",
+      false
+    ],
+    [
+      "ca847be2-b84c-4e8b-a893-c2ebc4d835e8",
+      "Rua 7 ; Coluna 10 ; Andar 1",
+      false
+    ],
+    [
+      "94a79de1-ca1a-41c3-9f7d-0f62043927c0",
+      "Rua 7 ; Coluna 10 ; Andar 2",
+      false
+    ],
+    [
+      "dff4cef8-4d41-4d62-b3f6-359223a5602b",
+      "Rua 7 ; Coluna 10 ; Andar 3",
+      false
+    ],
+    [
+      "63eab505-d5a8-4a42-9565-12529070c197",
+      "Rua 7 ; Coluna 10 ; Andar 4",
+      false
+    ],
+    [
+      "b50fb671-6d8c-47be-ba22-4cf1242f8dd0",
+      "Rua 7 ; Coluna 10 ; Andar 5",
+      false
+    ],
+    [
+      "c89c2bb4-6e1c-4db7-b0f0-09072325f8cb",
+      "Rua 8 ; Coluna 1 ; Andar 1",
+      false
+    ],
+    [
+      "3a36c1b9-2097-497e-95f0-893f39edb60c",
+      "Rua 8 ; Coluna 1 ; Andar 2",
+      false
+    ],
+    [
+      "36c3a3a2-14e4-4706-9816-5be188966949",
+      "Rua 8 ; Coluna 1 ; Andar 3",
+      false
+    ],
+    [
+      "b7d3b7ba-6fca-4e94-870e-1227bbba9855",
+      "Rua 8 ; Coluna 1 ; Andar 4",
+      false
+    ],
+    [
+      "e2a9b7b7-fe93-48d0-a6df-7089f1ed284c",
+      "Rua 8 ; Coluna 1 ; Andar 5",
+      false
+    ],
+    [
+      "f35a393e-6ae3-4639-8121-4e0335543005",
+      "Rua 8 ; Coluna 2 ; Andar 1",
+      false
+    ],
+    [
+      "a1a6c7a0-0a82-4204-b99e-6f3af2ad4d8c",
+      "Rua 8 ; Coluna 2 ; Andar 2",
+      false
+    ],
+    [
+      "e5b19883-120f-45ac-bd4f-8734ce425b77",
+      "Rua 8 ; Coluna 2 ; Andar 3",
+      false
+    ],
+    [
+      "6e25fcc3-8037-421e-8a4d-c1e4fbfb2117",
+      "Rua 8 ; Coluna 2 ; Andar 4",
+      false
+    ],
+    [
+      "1275ecfb-9bbf-41bc-a2a5-c992b3b2e781",
+      "Rua 8 ; Coluna 2 ; Andar 5",
+      false
+    ],
+    [
+      "34fa303b-435b-4dec-8279-1991c757c038",
+      "Rua 8 ; Coluna 3 ; Andar 1",
+      false
+    ],
+    [
+      "94676dd9-38f1-4a78-81cb-96128f3322ed",
+      "Rua 8 ; Coluna 3 ; Andar 2",
+      false
+    ],
+    [
+      "82f422f8-6113-42b3-b510-0a03440973e5",
+      "Rua 8 ; Coluna 3 ; Andar 3",
+      false
+    ],
+    [
+      "8b5d2a68-ab26-43f9-9cb4-076c69670d3a",
+      "Rua 8 ; Coluna 3 ; Andar 4",
+      false
+    ],
+    [
+      "4e42a455-e758-4806-94e4-a506c9050df2",
+      "Rua 8 ; Coluna 3 ; Andar 5",
+      false
+    ],
+    [
+      "88b10925-1778-4818-a94e-31ce665324d4",
+      "Rua 8 ; Coluna 4 ; Andar 1",
+      false
+    ],
+    [
+      "f1b07efa-1a0b-4477-8d4f-c922082be84a",
+      "Rua 8 ; Coluna 4 ; Andar 2",
+      false
+    ],
+    [
+      "9bfdec94-d745-4df8-9a7d-bd8196ac91f8",
+      "Rua 8 ; Coluna 4 ; Andar 3",
+      false
+    ],
+    [
+      "7822b991-f80c-4eeb-bc51-0b4f26fa0782",
+      "Rua 8 ; Coluna 4 ; Andar 4",
+      false
+    ],
+    [
+      "0be85f20-d4d6-4d7a-b74a-c961371d2923",
+      "Rua 8 ; Coluna 4 ; Andar 5",
+      false
+    ],
+    [
+      "60413948-735a-41cd-87c7-847807d46ceb",
+      "Rua 8 ; Coluna 5 ; Andar 1",
+      false
+    ],
+    [
+      "720b4da9-c5e5-4ead-94e0-3726f57d7550",
+      "Rua 8 ; Coluna 5 ; Andar 2",
+      false
+    ],
+    [
+      "a0ff1f3c-bc71-4c73-adad-3aafcd96c97e",
+      "Rua 8 ; Coluna 5 ; Andar 3",
+      false
+    ],
+    [
+      "dd29b4c8-5406-4070-891d-bb40953c4872",
+      "Rua 8 ; Coluna 5 ; Andar 4",
+      false
+    ],
+    [
+      "ce423cc6-6de5-4172-8802-54bf956ffa50",
+      "Rua 8 ; Coluna 5 ; Andar 5",
+      false
+    ],
+    [
+      "6e2ffdc9-e023-4e12-95a2-42ebabc1b481",
+      "Rua 8 ; Coluna 6 ; Andar 1",
+      false
+    ],
+    [
+      "6754e31e-3519-40b7-a046-6cf3f0c5cab7",
+      "Rua 8 ; Coluna 6 ; Andar 2",
+      false
+    ],
+    [
+      "3fc832a5-d29c-40e5-bb8a-d7d9cdce6608",
+      "Rua 8 ; Coluna 6 ; Andar 3",
+      false
+    ],
+    [
+      "d4c837b0-b65a-4806-a833-12d0ced00e6c",
+      "Rua 8 ; Coluna 6 ; Andar 4",
+      false
+    ],
+    [
+      "7aaf633f-0854-4d8a-b194-fe95e9dfb6b2",
+      "Rua 8 ; Coluna 6 ; Andar 5",
+      false
+    ],
+    [
+      "41d07826-fee8-4095-a358-ab12b60f6e93",
+      "Rua 8 ; Coluna 7 ; Andar 1",
+      false
+    ],
+    [
+      "c08ee6f2-cba6-43a5-8a11-96803c5f1246",
+      "Rua 8 ; Coluna 7 ; Andar 2",
+      false
+    ],
+    [
+      "03637fe3-88f6-4de4-9f21-3e73688cebd6",
+      "Rua 8 ; Coluna 7 ; Andar 3",
+      false
+    ],
+    [
+      "98db8b3e-1b74-4f16-b18c-2a35e93db164",
+      "Rua 8 ; Coluna 7 ; Andar 4",
+      false
+    ],
+    [
+      "e4981c00-ffa6-4836-a658-4fcc423b48ee",
+      "Rua 8 ; Coluna 7 ; Andar 5",
+      false
+    ],
+    [
+      "3f2d3845-6562-4d15-96a8-aaec8d5c8785",
+      "Rua 8 ; Coluna 8 ; Andar 1",
+      false
+    ],
+    [
+      "ec0f6a0f-1e1b-4966-a356-1c6340a5f593",
+      "Rua 8 ; Coluna 8 ; Andar 2",
+      false
+    ],
+    [
+      "8f22be1e-ee72-4cc8-a506-c02c92b96c12",
+      "Rua 8 ; Coluna 8 ; Andar 3",
+      false
+    ],
+    [
+      "01c1c6e3-fea7-4c3e-a515-8d4ad1725172",
+      "Rua 8 ; Coluna 8 ; Andar 4",
+      false
+    ],
+    [
+      "3219f376-b71d-43de-ba38-437f5508863f",
+      "Rua 8 ; Coluna 8 ; Andar 5",
+      false
+    ],
+    [
+      "d47fff10-7979-4d3c-a198-6843323469f0",
+      "Rua 8 ; Coluna 9 ; Andar 1",
+      false
+    ],
+    [
+      "74d5a340-146a-4636-b4e6-fe4ccbf45714",
+      "Rua 8 ; Coluna 9 ; Andar 2",
+      false
+    ],
+    [
+      "e53bbb31-516d-4539-87a9-6a8a755af86f",
+      "Rua 8 ; Coluna 9 ; Andar 3",
+      false
+    ],
+    [
+      "6f6b27d0-4068-4828-8ffd-989c54c6afb4",
+      "Rua 8 ; Coluna 9 ; Andar 4",
+      false
+    ],
+    [
+      "8c772042-d09c-4d05-b6bc-dfbbedf3adac",
+      "Rua 8 ; Coluna 9 ; Andar 5",
+      false
+    ],
+    [
+      "22ef2328-a94e-4819-a4d6-20e53158b974",
+      "Rua 8 ; Coluna 10 ; Andar 1",
+      false
+    ],
+    [
+      "12661ace-f841-42c2-95b8-cb9228cbcd39",
+      "Rua 8 ; Coluna 10 ; Andar 2",
+      false
+    ],
+    [
+      "6931a687-5b5c-4f2f-8643-0415a3dce6ba",
+      "Rua 8 ; Coluna 10 ; Andar 3",
+      false
+    ],
+    [
+      "d8314909-b9c7-4629-ae30-8af126c8b800",
+      "Rua 8 ; Coluna 10 ; Andar 4",
+      false
+    ],
+    [
+      "85dc711a-fac3-4e2a-8193-94007f1a8533",
+      "Rua 8 ; Coluna 10 ; Andar 5",
+      false
+    ],
+    [
+      "d681202e-bfd8-4c8d-9384-37f9d1b72130",
+      "Rua 9 ; Coluna 1 ; Andar 1",
+      false
+    ],
+    [
+      "97cd825d-e44c-46b3-b873-eed2479f2345",
+      "Rua 9 ; Coluna 1 ; Andar 2",
+      false
+    ],
+    [
+      "059a0696-54e3-4b80-85fe-7ad99f6d7670",
+      "Rua 9 ; Coluna 1 ; Andar 3",
+      false
+    ],
+    [
+      "c7849cea-0a27-4e48-8b52-b17879292a27",
+      "Rua 9 ; Coluna 1 ; Andar 4",
+      false
+    ],
+    [
+      "e1d5eb53-5e63-4fb2-8a5b-1c1ed151a18e",
+      "Rua 9 ; Coluna 1 ; Andar 5",
+      false
+    ],
+    [
+      "8bfa1d98-bbf4-4cd8-a53f-82bdf6f82cd7",
+      "Rua 9 ; Coluna 2 ; Andar 1",
+      false
+    ],
+    [
+      "dabf5151-99c5-4644-a26f-f173b1a65f4c",
+      "Rua 9 ; Coluna 2 ; Andar 2",
+      false
+    ],
+    [
+      "88a78f34-f881-4c83-9c91-d2ed9277aaa2",
+      "Rua 9 ; Coluna 2 ; Andar 3",
+      false
+    ],
+    [
+      "babfef8f-17ba-4c9b-8980-9e6e12f8a9e3",
+      "Rua 9 ; Coluna 2 ; Andar 4",
+      false
+    ],
+    [
+      "a18c66ff-0796-4be5-a606-4e224122a8f1",
+      "Rua 9 ; Coluna 2 ; Andar 5",
+      false
+    ],
+    [
+      "641c9a99-7406-4b28-8385-2466117a65ca",
+      "Rua 9 ; Coluna 3 ; Andar 1",
+      false
+    ],
+    [
+      "0b90f63b-35e7-4c51-8e5b-2b1d9b06ec8e",
+      "Rua 9 ; Coluna 3 ; Andar 2",
+      false
+    ],
+    [
+      "68cc4a48-87c8-4611-84a4-503431964ee5",
+      "Rua 9 ; Coluna 3 ; Andar 3",
+      false
+    ],
+    [
+      "1acbe280-1ba4-4670-8be8-b6750f2e1048",
+      "Rua 9 ; Coluna 3 ; Andar 4",
+      false
+    ],
+    [
+      "80e2eba0-ebfd-4555-9da8-ef1deda784ce",
+      "Rua 9 ; Coluna 3 ; Andar 5",
+      false
+    ],
+    [
+      "b8c28d25-f171-4082-8419-36f9aaa011e1",
+      "Rua 9 ; Coluna 4 ; Andar 1",
+      false
+    ],
+    [
+      "4770d84e-b302-4dd6-82bd-1100cb0a8d02",
+      "Rua 9 ; Coluna 4 ; Andar 2",
+      false
+    ],
+    [
+      "ab6ba777-4314-45c0-a69a-64b45897f95a",
+      "Rua 9 ; Coluna 4 ; Andar 3",
+      false
+    ],
+    [
+      "d5bdc4b2-a239-4433-81b5-eea6678da736",
+      "Rua 9 ; Coluna 4 ; Andar 4",
+      false
+    ],
+    [
+      "e237c919-cf27-4160-83df-a1c957d32bf6",
+      "Rua 9 ; Coluna 4 ; Andar 5",
+      false
+    ],
+    [
+      "b13df027-ed79-4e30-b299-49923555825c",
+      "Rua 9 ; Coluna 5 ; Andar 1",
+      false
+    ],
+    [
+      "1862dae4-19f8-4bc6-a272-db0f9370d25e",
+      "Rua 9 ; Coluna 5 ; Andar 2",
+      false
+    ],
+    [
+      "e3dee7ef-87cf-40ed-9de6-93e142d3118a",
+      "Rua 9 ; Coluna 5 ; Andar 3",
+      false
+    ],
+    [
+      "f35426a1-bffb-4682-a394-8ff33d9f61a1",
+      "Rua 9 ; Coluna 5 ; Andar 4",
+      false
+    ],
+    [
+      "741f242b-c6b8-4120-a17b-6ecc3e46290c",
+      "Rua 9 ; Coluna 5 ; Andar 5",
+      false
+    ],
+    [
+      "1814d2f1-10f6-4c90-9e3a-191000652404",
+      "Rua 9 ; Coluna 6 ; Andar 1",
+      false
+    ],
+    [
+      "24f15e1e-b826-4243-87f4-58d8408a3f3b",
+      "Rua 9 ; Coluna 6 ; Andar 2",
+      false
+    ],
+    [
+      "cc9854e4-1307-440a-943e-14a563ccdf78",
+      "Rua 9 ; Coluna 6 ; Andar 3",
+      false
+    ],
+    [
+      "3db9a359-204e-458a-a934-2c28c04bf722",
+      "Rua 9 ; Coluna 6 ; Andar 4",
+      false
+    ],
+    [
+      "16eb1be0-97a3-4906-beec-5634868e75b6",
+      "Rua 9 ; Coluna 6 ; Andar 5",
+      false
+    ],
+    [
+      "9cb99e41-c889-4951-b524-fd17740700c7",
+      "Rua 9 ; Coluna 7 ; Andar 1",
+      false
+    ],
+    [
+      "8c5d9286-adac-4b3a-9c66-66480983d12f",
+      "Rua 9 ; Coluna 7 ; Andar 2",
+      false
+    ],
+    [
+      "6c45d86b-1b6d-44d3-a245-873768c0f7e4",
+      "Rua 9 ; Coluna 7 ; Andar 3",
+      false
+    ],
+    [
+      "9a62d817-143d-42a3-bc51-27bc74b824ab",
+      "Rua 9 ; Coluna 7 ; Andar 4",
+      false
+    ],
+    [
+      "675dc2b8-4af8-4397-bae5-389b270716f7",
+      "Rua 9 ; Coluna 7 ; Andar 5",
+      false
+    ],
+    [
+      "40ec0820-fa1f-4a1d-82d6-be4a7d214e64",
+      "Rua 9 ; Coluna 8 ; Andar 1",
+      false
+    ],
+    [
+      "7379a883-6221-4ddf-b660-18f7b3415af4",
+      "Rua 9 ; Coluna 8 ; Andar 2",
+      false
+    ],
+    [
+      "e972c0ce-807a-4ef4-accb-9c427413cc63",
+      "Rua 9 ; Coluna 8 ; Andar 3",
+      false
+    ],
+    [
+      "b023ea7e-0cfa-4bbe-afd4-acee91ac164d",
+      "Rua 9 ; Coluna 8 ; Andar 4",
+      false
+    ],
+    [
+      "2ab54ada-d6e3-449f-ba2c-d152e40afa93",
+      "Rua 9 ; Coluna 8 ; Andar 5",
+      false
+    ],
+    [
+      "1f14dda7-9eaf-4d5a-8e50-334f53568595",
+      "Rua 9 ; Coluna 9 ; Andar 1",
+      false
+    ],
+    [
+      "2812a62d-7bef-48d1-939c-229cf80f7f72",
+      "Rua 9 ; Coluna 9 ; Andar 2",
+      false
+    ],
+    [
+      "fe7a67d4-f0c7-4ef9-97d1-101a44c59008",
+      "Rua 9 ; Coluna 9 ; Andar 3",
+      false
+    ],
+    [
+      "6c64cfbf-1eee-4ec9-bde8-77d928a4688a",
+      "Rua 9 ; Coluna 9 ; Andar 4",
+      false
+    ],
+    [
+      "8f83ca7e-ca78-4b6d-b31b-bbbc5da5ccca",
+      "Rua 9 ; Coluna 9 ; Andar 5",
+      false
+    ],
+    [
+      "34d96e6c-2901-4248-a0c7-a123faf8807e",
+      "Rua 9 ; Coluna 10 ; Andar 1",
+      false
+    ],
+    [
+      "fc00bf8d-ed85-430d-888a-5e1511ec68c3",
+      "Rua 9 ; Coluna 10 ; Andar 2",
+      false
+    ],
+    [
+      "f0776c53-4ab6-45e0-9de7-1cacc99deea1",
+      "Rua 9 ; Coluna 10 ; Andar 3",
+      false
+    ],
+    [
+      "5144938a-e4bc-4dcf-a59b-3774974d0bf7",
+      "Rua 9 ; Coluna 10 ; Andar 4",
+      false
+    ],
+    [
+      "acc7efdc-25ec-466c-a202-4b5ddb124ae1",
+      "Rua 9 ; Coluna 10 ; Andar 5",
+      false
+    ],
+    [
+      "fd9b029a-1244-4402-bd45-41b180b46ed1",
+      "Rua 10 ; Coluna 1 ; Andar 1",
+      false
+    ],
+    [
+      "63552ca5-669c-4856-be3c-08071df14a71",
+      "Rua 10 ; Coluna 1 ; Andar 2",
+      false
+    ],
+    [
+      "55fa1683-2506-435c-a90d-62619c3f154f",
+      "Rua 10 ; Coluna 1 ; Andar 3",
+      false
+    ],
+    [
+      "3b9e9480-9a62-4f61-9305-34ba4fed9ca3",
+      "Rua 10 ; Coluna 1 ; Andar 4",
+      false
+    ],
+    [
+      "185b5227-714b-4f29-88d4-166c91cdf3c0",
+      "Rua 10 ; Coluna 1 ; Andar 5",
+      false
+    ],
+    [
+      "39afdb4b-d40e-4072-9e77-cf6a35e6d7cd",
+      "Rua 10 ; Coluna 2 ; Andar 1",
+      false
+    ],
+    [
+      "1c30ba66-560f-49d8-92f7-d5344f9912a2",
+      "Rua 10 ; Coluna 2 ; Andar 2",
+      false
+    ],
+    [
+      "9affb429-abbd-4eff-85cc-9a4dded428eb",
+      "Rua 10 ; Coluna 2 ; Andar 3",
+      false
+    ],
+    [
+      "356e7359-1002-4db8-8566-8d59a39903b8",
+      "Rua 10 ; Coluna 2 ; Andar 4",
+      false
+    ],
+    [
+      "2998f89b-ad97-456a-822b-af3a48cc10d0",
+      "Rua 10 ; Coluna 2 ; Andar 5",
+      false
+    ],
+    [
+      "ad770d38-b1bd-4b67-be0e-3d5984bfbaf3",
+      "Rua 10 ; Coluna 3 ; Andar 1",
+      false
+    ],
+    [
+      "d247fa45-8fda-462f-9862-e107de4e318c",
+      "Rua 10 ; Coluna 3 ; Andar 2",
+      false
+    ],
+    [
+      "deb5c6c1-bc07-48e4-9495-115f0fb431af",
+      "Rua 10 ; Coluna 3 ; Andar 3",
+      false
+    ],
+    [
+      "af3bba01-279a-425d-a401-d6e4bf8edecf",
+      "Rua 10 ; Coluna 3 ; Andar 4",
+      false
+    ],
+    [
+      "e9a305f7-bcd3-4a48-a5d7-01ee8da31d95",
+      "Rua 10 ; Coluna 3 ; Andar 5",
+      false
+    ],
+    [
+      "c88a4eea-c24b-4849-bfa3-e5556123d616",
+      "Rua 10 ; Coluna 4 ; Andar 1",
+      false
+    ],
+    [
+      "c4cbba22-8f35-4cf2-9fb2-b4d0275e4b0f",
+      "Rua 10 ; Coluna 4 ; Andar 2",
+      false
+    ],
+    [
+      "b88e0ae2-df77-4d79-9591-bafb3642be4a",
+      "Rua 10 ; Coluna 4 ; Andar 3",
+      false
+    ],
+    [
+      "ab86ba66-5067-4035-9727-80e12b8f8edb",
+      "Rua 10 ; Coluna 4 ; Andar 4",
+      false
+    ],
+    [
+      "db9e1e87-4d40-4f0a-9006-b6135dbfadb2",
+      "Rua 10 ; Coluna 4 ; Andar 5",
+      false
+    ],
+    [
+      "83cb3b6f-c184-40dd-8448-976c3d778383",
+      "Rua 10 ; Coluna 5 ; Andar 1",
+      false
+    ],
+    [
+      "8ed79fcd-ae51-442f-bb44-fd0ce679a685",
+      "Rua 10 ; Coluna 5 ; Andar 2",
+      false
+    ],
+    [
+      "c98d752a-4332-41a8-a84a-4163dee36d6d",
+      "Rua 10 ; Coluna 5 ; Andar 3",
+      false
+    ],
+    [
+      "a3e13c99-a81f-4d0d-8908-1bd6d47b73d9",
+      "Rua 10 ; Coluna 5 ; Andar 4",
+      false
+    ],
+    [
+      "7b9189c4-9629-424e-9659-39589be32d14",
+      "Rua 10 ; Coluna 5 ; Andar 5",
+      false
+    ],
+    [
+      "023021f0-cb25-4b2d-8276-d07c9a137a36",
+      "Rua 10 ; Coluna 6 ; Andar 1",
+      false
+    ],
+    [
+      "2c4c24a1-4a04-4b9b-9327-c7d55d2c8645",
+      "Rua 10 ; Coluna 6 ; Andar 2",
+      false
+    ],
+    [
+      "2d0de650-26fb-40f2-a8e6-582cfdf3d8ab",
+      "Rua 10 ; Coluna 6 ; Andar 3",
+      false
+    ],
+    [
+      "b9755481-83ba-408c-8d0f-5daf2875f823",
+      "Rua 10 ; Coluna 6 ; Andar 4",
+      false
+    ],
+    [
+      "785d6471-44f8-48c0-a1d6-95ef36895305",
+      "Rua 10 ; Coluna 6 ; Andar 5",
+      false
+    ],
+    [
+      "a7af4395-2972-4677-9d12-dfa4a2ffc7e5",
+      "Rua 10 ; Coluna 7 ; Andar 1",
+      false
+    ],
+    [
+      "47a012b3-1435-4072-8afc-07f4e483dfd3",
+      "Rua 10 ; Coluna 7 ; Andar 2",
+      false
+    ],
+    [
+      "1f0e8d86-247b-42a5-8202-6b1e54ec0347",
+      "Rua 10 ; Coluna 7 ; Andar 3",
+      false
+    ],
+    [
+      "0a5abb16-3cb2-41b7-a4a8-e3f13e433a14",
+      "Rua 10 ; Coluna 7 ; Andar 4",
+      false
+    ],
+    [
+      "7e5bd93a-bc19-4233-8ca4-8fcbb05a3842",
+      "Rua 10 ; Coluna 7 ; Andar 5",
+      false
+    ],
+    [
+      "8e41e25d-c847-4282-a0b4-92836f63f829",
+      "Rua 10 ; Coluna 8 ; Andar 1",
+      false
+    ],
+    [
+      "6f5f3a9f-c4fb-4787-905f-8ea8892260c6",
+      "Rua 10 ; Coluna 8 ; Andar 2",
+      false
+    ],
+    [
+      "9556cb86-82cc-429a-806f-daafccc0a9ae",
+      "Rua 10 ; Coluna 8 ; Andar 3",
+      false
+    ],
+    [
+      "a9426908-e2ab-4e9b-8521-51cdfb140452",
+      "Rua 10 ; Coluna 8 ; Andar 4",
+      false
+    ],
+    [
+      "9a27d823-7920-49e5-a6e0-d7199f967a62",
+      "Rua 10 ; Coluna 8 ; Andar 5",
+      false
+    ],
+    [
+      "f27b3131-2e34-4c94-af12-6018e92686f9",
+      "Rua 10 ; Coluna 9 ; Andar 1",
+      false
+    ],
+    [
+      "46103743-d746-47d8-a272-dbef3de5bddf",
+      "Rua 10 ; Coluna 9 ; Andar 2",
+      false
+    ],
+    [
+      "ab5de99f-76dd-417c-baad-a577e45e5b72",
+      "Rua 10 ; Coluna 9 ; Andar 3",
+      false
+    ],
+    [
+      "a2792aa2-0b67-4fb9-bad1-bb467ab24837",
+      "Rua 10 ; Coluna 9 ; Andar 4",
+      false
+    ],
+    [
+      "135b36a6-f65d-402e-8789-43ad061b886e",
+      "Rua 10 ; Coluna 9 ; Andar 5",
+      false
+    ],
+    [
+      "ea6e39b9-ae9a-42bf-8f58-a7d294687f7b",
+      "Rua 10 ; Coluna 10 ; Andar 1",
+      false
+    ],
+    [
+      "88d96525-61ec-4bde-8803-9446b8d2ba84",
+      "Rua 10 ; Coluna 10 ; Andar 2",
+      false
+    ],
+    [
+      "70c55987-cd20-43e0-b0ef-0d844ee28fd0",
+      "Rua 10 ; Coluna 10 ; Andar 3",
+      false
+    ],
+    [
+      "7afc44a9-67b8-4944-bfa9-219d8155f60d",
+      "Rua 10 ; Coluna 10 ; Andar 4",
+      false
+    ],
+    [
+      "f442b43f-6b3a-4b25-9c53-54adf1f11f1e",
+      "Rua 10 ; Coluna 10 ; Andar 5",
+      false
+    ]
+  ]
+}

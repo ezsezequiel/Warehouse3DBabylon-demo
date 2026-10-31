@@ -1,0 +1,183 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+}
+
+#renderCanvas {
+    width: 100%;
+    height: 100%;
+    display: block;
+    touch-action: none;
+}
+.edit-gear,
+.edit-toolbar {
+    position: fixed;
+    top: 12px;
+    right: 12px;
+    z-index: 10;
+    font-family: sans-serif;
+}
+
+.edit-gear {
+    width: 40px;
+    height: 40px;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.edit-toolbar {
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 6px;
+}
+
+.edit-toolbar[hidden],
+.edit-gear[hidden] {
+    display: none;
+}
+
+.warehouse-startup {
+    position: fixed;
+    inset: 16px auto auto 16px;
+    z-index: 20;
+    box-sizing: border-box;
+    width: min(420px, calc(100% - 32px));
+    max-height: calc(100dvh - 32px);
+    overflow: auto;
+    padding: 20px;
+    border: 1px solid #b7c4c6;
+    border-radius: 6px;
+    background: #f7faf9;
+    color: #202c30;
+    font-family: "Trebuchet MS", sans-serif;
+    box-shadow: 0 4px 18px #0002;
+}
+
+.warehouse-startup h1 {
+    margin: 0 0 12px;
+    font-size: 20px;
+}
+
+.warehouse-startup p {
+    margin: 0 0 16px;
+    line-height: 1.5;
+    overflow-wrap: anywhere;
+}
+
+.warehouse-startup form,
+.warehouse-startup label {
+    display: grid;
+    gap: 12px;
+}
+
+.warehouse-startup input,
+.warehouse-startup select,
+.warehouse-startup button {
+    box-sizing: border-box;
+    width: 100%;
+    min-width: 0;
+    min-height: 44px;
+    padding: 10px;
+    border: 1px solid #859a9e;
+    border-radius: 4px;
+    background: #fff;
+    font: inherit;
+}
+
+.warehouse-startup button {
+    background: #14665d;
+    color: #fff;
+    cursor: pointer;
+}
+
+.warehouse-startup .warehouse-unit-options {
+    height: 204px;
+    padding: 4px;
+}
+
+.warehouse-unit-options option {
+    padding: 6px;
+    white-space: normal;
+    overflow-wrap: anywhere;
+}
+
+.warehouse-startup button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.warehouse-startup :focus-visible {
+    outline: 2px solid #14665d;
+    outline-offset: 3px;
+}
+
+.warehouse-startup--ready {
+    width: fit-content;
+    max-width: calc(100% - 80px);
+}
+
+.warehouse-startup--ready h1,
+.warehouse-startup--ready div {
+    display: none;
+}
+
+.warehouse-startup--ready p {
+    margin: 0;
+}
+
+.warehouse-startup .warehouse-deposito-switcher {
+    margin-top: 12px;
+}
+
+.deposit-panel {
+    position: fixed;
+    top: 12px;
+    left: 12px;
+    z-index: 10;
+    box-sizing: border-box;
+    width: min(320px, calc(100% - 76px));
+    padding: 10px 12px;
+    border: 1px solid #b7c4c6;
+    border-radius: 6px;
+    background: #f7faf9;
+    color: #202c30;
+    font: 14px "Trebuchet MS", sans-serif;
+}
+
+.deposit-panel label {
+    display: grid;
+    gap: 6px;
+}
+
+.deposit-panel select {
+    width: 100%;
+    min-width: 0;
+    min-height: 40px;
+    padding: 6px;
+    border: 1px solid #859a9e;
+    border-radius: 4px;
+    background: #fff;
+    color: inherit;
+    font: inherit;
+}
+
+.deposit-panel p {
+    margin: 8px 0 0;
+    max-height: 30dvh;
+    overflow: auto;
+    overflow-wrap: anywhere;
+}
+
+@media (max-width: 700px) {
+    .edit-toolbar {
+        top: 132px;
+        left: 12px;
+        right: 12px;
+        flex-wrap: wrap;
+    }
+}

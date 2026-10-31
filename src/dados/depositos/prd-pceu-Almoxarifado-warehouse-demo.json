@@ -1,0 +1,6022 @@
+{
+  "deposito": {
+    "id": "dcc5b4f1-98c0-4acd-bd6c-30486ec230fd",
+    "unidadeId": "72f3379f-e40d-4708-8312-880f9c303b8f",
+    "descricao": "Almoxarifado",
+    "situacao": "ATIVO"
+  },
+  "estruturas": [
+    {
+      "descricaoPadrao": "Bloco",
+      "descricao": "Barracao"
+    },
+    {
+      "descricaoPadrao": "Rua",
+      "descricao": "Rua"
+    },
+    {
+      "descricaoPadrao": "Coluna",
+      "descricao": "Coluna"
+    },
+    {
+      "descricaoPadrao": "Andar",
+      "descricao": "Nivel"
+    },
+    {
+      "descricaoPadrao": "Apartamento",
+      "descricao": "Posicao"
+    }
+  ],
+  "enderecos": [
+    [
+      "7d2da262-6132-4144-9772-0b298ef991d8",
+      "Barracao AA ; Rua 2 ; Coluna 1 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "92cd0416-9213-4f78-85d9-48001feba79e",
+      "Barracao AA ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "c1976476-46a3-4161-8d67-30a511fb9aad",
+      "Barracao AA ; Rua 2 ; Coluna 1 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "943ac219-80dd-4b8f-8b33-f66e8c2e864e",
+      "Barracao AA ; Rua 2 ; Coluna 1 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "6da94636-d407-4902-ade5-0fbd844bbe15",
+      "Barracao AA ; Rua 2 ; Coluna 1 ; Nivel 5 ; Posicao 1",
+      false
+    ],
+    [
+      "1bbc84bf-7a9a-4e02-a851-e6365b01ffde",
+      "Barracao AA ; Rua 2 ; Coluna 2 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "63fcb4e1-e9a2-4df4-b404-601d61b96d92",
+      "Barracao AA ; Rua 2 ; Coluna 2 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "dfd7fb17-da43-4c9a-aa74-e3ebbed5a6cd",
+      "Barracao AA ; Rua 2 ; Coluna 2 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "f493496c-35ec-4e07-b740-ab9b47d936e6",
+      "Barracao AA ; Rua 2 ; Coluna 2 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "37fd5785-400a-4b52-a712-689599256de5",
+      "Barracao AA ; Rua 2 ; Coluna 2 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "d1d7da8a-7a6c-4fa0-b216-1bf488703e5a",
+      "Barracao AA ; Rua 2 ; Coluna 2 ; Nivel 6 ; Posicao 1",
+      true
+    ],
+    [
+      "7f6abf42-930b-452c-a208-b0597c83acd7",
+      "Barracao AA ; Rua 2 ; Coluna 3 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "b5db8cdc-24b4-42f6-a648-cb28e433f0bb",
+      "Barracao AA ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "13556e09-b655-4b41-8d7a-04c546a6d554",
+      "Barracao AA ; Rua 2 ; Coluna 3 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "1acc95d7-fee6-448b-9bd0-93f5d34e8bd3",
+      "Barracao AA ; Rua 2 ; Coluna 3 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "b7e39910-9f2c-4182-8bd2-5c80ef95aef2",
+      "Barracao AA ; Rua 2 ; Coluna 3 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "ad9c461c-b5d0-454c-a3d9-689ec9a5fd86",
+      "Barracao AA ; Rua 2 ; Coluna 3 ; Nivel 6 ; Posicao 1",
+      true
+    ],
+    [
+      "31b7dd9b-afce-44df-be69-d590f6bd6236",
+      "Barracao AA ; Rua 2 ; Coluna 4 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "57d0d257-7335-4708-8259-60b5b2ef3cd9",
+      "Barracao AA ; Rua 2 ; Coluna 4 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "38e97f9a-ed3c-44e0-8bfe-e93389658063",
+      "Barracao AA ; Rua 2 ; Coluna 4 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "f9b4089b-130c-4278-bdf0-1ddea3444a3e",
+      "Barracao AA ; Rua 2 ; Coluna 4 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "2e576fbc-2fea-4596-b5ec-533da8c8822c",
+      "Barracao AA ; Rua 2 ; Coluna 4 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "0bfc511c-eb12-4f5d-886f-044bc8f200ad",
+      "Barracao AA ; Rua 2 ; Coluna 4 ; Nivel 6 ; Posicao 1",
+      true
+    ],
+    [
+      "103330c3-0ef6-42ae-82b1-31661fc7fb75",
+      "Barracao AA ; Rua 2 ; Coluna 5 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "bc2842fd-f513-476f-860d-c23836f3aa74",
+      "Barracao AA ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "e5ee808e-2579-43a5-9e8c-eaf3d40227d2",
+      "Barracao AA ; Rua 2 ; Coluna 5 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "3f707a31-baf2-4fc2-8a0c-f98f26314c4c",
+      "Barracao AA ; Rua 2 ; Coluna 5 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "56a227ef-d3b8-4e73-b370-1151ac6dcc59",
+      "Barracao AA ; Rua 2 ; Coluna 5 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "9ffbbb53-ecc2-4d56-bd95-bad16e18bfbd",
+      "Barracao AA ; Rua 2 ; Coluna 5 ; Nivel 6 ; Posicao 1",
+      true
+    ],
+    [
+      "9fab9da3-d534-4596-b1e3-3eb92e718d40",
+      "Barracao AA ; Rua 2 ; Coluna 6 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "8aaffb72-f75f-4cde-a36f-81cbb81463e7",
+      "Barracao AA ; Rua 2 ; Coluna 6 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "cdf78c2b-708b-4d2a-8fc9-9bf41a713224",
+      "Barracao AA ; Rua 2 ; Coluna 6 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "809c2935-a1e8-4173-8d3c-924524715184",
+      "Barracao AA ; Rua 2 ; Coluna 6 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "3ab8a263-9409-4fb3-8c95-faea1d688ded",
+      "Barracao AA ; Rua 2 ; Coluna 6 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "61acd39f-4c37-46be-9224-89e3ad916ef1",
+      "Barracao AA ; Rua 2 ; Coluna 6 ; Nivel 6 ; Posicao 1",
+      true
+    ],
+    [
+      "98aa52cd-dff4-4143-8d36-bb848d046577",
+      "Barracao AA ; Rua 2 ; Coluna 7 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "4fc59320-30ac-4638-9a3f-c7cd6df48d3e",
+      "Barracao AA ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "3539f1be-0b80-4f66-8b4f-5dc42e283619",
+      "Barracao AA ; Rua 2 ; Coluna 7 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "843792f6-5156-486c-b2e1-fe353fd100f7",
+      "Barracao AA ; Rua 2 ; Coluna 7 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "125b8d00-d687-4fb6-a04b-a89d46195366",
+      "Barracao AA ; Rua 2 ; Coluna 7 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "d0a026cd-aad8-4863-a165-08dd9a0518a1",
+      "Barracao AA ; Rua 2 ; Coluna 7 ; Nivel 6 ; Posicao 1",
+      true
+    ],
+    [
+      "eb3448b0-a33f-4bab-bd3c-dc38a6df3e14",
+      "Barracao AA ; Rua 2 ; Coluna 8 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "5bae9c62-8073-48d0-94f4-1d9b6257c928",
+      "Barracao AA ; Rua 2 ; Coluna 8 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "de043292-1001-46ee-ba3f-c33df179422c",
+      "Barracao AA ; Rua 2 ; Coluna 8 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "0a433271-0f5d-4785-a2e5-1dac55bb05d6",
+      "Barracao AA ; Rua 2 ; Coluna 8 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "2275ed4d-ff60-4eba-9e02-79a969a97958",
+      "Barracao AA ; Rua 2 ; Coluna 8 ; Nivel 5 ; Posicao 1",
+      false
+    ],
+    [
+      "b4a43d7c-31c2-49c9-b6a3-c52d5fcba518",
+      "Barracao AA ; Rua 2 ; Coluna 8 ; Nivel 6 ; Posicao 1",
+      true
+    ],
+    [
+      "cd714b16-7829-4d9e-b131-92c00b8498da",
+      "Barracao AA ; Rua 2 ; Coluna 9 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "b91150aa-16fe-4c21-910c-8baf5804ce26",
+      "Barracao AA ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "55b0b123-6c32-4980-aec8-6dd95efbacc5",
+      "Barracao AA ; Rua 2 ; Coluna 9 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "ec094af2-b82d-4aaf-9d19-f05ad88d509c",
+      "Barracao AA ; Rua 2 ; Coluna 9 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "b132d216-a060-45a4-8608-3e026f113f12",
+      "Barracao AA ; Rua 2 ; Coluna 10 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "f5ca702f-deab-401c-b120-99b125c138a9",
+      "Barracao AA ; Rua 2 ; Coluna 10 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "79e57ea6-ac56-48cc-9681-4b926773fa4c",
+      "Barracao AA ; Rua 2 ; Coluna 10 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "0a04feaa-4686-44a0-a73e-1ba63d4f20dd",
+      "Barracao AA ; Rua 2 ; Coluna 10 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "128dfc1e-5b92-41f8-99e7-09b6de3bfa7f",
+      "Barracao AA ; Rua 2 ; Coluna 10 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "670e7a0b-9ad6-45a7-a05d-6bdb1199982f",
+      "Barracao AA ; Rua 2 ; Coluna 11 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "6710a2e2-82cb-4b9d-9738-5b2ac989258c",
+      "Barracao AA ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "32941720-2b99-4823-a284-7c15232e2085",
+      "Barracao AA ; Rua 2 ; Coluna 11 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "b201314a-01bb-4889-b616-37a3358dd42f",
+      "Barracao AA ; Rua 2 ; Coluna 11 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "c0e6b75c-3b42-471a-8df2-ccf7b31f07a1",
+      "Barracao AA ; Rua 2 ; Coluna 12 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "039192ee-5843-4f8f-b3fc-8a202edd938c",
+      "Barracao AA ; Rua 2 ; Coluna 12 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "aa128868-420d-482b-b672-3786660992e3",
+      "Barracao AA ; Rua 2 ; Coluna 12 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "37b39eaf-abe8-4dae-a570-e7caaf23479a",
+      "Barracao AA ; Rua 2 ; Coluna 12 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "aed06f67-10a0-488f-b673-65981b5acc4a",
+      "Barracao AA ; Rua 2 ; Coluna 12 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "046d698e-8af8-478d-bd07-fd3accdf3803",
+      "Barracao AA ; Rua 2 ; Coluna 13 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "0b9e9cb9-2892-4bf7-bdec-1e9fb11414fa",
+      "Barracao AA ; Rua 2 ; Coluna 13 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "499707d4-d74a-414d-acb9-2c625c8a41e3",
+      "Barracao AA ; Rua 2 ; Coluna 13 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "1e9c7d40-b3f1-4f41-877a-d1aa7106865d",
+      "Barracao AA ; Rua 2 ; Coluna 13 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "71927ac2-f83f-4c2f-a117-89dcb9395c7b",
+      "Barracao AA ; Rua 2 ; Coluna 13 ; Nivel 5 ; Posicao 1",
+      false
+    ],
+    [
+      "ee281855-6a87-4afa-b86d-40d8381f9d56",
+      "Barracao AA ; Rua 2 ; Coluna 14 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "eec20688-d63e-404a-a462-7ae0e1795f2a",
+      "Barracao AA ; Rua 2 ; Coluna 14 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "3f82d2cb-90d7-41f4-9526-6b92def01bc9",
+      "Barracao AA ; Rua 2 ; Coluna 14 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "476d8426-763c-434c-8202-15f4c10211fb",
+      "Barracao AA ; Rua 2 ; Coluna 14 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "20908261-875a-4f1f-a4fd-79396884699c",
+      "Barracao AA ; Rua 2 ; Coluna 14 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "ce04d1e7-61cf-4298-b038-03b79c91354c",
+      "Barracao AA ; Rua 2 ; Coluna 15 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "8aeb159c-33b9-4195-95a3-dff5e8d207c4",
+      "Barracao AA ; Rua 2 ; Coluna 15 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "a573a027-99ad-4da1-a20a-da2e0c754f47",
+      "Barracao AA ; Rua 2 ; Coluna 15 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "3f7f6958-65e9-4a8b-8c4f-42b6b53d56f9",
+      "Barracao AA ; Rua 2 ; Coluna 15 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "7f90fb9c-6a89-4008-8759-2c607d220fe4",
+      "Barracao AA ; Rua 2 ; Coluna 15 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "b3a507e9-61ff-40c1-b3d2-4309b732f63d",
+      "Barracao AA ; Rua 2 ; Coluna 16 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "c0639ec5-eba0-4c5b-b150-0f325fe36b12",
+      "Barracao AA ; Rua 2 ; Coluna 16 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "910356ae-60bc-4893-b390-21f969dd1ad4",
+      "Barracao AA ; Rua 2 ; Coluna 16 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "ce0cbf9a-0280-4231-bba6-0bb9b0a75f0d",
+      "Barracao AA ; Rua 2 ; Coluna 16 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "8a52b595-ad39-4878-ab03-cc920b4b7232",
+      "Barracao AA ; Rua 2 ; Coluna 16 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "7a19a67b-6758-4a39-b9c5-d47eb2cee88e",
+      "Barracao AA ; Rua 3 ; Coluna 1 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "38697574-2aab-4cbc-b674-3d39e694c86c",
+      "Barracao AA ; Rua 3 ; Coluna 1 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "2eb9e0da-9b99-4563-84aa-140ea07a3332",
+      "Barracao AA ; Rua 3 ; Coluna 1 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "6c95eaeb-7dae-44c3-bc36-79925fc40393",
+      "Barracao AA ; Rua 3 ; Coluna 1 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "b5dd2e4e-0b63-4dd3-b77f-2ad9d3721887",
+      "Barracao AA ; Rua 3 ; Coluna 2 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "2e993c37-349a-4d10-9226-ccc897089809",
+      "Barracao AA ; Rua 3 ; Coluna 2 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "ae8e983b-7c46-4dad-83bc-3afa793b7938",
+      "Barracao AA ; Rua 3 ; Coluna 2 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "e7c1a377-4955-40d4-8412-679064c04fad",
+      "Barracao AA ; Rua 3 ; Coluna 2 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "60310d98-57dd-41f6-8c44-b86478a6184c",
+      "Barracao AA ; Rua 3 ; Coluna 2 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "dc37e821-532d-45df-8d32-dfe028f7ddb0",
+      "Barracao AA ; Rua 3 ; Coluna 3 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "2011d3e3-81ad-4967-8960-2f5ec991b4b5",
+      "Barracao AA ; Rua 3 ; Coluna 3 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "1a54fea4-1bbe-4d25-a0cc-157bedfbc044",
+      "Barracao AA ; Rua 3 ; Coluna 3 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "79d64b75-8635-43fe-b746-9e7d418721f3",
+      "Barracao AA ; Rua 3 ; Coluna 3 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "e78f3027-2c6f-4b5c-a14f-48bfa461e4c6",
+      "Barracao AA ; Rua 3 ; Coluna 3 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "ee34317d-c064-4a38-9180-281d7a83e9b2",
+      "Barracao AA ; Rua 3 ; Coluna 4 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "aa45c1a3-edae-46b5-a0f5-5b505a3395b9",
+      "Barracao AA ; Rua 3 ; Coluna 4 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "d92bea97-77c8-4b58-b786-d6fb1e689f20",
+      "Barracao AA ; Rua 3 ; Coluna 4 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "fad319c4-9bd6-4879-91b7-34ed1d9c9b3c",
+      "Barracao AA ; Rua 3 ; Coluna 4 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "a21a4f3f-feb2-49e5-839f-3376e10c925f",
+      "Barracao AA ; Rua 3 ; Coluna 4 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "e924ad64-4597-4e9f-b130-05876d662e64",
+      "Barracao AA ; Rua 3 ; Coluna 5 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "468d730d-1bf3-400c-8694-1229f7e7e580",
+      "Barracao AA ; Rua 3 ; Coluna 5 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "c736ba59-088e-4f76-a67b-09899cc87b3f",
+      "Barracao AA ; Rua 3 ; Coluna 5 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "8ccc958c-e476-41c8-b05a-9886d71e95df",
+      "Barracao AA ; Rua 3 ; Coluna 5 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "861afc0d-c27a-472f-be5a-e3cea434b6f0",
+      "Barracao AA ; Rua 3 ; Coluna 5 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "99e4e687-0395-4aff-9063-6a6a08ecea6a",
+      "Barracao AA ; Rua 3 ; Coluna 6 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "8f85ac61-e4b2-419c-969e-e7ddf096ff12",
+      "Barracao AA ; Rua 3 ; Coluna 6 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "33d40b47-4250-46fb-aa69-b90456ed7a47",
+      "Barracao AA ; Rua 3 ; Coluna 6 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "e9e50872-2640-4789-8857-3f30bd8dbd56",
+      "Barracao AA ; Rua 3 ; Coluna 6 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "6847767b-8619-4997-a40c-b5239c45ca40",
+      "Barracao AA ; Rua 3 ; Coluna 6 ; Nivel 5 ; Posicao 1",
+      false
+    ],
+    [
+      "ac0bc2f4-45c7-457b-a148-364d799e8fdb",
+      "Barracao AA ; Rua 3 ; Coluna 7 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "45f25039-dc58-4986-9664-5dfa5f2b8b9a",
+      "Barracao AA ; Rua 3 ; Coluna 7 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "d0663cd5-117a-4299-8797-ab78cd8f068d",
+      "Barracao AA ; Rua 3 ; Coluna 7 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "1b992337-60f8-4750-b1c2-7df5c93143e6",
+      "Barracao AA ; Rua 3 ; Coluna 7 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "0cef0e57-ba35-48f8-b1c9-cf0c92d8960a",
+      "Barracao AA ; Rua 3 ; Coluna 7 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "40567d07-9c09-4f9e-b50e-096645e85ffa",
+      "Barracao AA ; Rua 3 ; Coluna 8 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "bb160d86-7bf3-4924-beab-e8e20f31e913",
+      "Barracao AA ; Rua 3 ; Coluna 8 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "e866996e-0a85-423d-abc1-438017926e7b",
+      "Barracao AA ; Rua 3 ; Coluna 8 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "b9b83dcf-910f-4020-8d43-99c1f5fc90bd",
+      "Barracao AA ; Rua 3 ; Coluna 8 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "8a39a231-55dc-4235-b060-6541e3bc1369",
+      "Barracao AA ; Rua 3 ; Coluna 8 ; Nivel 5 ; Posicao 1",
+      false
+    ],
+    [
+      "54d9cb1d-1bc3-4ee0-b468-da3f12d6ff53",
+      "Barracao AA ; Rua 3 ; Coluna 9 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "7a930922-6014-41d7-b387-cf8e0e57a4e4",
+      "Barracao AA ; Rua 3 ; Coluna 9 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "b3463e60-3e7a-4676-b8ac-95371a7302b5",
+      "Barracao AA ; Rua 3 ; Coluna 9 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "b5d8ff19-5796-45ec-b2c4-ea4af91c281a",
+      "Barracao AA ; Rua 3 ; Coluna 9 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "541cfa28-d9c3-4ea0-9b9a-1b3a9671b3d6",
+      "Barracao AA ; Rua 3 ; Coluna 9 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "a1c9108c-a3fd-4986-8d6f-708d74543edc",
+      "Barracao AA ; Rua 3 ; Coluna 10 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "8d6cd34d-2626-471b-90d1-a0f35f443459",
+      "Barracao AA ; Rua 3 ; Coluna 10 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "d0f1e4f0-f21a-45a9-a194-ef5447af8a82",
+      "Barracao AA ; Rua 3 ; Coluna 10 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "be261663-0b13-4437-9990-ac959ca23cb8",
+      "Barracao AA ; Rua 3 ; Coluna 10 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "59df9f4f-8306-422e-92e6-d8850b567a34",
+      "Barracao AA ; Rua 3 ; Coluna 10 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "2f7b2ad9-83e9-4e39-b437-5a9071f222a0",
+      "Barracao AA ; Rua 3 ; Coluna 11 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "e1a39acf-1eba-48f2-8589-d0fe68599ff4",
+      "Barracao AA ; Rua 3 ; Coluna 11 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "d32f554f-bd52-42c2-9274-bc4485756b09",
+      "Barracao AA ; Rua 3 ; Coluna 11 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "c1dfb9eb-c578-4b86-b5b6-8914d3eaed87",
+      "Barracao AA ; Rua 3 ; Coluna 11 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "19f48e83-3a23-4259-aaa0-3cbe5f9c325f",
+      "Barracao AA ; Rua 3 ; Coluna 11 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "5622e9e8-edef-489a-aec2-ceaeefee90f4",
+      "Barracao AA ; Rua 4 ; Coluna 1 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "f6fcee74-9f8d-40b5-97de-ac686a7bf92c",
+      "Barracao AA ; Rua 4 ; Coluna 1 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "1951f5fb-734a-471f-b529-ccf74fc25511",
+      "Barracao AA ; Rua 4 ; Coluna 1 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "a03a9249-3db0-4603-afa8-52631b79e42c",
+      "Barracao AA ; Rua 4 ; Coluna 1 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "9e9357b9-b4ac-40de-b8b6-d9f249afb1c5",
+      "Barracao AA ; Rua 4 ; Coluna 1 ; Nivel 5 ; Posicao 1",
+      false
+    ],
+    [
+      "8c5bb61a-bd79-44dc-b078-eeb8b0dcd15b",
+      "Barracao AA ; Rua 4 ; Coluna 2 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "1f60dbe7-33ea-4e7e-a2c4-01620ba41232",
+      "Barracao AA ; Rua 4 ; Coluna 2 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "1c16addc-8403-45b7-82f6-642393e71f79",
+      "Barracao AA ; Rua 4 ; Coluna 2 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "669adf4d-f8af-4150-95c7-34c80c82de8d",
+      "Barracao AA ; Rua 4 ; Coluna 2 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "d42ec0dd-8753-4ffd-a305-242a6b797ef7",
+      "Barracao AA ; Rua 4 ; Coluna 2 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "2f3cba0a-eee0-4f40-b9b5-0b98eef4ae54",
+      "Barracao AA ; Rua 4 ; Coluna 3 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "b8b7de85-0a54-4948-987e-255016901be9",
+      "Barracao AA ; Rua 4 ; Coluna 3 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "6b9a7f19-b3ad-44c8-8585-b817fd75dbbb",
+      "Barracao AA ; Rua 4 ; Coluna 3 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "fcaa68f4-d558-46ec-8d06-1cb5a72cc4f9",
+      "Barracao AA ; Rua 4 ; Coluna 3 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "7dd78323-6a08-4017-8fae-181c62e5caba",
+      "Barracao AA ; Rua 4 ; Coluna 3 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "b7a20e2c-1dd7-4b1a-940d-4c8b3f74752d",
+      "Barracao AA ; Rua 4 ; Coluna 4 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "9349f16c-156d-4fd3-81a0-ffd3c4ef1e38",
+      "Barracao AA ; Rua 4 ; Coluna 4 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "df57f88a-87df-41be-9614-20e655788e06",
+      "Barracao AA ; Rua 4 ; Coluna 4 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "d47dab2f-885d-41e4-b78d-368b223b65e4",
+      "Barracao AA ; Rua 4 ; Coluna 4 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "1557eceb-a665-4476-b8b7-292c47a3e640",
+      "Barracao AA ; Rua 4 ; Coluna 4 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "034af6bf-6ba8-4530-975c-c5ace34adc7b",
+      "Barracao AA ; Rua 4 ; Coluna 5 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "69e50c3b-eefb-4bab-ae39-e80d26b7e75f",
+      "Barracao AA ; Rua 4 ; Coluna 5 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "6c71a571-b263-4a9a-ac2b-2b9cdb150500",
+      "Barracao AA ; Rua 4 ; Coluna 5 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "a67f2dfd-98ab-4d06-ae8f-f92b33a3d948",
+      "Barracao AA ; Rua 4 ; Coluna 5 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "5da6ff1e-4f2c-4e5f-86bf-29b7027b4fe4",
+      "Barracao AA ; Rua 4 ; Coluna 5 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "1cc32983-a105-4f6f-8967-c84538037373",
+      "Barracao AA ; Rua 4 ; Coluna 6 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "6ce0c888-55ed-42e5-a594-de6686e76235",
+      "Barracao AA ; Rua 4 ; Coluna 6 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "734a6713-65fb-41ff-8687-b66c6afea7a1",
+      "Barracao AA ; Rua 4 ; Coluna 6 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "94f7059a-96c0-422b-a997-8e29f12ac1c8",
+      "Barracao AA ; Rua 4 ; Coluna 6 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "57d1de56-b4f8-46b1-beeb-091a11ae2d4a",
+      "Barracao AA ; Rua 4 ; Coluna 6 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "81e6d0d1-29bd-4097-b6f9-8264dbd36f76",
+      "Barracao AA ; Rua 4 ; Coluna 7 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "aa9cbea0-d6cb-442b-9bec-2c95e7c6dc6d",
+      "Barracao AA ; Rua 4 ; Coluna 7 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "1753479b-3c69-4e67-b290-8238b66919cd",
+      "Barracao AA ; Rua 4 ; Coluna 7 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "e505d42d-aced-4f11-b73c-aa6fa2d158d6",
+      "Barracao AA ; Rua 4 ; Coluna 7 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "bd15ce79-ff29-4c29-8275-2dab364c5399",
+      "Barracao AA ; Rua 4 ; Coluna 7 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "5ca5f2cd-8563-4a99-b060-e144fa2f5b0d",
+      "Barracao AA ; Rua 4 ; Coluna 8 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "41f0dffd-3944-4e24-bc3e-4addea07a7fb",
+      "Barracao AA ; Rua 4 ; Coluna 8 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "493571a8-dfb1-4d6d-9c33-b61fd188d5ea",
+      "Barracao AA ; Rua 4 ; Coluna 8 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "f56deff4-9e63-46ab-8c30-ad776b6950d5",
+      "Barracao AA ; Rua 4 ; Coluna 8 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "cdeb30f1-1229-4e25-816e-1294fd38d132",
+      "Barracao AA ; Rua 4 ; Coluna 8 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "3361eb55-a087-4832-b6d6-228842562c46",
+      "Barracao AA ; Rua 4 ; Coluna 9 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "9c52e8e4-0332-43fc-8952-2ad0cebcde56",
+      "Barracao AA ; Rua 4 ; Coluna 9 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "27a8b326-695b-4fcd-ae44-e94428344409",
+      "Barracao AA ; Rua 4 ; Coluna 9 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "dc615752-75d8-4d1d-b920-a0213f751415",
+      "Barracao AA ; Rua 4 ; Coluna 9 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "77f851bf-6180-4cc5-b810-73fc9292d445",
+      "Barracao AA ; Rua 4 ; Coluna 9 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "a20cd06a-c996-4d0e-9b5b-5ef999dbf059",
+      "Barracao AA ; Rua 4 ; Coluna 10 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "c3d3549d-dfa2-4acb-a385-cc58ae039810",
+      "Barracao AA ; Rua 4 ; Coluna 10 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "763d65e1-5c5f-4517-8606-be42c2576a1a",
+      "Barracao AA ; Rua 4 ; Coluna 10 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "f461d3d2-1844-4e15-a2fb-3420cdea48c4",
+      "Barracao AA ; Rua 4 ; Coluna 10 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "403c7fa3-dd40-4317-b908-4d41c7daf542",
+      "Barracao AA ; Rua 4 ; Coluna 10 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "fbc9f6e2-3faf-4790-88c4-0f7973e909dd",
+      "Barracao AA ; Rua 4 ; Coluna 11 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "b6ead863-6f56-486c-a8ac-efefd76f0336",
+      "Barracao AA ; Rua 4 ; Coluna 11 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "f4298bf0-80a1-483e-adfe-4b65d6cd3318",
+      "Barracao AA ; Rua 4 ; Coluna 11 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "1c988196-bc3f-4b31-8ea9-d3f4660771ee",
+      "Barracao AA ; Rua 4 ; Coluna 11 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "afaf81d2-3281-4210-badb-4f4946a94d04",
+      "Barracao AA ; Rua 4 ; Coluna 11 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "4944ff85-0910-462f-a57f-459d33aac01f",
+      "Barracao AA ; Rua 5 ; Coluna 1 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "f64ef507-5c11-4447-a78a-f4ca5a1a15a6",
+      "Barracao AA ; Rua 5 ; Coluna 1 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "fe19f3c3-d1d8-41c4-bdbf-308065557c64",
+      "Barracao AA ; Rua 5 ; Coluna 1 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "c762257c-978e-4834-ac26-35823d146dba",
+      "Barracao AA ; Rua 5 ; Coluna 1 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "ec6e7759-3fa9-4bfd-8739-0ca8a66bbc5b",
+      "Barracao AA ; Rua 5 ; Coluna 2 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "3e4d997b-b490-4221-a293-f3bab3c56815",
+      "Barracao AA ; Rua 5 ; Coluna 2 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "0ee2ea10-1dc9-40af-b30a-69f888f5c37f",
+      "Barracao AA ; Rua 5 ; Coluna 2 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "6c05db53-fbdb-4627-b39c-2821272a92d0",
+      "Barracao AA ; Rua 5 ; Coluna 2 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "207c3f63-aebc-4227-b8e9-533b70e1ab87",
+      "Barracao AA ; Rua 5 ; Coluna 2 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "c84b20ea-a019-4f73-8b95-ce447603ca0c",
+      "Barracao AA ; Rua 5 ; Coluna 3 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "afcaa8bc-a98c-4bdc-9040-e86c526a3c67",
+      "Barracao AA ; Rua 5 ; Coluna 3 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "52f09e5e-9bc3-44fa-aeff-f09e01ccc4de",
+      "Barracao AA ; Rua 5 ; Coluna 3 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "803bac9c-87f5-4d31-bd34-67006df03fd7",
+      "Barracao AA ; Rua 5 ; Coluna 3 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "933865ab-d209-41dc-9f79-963bb7ce0203",
+      "Barracao AA ; Rua 5 ; Coluna 3 ; Nivel 5 ; Posicao 1",
+      false
+    ],
+    [
+      "db442d34-bc36-428e-9575-a1928950e2b1",
+      "Barracao AA ; Rua 5 ; Coluna 4 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "5a5887e2-344d-43c5-b270-059672b581a5",
+      "Barracao AA ; Rua 5 ; Coluna 4 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "27035710-589d-4d5e-a68a-a915027d3228",
+      "Barracao AA ; Rua 5 ; Coluna 4 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "c23222a7-12dd-40f0-8c79-12d708560b8b",
+      "Barracao AA ; Rua 5 ; Coluna 4 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "92eb623a-4bd1-4c6d-a6ce-e86811b2b572",
+      "Barracao AA ; Rua 5 ; Coluna 4 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "14c6cd6b-8236-41a1-8a6b-1db8f3e6bebc",
+      "Barracao AA ; Rua 5 ; Coluna 5 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "dc002fa2-54e8-4be7-8f2c-53a9f0947466",
+      "Barracao AA ; Rua 5 ; Coluna 5 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "914d8e89-26d5-41e4-84e2-504d525becd4",
+      "Barracao AA ; Rua 5 ; Coluna 5 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "9d7cc546-011c-4261-987d-3872a85ac314",
+      "Barracao AA ; Rua 5 ; Coluna 5 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "51c09bec-165c-4658-a91f-9605ebfe0b85",
+      "Barracao AA ; Rua 5 ; Coluna 5 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "060a5d2c-ba20-4c1b-86c6-fe7054a0752d",
+      "Barracao AA ; Rua 5 ; Coluna 6 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "37b87b27-5c3d-4c57-b9a9-992edb04decd",
+      "Barracao AA ; Rua 5 ; Coluna 6 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "09160daf-1a39-49db-b99a-3722ddbda86f",
+      "Barracao AA ; Rua 5 ; Coluna 6 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "f47e2ce2-a38f-432d-8b6c-44bbe6dd046e",
+      "Barracao AA ; Rua 5 ; Coluna 6 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "b8127408-7693-41af-91ad-f650dc972d35",
+      "Barracao AA ; Rua 5 ; Coluna 6 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "cdb2e1dd-2e4a-4470-a77b-a7afc303f557",
+      "Barracao AA ; Rua 5 ; Coluna 7 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "3b5b603b-13aa-49fc-9435-9aea70bd1759",
+      "Barracao AA ; Rua 5 ; Coluna 7 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "62cafd4d-30f0-4dfe-9fe7-ef7a03ce299c",
+      "Barracao AA ; Rua 5 ; Coluna 7 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "97b40af0-8226-4181-a50e-a1ed290ce040",
+      "Barracao AA ; Rua 5 ; Coluna 7 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "4004a4e4-7f95-4691-aeda-fe48fe4b47f8",
+      "Barracao AA ; Rua 5 ; Coluna 7 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "782ac927-cdc3-4fc5-990d-317a3e8fbbe7",
+      "Barracao AA ; Rua 5 ; Coluna 8 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "9063e543-0c7f-4580-a38e-3e3c7ce155aa",
+      "Barracao AA ; Rua 5 ; Coluna 8 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "74227803-e204-4823-bcc3-e0655a31a67a",
+      "Barracao AA ; Rua 5 ; Coluna 8 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "55c059f7-6ce0-44e4-ad37-c25ba67e9d57",
+      "Barracao AA ; Rua 5 ; Coluna 8 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "5e9de599-27be-4721-b3f8-a8d1a381ad01",
+      "Barracao AA ; Rua 5 ; Coluna 8 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "8daf0706-1313-45c3-919e-ac096185d78f",
+      "Barracao AA ; Rua 5 ; Coluna 9 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "c3951e37-f605-40f8-b8c9-5ee96bc637ed",
+      "Barracao AA ; Rua 5 ; Coluna 9 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "2a42077f-1aa5-48b6-a1b7-1b642d952c4d",
+      "Barracao AA ; Rua 5 ; Coluna 9 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "cbd0ae4d-087e-4427-9d97-97c68aeb1cb0",
+      "Barracao AA ; Rua 5 ; Coluna 9 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "6e91e643-7a1b-48ab-8635-8e32e436142e",
+      "Barracao AA ; Rua 5 ; Coluna 9 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "21aa08f4-d40c-4169-86e1-7db318d9e630",
+      "Barracao AA ; Rua 5 ; Coluna 10 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "0684b3a4-b265-4867-aae7-67a6cb725b99",
+      "Barracao AA ; Rua 5 ; Coluna 10 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "5f368056-a673-4bad-9b53-adfb8630e23b",
+      "Barracao AA ; Rua 5 ; Coluna 10 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "ceb25e27-25f7-4497-bba0-b98f9a79b2ff",
+      "Barracao AA ; Rua 5 ; Coluna 10 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "87fcfc0c-cb92-4244-a3c2-a32db1528872",
+      "Barracao AA ; Rua 5 ; Coluna 10 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "0b05af84-7aa9-49f9-b1d6-398f05749d62",
+      "Barracao AA ; Rua 5 ; Coluna 11 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "7caf8fb0-a314-4b80-988d-602076857fe3",
+      "Barracao AA ; Rua 5 ; Coluna 11 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "c5ee0967-7b9d-4564-86c0-fa6ebf40b3fc",
+      "Barracao AA ; Rua 5 ; Coluna 11 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "7cc7cec3-2774-4784-8f93-d8c4b7d1da0c",
+      "Barracao AA ; Rua 5 ; Coluna 11 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "68fb62f7-a0eb-44ff-8793-b299d7accaca",
+      "Barracao AA ; Rua 5 ; Coluna 11 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "4af46ac7-908d-4847-af39-d736600a4c39",
+      "Barracao AA ; Rua 6 ; Coluna 1 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "4b4e20ab-eadd-4c9c-bab1-d0f45aa235bb",
+      "Barracao AA ; Rua 6 ; Coluna 1 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "8dc4734f-012b-43fc-8231-c19265b372e9",
+      "Barracao AA ; Rua 6 ; Coluna 1 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "cd90b546-2b70-44be-a95f-e9cff9132738",
+      "Barracao AA ; Rua 6 ; Coluna 1 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "186f309c-b6c4-4ecf-a76b-a57699076e42",
+      "Barracao AA ; Rua 6 ; Coluna 2 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "10ffc701-7447-4ca8-86f0-74caedfb47d7",
+      "Barracao AA ; Rua 6 ; Coluna 2 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "f7f0658b-da48-41ca-93b7-afcf38f1180a",
+      "Barracao AA ; Rua 6 ; Coluna 2 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "16274c29-5931-48be-b9e1-57e31d8e88cf",
+      "Barracao AA ; Rua 6 ; Coluna 2 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "017cad88-d27d-4922-b618-e6d6c30f0073",
+      "Barracao AA ; Rua 6 ; Coluna 3 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "3ee39819-2fcf-4442-ad74-debb24b0ef3b",
+      "Barracao AA ; Rua 6 ; Coluna 3 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "93d5f209-cf83-4fbd-b74d-0cbe007b159d",
+      "Barracao AA ; Rua 6 ; Coluna 3 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "a3774d0c-c90f-4e74-b1c8-f24af38760f1",
+      "Barracao AA ; Rua 6 ; Coluna 3 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "212d2616-8c7a-415e-8811-1ba23d0504ac",
+      "Barracao AA ; Rua 6 ; Coluna 4 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "df967caa-39fb-4200-981f-97ff81e5f8fb",
+      "Barracao AA ; Rua 6 ; Coluna 4 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "2e910b31-9537-4654-b2e7-453f11af4294",
+      "Barracao AA ; Rua 6 ; Coluna 4 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "ffff9ac3-2ade-4bc7-a1cc-8456cf9a792e",
+      "Barracao AA ; Rua 6 ; Coluna 4 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "d39b5040-3648-4fae-9d00-292f964785e5",
+      "Barracao AA ; Rua 6 ; Coluna 5 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "697e7098-ae63-4448-965d-ecde64ff36c4",
+      "Barracao AA ; Rua 6 ; Coluna 5 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "f9acc3df-3b5d-4593-bacb-1f090f317817",
+      "Barracao AA ; Rua 6 ; Coluna 5 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "a6d72794-cfc2-4b3f-9e9d-a29af77b0957",
+      "Barracao AA ; Rua 6 ; Coluna 5 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "5e8bcd50-abd2-437f-b0ea-d5740660bb1d",
+      "Barracao AA ; Rua 6 ; Coluna 6 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "5e39105c-c87f-4cf5-a549-e6508beb127c",
+      "Barracao AA ; Rua 6 ; Coluna 6 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "1fda0439-e735-43dc-96bc-39320afb37d2",
+      "Barracao AA ; Rua 6 ; Coluna 6 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "845c5b9a-eedd-4249-badd-73bf334ec204",
+      "Barracao AA ; Rua 6 ; Coluna 6 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "ec676da4-715b-4eb3-be5d-47c5fd92258f",
+      "Barracao AA ; Rua 6 ; Coluna 7 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "938b3e72-2762-48a6-beba-514ec154a578",
+      "Barracao AA ; Rua 6 ; Coluna 7 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "4c22198a-a068-4184-b82d-e37561d2bb4a",
+      "Barracao AA ; Rua 6 ; Coluna 7 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "43fbf059-eef0-4e2c-9e46-235216a5ed94",
+      "Barracao AA ; Rua 6 ; Coluna 7 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "40c4e489-31e4-4798-b972-750f60a5e7ea",
+      "Barracao AB ; Rua 2 ; Coluna 1 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "b66940e5-c0cf-4da7-b322-2a904a5f7576",
+      "Barracao AB ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "cde8beb3-64d6-4ee3-bb9c-3542472defd9",
+      "Barracao AB ; Rua 2 ; Coluna 1 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "f33355b7-d80f-4df4-89f2-3d64cd60c3e5",
+      "Barracao AB ; Rua 2 ; Coluna 1 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "64cc7817-831d-4ee1-b3f8-5a0124e49c09",
+      "Barracao AB ; Rua 2 ; Coluna 1 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "61094505-a11d-4b68-9dc5-2421dba9bbe0",
+      "Barracao AB ; Rua 2 ; Coluna 2 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "34014114-a809-44d5-97c3-14581aa9e7d0",
+      "Barracao AB ; Rua 2 ; Coluna 2 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "1fbd9a22-a722-415d-a341-bf2d34b3f2e9",
+      "Barracao AB ; Rua 2 ; Coluna 2 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "5d7aa1e8-714b-45e8-b82d-711f043d0cce",
+      "Barracao AB ; Rua 2 ; Coluna 2 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "cb1d67e8-dff5-4913-9e7f-15e2f7e0cbfc",
+      "Barracao AB ; Rua 2 ; Coluna 2 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "191e0c52-33aa-4b0d-9178-a676db5a7579",
+      "Barracao AB ; Rua 2 ; Coluna 3 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "0303e108-3354-46ab-9860-565c0fd79b54",
+      "Barracao AB ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "5661b55b-31ef-4fa0-898d-3a586962c420",
+      "Barracao AB ; Rua 2 ; Coluna 3 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "42922366-769c-4298-af15-5d55df629804",
+      "Barracao AB ; Rua 2 ; Coluna 3 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "1a0aa9f2-5c6c-4d4a-8cb4-9fc5b34b8fb7",
+      "Barracao AB ; Rua 2 ; Coluna 3 ; Nivel 5 ; Posicao 1",
+      false
+    ],
+    [
+      "f1787ad7-5940-4020-a409-5e32908a35d4",
+      "Barracao AB ; Rua 2 ; Coluna 4 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "25af6774-26f1-4285-b87e-94c00489887f",
+      "Barracao AB ; Rua 2 ; Coluna 4 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "c1425936-4bd3-4a77-a198-389a09aea5e8",
+      "Barracao AB ; Rua 2 ; Coluna 4 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "da2a43be-f472-4aa1-975a-784a5c3d5ede",
+      "Barracao AB ; Rua 2 ; Coluna 4 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "fe8c8d15-77a8-4a9b-9227-003a973c3a1a",
+      "Barracao AB ; Rua 2 ; Coluna 4 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "4f3d3c74-357c-44c8-b31c-d234ee0503e7",
+      "Barracao AB ; Rua 2 ; Coluna 5 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "a18396b6-e5e1-457c-9ad1-a40fc2dcfea0",
+      "Barracao AB ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "ea4feb71-122c-40a0-8323-0587b7210bfb",
+      "Barracao AB ; Rua 2 ; Coluna 5 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "d0319df9-cb32-4654-8263-4af4eaf77875",
+      "Barracao AB ; Rua 2 ; Coluna 5 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "18d18e4f-adfe-4835-a02e-1e31984f6679",
+      "Barracao AB ; Rua 2 ; Coluna 5 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "38d3330f-731c-437b-a805-70dc0918f73a",
+      "Barracao AB ; Rua 2 ; Coluna 6 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "c03c2609-d98a-4152-9415-5f3c70c6963b",
+      "Barracao AB ; Rua 2 ; Coluna 6 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "715c5290-7892-420d-90c1-1b9d204aba36",
+      "Barracao AB ; Rua 2 ; Coluna 6 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "3462ec0e-ada8-4dcf-82d4-18910b8b6dd9",
+      "Barracao AB ; Rua 2 ; Coluna 6 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "31bc6a14-9373-4e86-8c90-5e586559abd5",
+      "Barracao AB ; Rua 2 ; Coluna 6 ; Nivel 5 ; Posicao 1",
+      false
+    ],
+    [
+      "f73cf050-64a4-4d38-b5ce-c7ca4ec90adb",
+      "Barracao AB ; Rua 2 ; Coluna 7 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "a111b841-a465-461d-b2fb-0dc6fe7f9176",
+      "Barracao AB ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "321bc899-e13e-4b61-8820-ded801d9f5c6",
+      "Barracao AB ; Rua 2 ; Coluna 7 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "12dafa83-9e96-44c8-910f-ce8bd3a999c6",
+      "Barracao AB ; Rua 2 ; Coluna 7 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "28dc86a6-1df3-4178-bea1-6cb36d5898ee",
+      "Barracao AB ; Rua 2 ; Coluna 7 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "eef34965-9a5c-4a9e-b5f2-1bda60701aa6",
+      "Barracao AB ; Rua 2 ; Coluna 8 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "491d626c-b7de-4544-abb0-3d7eaf1d71d9",
+      "Barracao AB ; Rua 2 ; Coluna 8 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "4a297b62-88b9-4ab9-9ac7-a965ccd2c00a",
+      "Barracao AB ; Rua 2 ; Coluna 8 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "44010b58-e4e4-4621-8b92-5dffae24c156",
+      "Barracao AB ; Rua 2 ; Coluna 8 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "e1711500-7e14-4b8c-ac09-90394b1e6313",
+      "Barracao AB ; Rua 2 ; Coluna 8 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "e2783735-9872-45ff-b83c-74b193c3b421",
+      "Barracao AB ; Rua 2 ; Coluna 9 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "75109229-da1a-4022-a9b7-b2be851b3d09",
+      "Barracao AB ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "921e556b-61a3-4412-959f-c4324b7cad4b",
+      "Barracao AB ; Rua 2 ; Coluna 9 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "ee43b37e-c891-4945-a9f8-e3aaccb7ffe2",
+      "Barracao AB ; Rua 2 ; Coluna 9 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "69612387-d2a5-459b-986d-9a216cb27165",
+      "Barracao AB ; Rua 2 ; Coluna 9 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "684448de-def4-44a2-8247-5c9a29d08a10",
+      "Barracao AB ; Rua 2 ; Coluna 10 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "e4814eb7-0748-436f-ac03-0ca9b8804bed",
+      "Barracao AB ; Rua 2 ; Coluna 10 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "b8084445-77e2-4ef4-8e7a-293a1b73060f",
+      "Barracao AB ; Rua 2 ; Coluna 10 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "7ec31c24-aa84-4f9a-8391-4ff693e216ea",
+      "Barracao AB ; Rua 2 ; Coluna 10 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "5a46bc85-d24f-40a1-997b-a28018005fba",
+      "Barracao AB ; Rua 2 ; Coluna 10 ; Nivel 5 ; Posicao 1",
+      false
+    ],
+    [
+      "2172d25a-d708-4fd5-aae7-a0057105e076",
+      "Barracao AE1 ; Rua 2 ; Coluna 1 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "aeb51af6-6c82-4bc2-8732-3effa7cafdc0",
+      "Barracao AE1 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "82d68388-2d68-44ff-9029-0f94c64b5eac",
+      "Barracao AE1 ; Rua 2 ; Coluna 1 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "32a9a7c2-a094-42d9-a9df-124d18177383",
+      "Barracao AE1 ; Rua 2 ; Coluna 1 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "6ca79d6f-4f3f-4672-8f4a-6a113122fe4d",
+      "Barracao AE1 ; Rua 2 ; Coluna 2 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "5110caeb-fe9e-4db2-b3b7-5e0021d2a0e0",
+      "Barracao AE1 ; Rua 2 ; Coluna 2 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "13d5dead-fc1f-486d-b9c2-dc10aa5ea634",
+      "Barracao AE1 ; Rua 2 ; Coluna 2 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "bceb32a7-eaf3-4e55-8910-98195b937e72",
+      "Barracao AE1 ; Rua 2 ; Coluna 2 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "c65984d2-2003-4bd3-97b3-6b54d4407b8d",
+      "Barracao AE1 ; Rua 2 ; Coluna 2 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "57c8cf70-f570-4f02-b953-1408149205cc",
+      "Barracao AE1 ; Rua 2 ; Coluna 3 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "0c3856b6-304d-4793-993e-02f0f1b1efee",
+      "Barracao AE1 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "27449d76-02bd-41c2-b2eb-ed6fd69cc8aa",
+      "Barracao AE1 ; Rua 2 ; Coluna 3 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "95cbb580-afcb-454f-82c5-7aa713984388",
+      "Barracao AE1 ; Rua 2 ; Coluna 3 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "9b0f080d-d204-4881-8ec2-0d49cbd26003",
+      "Barracao AE1 ; Rua 2 ; Coluna 4 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "0fa457cf-7d65-4e73-aaaa-b3ba11ec0b63",
+      "Barracao AE1 ; Rua 2 ; Coluna 4 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "f3d5d922-eabd-464e-8400-df4e5e3f522b",
+      "Barracao AE1 ; Rua 2 ; Coluna 4 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "2a34be11-7b59-407a-a69e-0c0cdce2d56f",
+      "Barracao AE1 ; Rua 2 ; Coluna 4 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "00382b3d-1578-4b99-82b0-98fe5f509738",
+      "Barracao AE1 ; Rua 2 ; Coluna 4 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "d47bb6be-33c2-4623-b38f-0efee88f6d0d",
+      "Barracao AE1 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "958481f6-d40c-4f38-955b-697110a199d7",
+      "Barracao AE1 ; Rua 2 ; Coluna 5 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "1fdb6f99-4f4a-4ab1-8d10-bc0526e5cf85",
+      "Barracao AE1 ; Rua 2 ; Coluna 5 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "ebf110aa-508c-47d2-b3a9-ff28b76fbcbd",
+      "Barracao AE1 ; Rua 2 ; Coluna 6 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "d19baf66-f3ce-45e7-91f4-3de9fe344a3e",
+      "Barracao AE1 ; Rua 2 ; Coluna 6 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "ad896a40-5d90-4855-984a-b8b10873a66d",
+      "Barracao AE1 ; Rua 2 ; Coluna 6 ; Nivel 2 ; Posicao 2",
+      false
+    ],
+    [
+      "01851067-f44a-4dda-8945-e45559e14b7b",
+      "Barracao AE1 ; Rua 2 ; Coluna 6 ; Nivel 2 ; Posicao 3",
+      false
+    ],
+    [
+      "42925f54-19f8-436b-8795-36523869d644",
+      "Barracao AE1 ; Rua 2 ; Coluna 6 ; Nivel 2 ; Posicao 4",
+      false
+    ],
+    [
+      "a057bad3-8367-4676-be77-4c7052921bde",
+      "Barracao AE1 ; Rua 2 ; Coluna 6 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "18aaa84f-1a24-4d09-89c6-6bc543481905",
+      "Barracao AE1 ; Rua 2 ; Coluna 6 ; Nivel 3 ; Posicao 2",
+      false
+    ],
+    [
+      "693083db-af4c-4778-83b5-501ad7d9bcc9",
+      "Barracao AE1 ; Rua 2 ; Coluna 6 ; Nivel 3 ; Posicao 3",
+      false
+    ],
+    [
+      "950fac70-e247-4f6e-a7d0-717b51ff5d96",
+      "Barracao AE1 ; Rua 2 ; Coluna 6 ; Nivel 3 ; Posicao 4",
+      false
+    ],
+    [
+      "27b452a1-3d94-4b33-b5f1-6151d6879edd",
+      "Barracao AE1 ; Rua 2 ; Coluna 6 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "bf946fcb-4b76-45c3-bd4d-1d5173c1bdbc",
+      "Barracao AE1 ; Rua 2 ; Coluna 6 ; Nivel 4 ; Posicao 2",
+      false
+    ],
+    [
+      "f7425299-9a55-4945-9e8f-d63990bd241c",
+      "Barracao AE1 ; Rua 2 ; Coluna 6 ; Nivel 4 ; Posicao 3",
+      false
+    ],
+    [
+      "48f0bdf7-ae2e-40c8-b52e-4f61078da7e0",
+      "Barracao AE1 ; Rua 2 ; Coluna 6 ; Nivel 4 ; Posicao 4",
+      false
+    ],
+    [
+      "a86b1e55-6150-42c5-826b-a3f60ef3fb4b",
+      "Barracao AE1 ; Rua 2 ; Coluna 6 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "f30541da-e5c4-4634-9f19-8febe3505138",
+      "Barracao AE1 ; Rua 2 ; Coluna 7 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "7efa9761-18a0-48b9-ae88-d45e2acb8b39",
+      "Barracao AE1 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "bea809f8-97c5-4a77-be0c-94c77b83aadd",
+      "Barracao AE1 ; Rua 2 ; Coluna 7 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "2134f444-db23-4fba-a8bf-9d826669e02d",
+      "Barracao AE1 ; Rua 2 ; Coluna 7 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "3a0eea83-ba98-45e7-a70d-ebdb3e5b8693",
+      "Barracao AE1 ; Rua 2 ; Coluna 8 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "5242fe8b-108c-475e-ba92-5e3229d4ed1b",
+      "Barracao AE1 ; Rua 2 ; Coluna 8 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "c49ebfca-f680-4344-a889-97be6b111a6b",
+      "Barracao AE1 ; Rua 2 ; Coluna 8 ; Nivel 2 ; Posicao 2",
+      false
+    ],
+    [
+      "ef63e94e-6036-448f-926c-77424d8b1373",
+      "Barracao AE1 ; Rua 2 ; Coluna 8 ; Nivel 2 ; Posicao 3",
+      false
+    ],
+    [
+      "faf493d4-5a09-4cdd-b341-7e6d15c45246",
+      "Barracao AE1 ; Rua 2 ; Coluna 8 ; Nivel 2 ; Posicao 4",
+      false
+    ],
+    [
+      "a6acf037-c9ad-4b82-93a1-d2c7f9f561e0",
+      "Barracao AE1 ; Rua 2 ; Coluna 8 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "0d6e651d-2763-468a-99ad-b54bdb805463",
+      "Barracao AE1 ; Rua 2 ; Coluna 8 ; Nivel 3 ; Posicao 2",
+      false
+    ],
+    [
+      "2740fc28-eafd-41bf-a740-a7fb7ee2a3ad",
+      "Barracao AE1 ; Rua 2 ; Coluna 8 ; Nivel 3 ; Posicao 3",
+      false
+    ],
+    [
+      "0365445d-b77d-48b4-9cfc-08129674b691",
+      "Barracao AE1 ; Rua 2 ; Coluna 8 ; Nivel 3 ; Posicao 4",
+      true
+    ],
+    [
+      "acf37928-7720-4512-89de-c018e545d53e",
+      "Barracao AE1 ; Rua 2 ; Coluna 8 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "774aeb36-b27f-4fb9-a61c-277f475dc143",
+      "Barracao AE1 ; Rua 2 ; Coluna 8 ; Nivel 4 ; Posicao 2",
+      true
+    ],
+    [
+      "10bfca7a-9e57-4cff-b003-fccfab9a0cfb",
+      "Barracao AE1 ; Rua 2 ; Coluna 8 ; Nivel 4 ; Posicao 3",
+      true
+    ],
+    [
+      "73853b58-4921-4f50-94bd-3b3e542d5d0d",
+      "Barracao AE1 ; Rua 2 ; Coluna 8 ; Nivel 4 ; Posicao 4",
+      true
+    ],
+    [
+      "1f5a1b09-8192-469e-8d3b-5e39fdc9802f",
+      "Barracao AE1 ; Rua 2 ; Coluna 10 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "d71a855e-ceaa-4a52-b101-ee2bac36d79c",
+      "Barracao AE1 ; Rua 2 ; Coluna 10 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "ff161b18-80e9-4e78-9d44-91259d9fbe83",
+      "Barracao AE1 ; Rua 2 ; Coluna 10 ; Nivel 2 ; Posicao 2",
+      true
+    ],
+    [
+      "2cc4e89b-1d98-41d7-9ef0-1a0c6196438a",
+      "Barracao AE1 ; Rua 2 ; Coluna 10 ; Nivel 2 ; Posicao 3",
+      true
+    ],
+    [
+      "327112ea-d759-4e05-a3ad-3db94a0a752e",
+      "Barracao AE1 ; Rua 2 ; Coluna 10 ; Nivel 2 ; Posicao 4",
+      false
+    ],
+    [
+      "9893bd3d-d982-4708-8e8b-c82e7d65e4c5",
+      "Barracao AE1 ; Rua 2 ; Coluna 10 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "1ea3b7b4-2834-4cf8-acfe-8711d11ddcb9",
+      "Barracao AE1 ; Rua 2 ; Coluna 10 ; Nivel 3 ; Posicao 2",
+      false
+    ],
+    [
+      "6ef4493d-1d67-4e07-8bec-b5e8ce91a74b",
+      "Barracao AE1 ; Rua 2 ; Coluna 10 ; Nivel 3 ; Posicao 3",
+      true
+    ],
+    [
+      "82fc0094-a988-4731-9cc7-25f325efd2ea",
+      "Barracao AE1 ; Rua 2 ; Coluna 10 ; Nivel 3 ; Posicao 4",
+      true
+    ],
+    [
+      "979ae77b-2bbb-422e-b2fc-af463dce72e8",
+      "Barracao AE1 ; Rua 2 ; Coluna 10 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "2bb3e05c-34be-49c1-82f1-fd1ddd02a24d",
+      "Barracao AE1 ; Rua 2 ; Coluna 10 ; Nivel 4 ; Posicao 2",
+      false
+    ],
+    [
+      "0703d6e0-b49b-4e99-a1ae-055e3f2391ca",
+      "Barracao AE1 ; Rua 2 ; Coluna 10 ; Nivel 4 ; Posicao 3",
+      true
+    ],
+    [
+      "d7f09ca2-72f1-4d98-929e-59f32ca447de",
+      "Barracao AE1 ; Rua 2 ; Coluna 10 ; Nivel 4 ; Posicao 4",
+      false
+    ],
+    [
+      "a9a56596-f0a4-4074-b0cc-723c476bed6e",
+      "Barracao AE1 ; Rua 2 ; Coluna 12 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "682e34df-79bf-4c7f-9a82-28887ba8777c",
+      "Barracao AE1 ; Rua 2 ; Coluna 12 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "923a1698-6bcb-432d-ba6a-864fc5fe50f2",
+      "Barracao AE1 ; Rua 2 ; Coluna 12 ; Nivel 2 ; Posicao 2",
+      false
+    ],
+    [
+      "e761bbc6-0db3-4e47-a9e3-51bbe9483bd4",
+      "Barracao AE1 ; Rua 2 ; Coluna 12 ; Nivel 2 ; Posicao 3",
+      false
+    ],
+    [
+      "4d49b445-82fb-4988-a271-5058d65d6d55",
+      "Barracao AE1 ; Rua 2 ; Coluna 12 ; Nivel 2 ; Posicao 4",
+      false
+    ],
+    [
+      "db9ed099-541d-4225-8d02-51159b9d8345",
+      "Barracao AE1 ; Rua 2 ; Coluna 12 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "d1bd1a96-66ce-400e-9c2b-681fc01d6e5e",
+      "Barracao AE1 ; Rua 2 ; Coluna 12 ; Nivel 3 ; Posicao 2",
+      false
+    ],
+    [
+      "186cf26a-9956-4654-9eda-a42af722a9d0",
+      "Barracao AE1 ; Rua 2 ; Coluna 12 ; Nivel 3 ; Posicao 3",
+      false
+    ],
+    [
+      "0350b322-cb2b-4dbb-aed8-82bdd712ba98",
+      "Barracao AE1 ; Rua 2 ; Coluna 12 ; Nivel 3 ; Posicao 4",
+      false
+    ],
+    [
+      "0ec61b64-286e-42c3-ada8-7274fd3c3d51",
+      "Barracao AE1 ; Rua 2 ; Coluna 12 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "2048b7f1-b18c-4dbe-87d4-1eff4857abe0",
+      "Barracao AE1 ; Rua 2 ; Coluna 12 ; Nivel 4 ; Posicao 2",
+      true
+    ],
+    [
+      "80dfa586-fd29-4add-aa31-0ce6fd487a60",
+      "Barracao AE1 ; Rua 2 ; Coluna 12 ; Nivel 4 ; Posicao 3",
+      true
+    ],
+    [
+      "8bd4ee22-b5bc-4bca-ae8b-6b7a3d63f295",
+      "Barracao AE1 ; Rua 2 ; Coluna 12 ; Nivel 4 ; Posicao 4",
+      false
+    ],
+    [
+      "32a0e838-0b7b-493f-8bb1-8a850dde6fdc",
+      "Barracao AE1 ; Rua 3 ; Coluna 1 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "6eecfc9e-7ee5-4074-8e49-eed4b4c83f24",
+      "Barracao AE1 ; Rua 3 ; Coluna 1 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "2622b357-dec2-41d6-99ea-b4b695d7b214",
+      "Barracao AE1 ; Rua 3 ; Coluna 1 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "b50e9048-63e1-454d-aa85-c003a8303e3f",
+      "Barracao AE1 ; Rua 3 ; Coluna 2 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "f7b60ac4-e47c-45c2-b860-9e79318b830d",
+      "Barracao AE1 ; Rua 3 ; Coluna 2 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "7b6dcf50-be3a-4350-a949-5524aeef18ca",
+      "Barracao AE1 ; Rua 3 ; Coluna 2 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "2fa977ef-82b6-4ea8-bb2b-0fbed032c3a4",
+      "Barracao AE1 ; Rua 3 ; Coluna 2 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "28920cf1-03c9-4cb9-9b53-79f9e7176f86",
+      "Barracao AE1 ; Rua 3 ; Coluna 2 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "aa1b4235-7d36-4de0-a709-f9decbe85701",
+      "Barracao AE1 ; Rua 3 ; Coluna 3 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "eac8c69f-1e50-4294-9dad-171d73b69a01",
+      "Barracao AE1 ; Rua 3 ; Coluna 3 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "5cf8c0b9-5b41-4b4f-817c-ef1942436840",
+      "Barracao AE1 ; Rua 3 ; Coluna 3 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "58e3ec51-d3fc-4c6d-9803-047fdf53c577",
+      "Barracao AE1 ; Rua 3 ; Coluna 4 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "72b860c9-5392-4419-9590-aa07ca60ad6b",
+      "Barracao AE1 ; Rua 3 ; Coluna 4 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "6238d954-9de3-40c4-b354-48e193bb77f5",
+      "Barracao AE1 ; Rua 3 ; Coluna 4 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "6ed051e6-fd33-40bb-b8e2-ac52d0ee312f",
+      "Barracao AE1 ; Rua 3 ; Coluna 4 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "f6aadd2e-4036-46fe-b4e6-b479655a7b84",
+      "Barracao AE1 ; Rua 3 ; Coluna 4 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "f864e9ea-0a7d-4b36-82f7-ec509a141df7",
+      "Barracao AE1 ; Rua 3 ; Coluna 5 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "214dbeb9-22e2-4895-801a-9e2ffd1ad5f8",
+      "Barracao AE1 ; Rua 3 ; Coluna 5 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "dfab02ea-e8a0-4e0c-9325-f686ee0c390a",
+      "Barracao AE1 ; Rua 3 ; Coluna 5 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "cd8d1c71-8cd7-4f74-a909-dd6eea7490ca",
+      "Barracao AE1 ; Rua 3 ; Coluna 6 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "c420bf73-dbb1-4ec6-9f3e-bcf1d0b76710",
+      "Barracao AE1 ; Rua 3 ; Coluna 6 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "510742a4-562c-4941-a487-3f8eb2d36422",
+      "Barracao AE1 ; Rua 3 ; Coluna 6 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "ec58f123-7654-4beb-b790-d292b7ffd63c",
+      "Barracao AE1 ; Rua 3 ; Coluna 6 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "53190aa0-24a2-4165-b607-b3945ab45e9e",
+      "Barracao AE1 ; Rua 3 ; Coluna 6 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "7510a764-da5d-4fe2-a461-3e9f7f9f3d5b",
+      "Barracao AE1 ; Rua 3 ; Coluna 7 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "3d255cd3-2611-4943-8c2b-52f95772aff3",
+      "Barracao AE1 ; Rua 3 ; Coluna 7 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "5f18b94f-73f5-4460-a894-d4bfcd7bcb9b",
+      "Barracao AE1 ; Rua 3 ; Coluna 7 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "7de0c247-b06d-4e02-bd31-25c33bfd31c1",
+      "Barracao AE1 ; Rua 3 ; Coluna 8 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "3291c454-cb8d-4600-912b-18b781d5f496",
+      "Barracao AE1 ; Rua 3 ; Coluna 8 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "cf3a0629-54a6-46b8-ad98-6821bc2b8c08",
+      "Barracao AE1 ; Rua 3 ; Coluna 8 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "5f80e8b8-47a0-4f45-8daa-deb61c9298ab",
+      "Barracao AE1 ; Rua 3 ; Coluna 8 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "77b8baed-4591-42f3-a2f1-2c8192a6f8c4",
+      "Barracao AE1 ; Rua 3 ; Coluna 8 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "892073c0-e327-41d4-b919-567b8e8bfe1e",
+      "Barracao AE1 ; Rua 3 ; Coluna 9 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "29f15ddd-8adb-46aa-bbe6-268f56208e40",
+      "Barracao AE1 ; Rua 3 ; Coluna 9 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "1a347f88-7477-4b12-841e-0a4e3e627b3e",
+      "Barracao AE1 ; Rua 3 ; Coluna 9 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "e530d385-6bd5-440d-a2e5-4dd0e15054f3",
+      "Barracao AE1 ; Rua 3 ; Coluna 10 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "165f3b62-476d-413b-b446-21c8048e9d7f",
+      "Barracao AE1 ; Rua 3 ; Coluna 10 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "7c203130-d4ca-49c6-84dc-074cf2f83204",
+      "Barracao AE1 ; Rua 3 ; Coluna 10 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "5015a667-e6de-498e-b393-2e3f422deebf",
+      "Barracao AE1 ; Rua 3 ; Coluna 10 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "e4177411-e988-4f86-90e0-43d1787fd3f1",
+      "Barracao AE1 ; Rua 3 ; Coluna 10 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "103e82ea-9af5-4c4b-bd9a-2ad6514faf17",
+      "Barracao AE1 ; Rua 3 ; Coluna 11 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "05f01d6f-6549-44a2-9d7c-485b0da0f584",
+      "Barracao AE1 ; Rua 3 ; Coluna 11 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "18a797ca-d0af-48b5-9a93-bea635803696",
+      "Barracao AE1 ; Rua 3 ; Coluna 11 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "9a244d6b-b094-4647-ba1c-7aed490bc3bd",
+      "Barracao AE1 ; Rua 3 ; Coluna 12 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "8ef9d353-efba-4d3e-878d-38c1055c865a",
+      "Barracao AE1 ; Rua 3 ; Coluna 12 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "40271261-333a-4e1a-8e91-8bfd7f5853d4",
+      "Barracao AE1 ; Rua 3 ; Coluna 12 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "3173e33c-70fb-451d-9c15-3c16e6f8a0ec",
+      "Barracao AE1 ; Rua 3 ; Coluna 12 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "2d4b3246-59b4-4db0-9d1f-3374a81de33c",
+      "Barracao AE1 ; Rua 3 ; Coluna 12 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "2a3060d7-126f-4866-b545-7a5126576b5b",
+      "Barracao AE1 ; Rua 3 ; Coluna 13 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "aad249b0-0533-430f-b9f0-83c4be3dd30c",
+      "Barracao AE1 ; Rua 3 ; Coluna 13 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "8a17e563-a1a8-4654-8823-ce19cc20e98c",
+      "Barracao AE1 ; Rua 3 ; Coluna 14 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "e6771963-903a-4750-8596-3719bd3b849b",
+      "Barracao AE1 ; Rua 3 ; Coluna 14 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "acb0aa8d-1254-4be2-b6bf-8e0ba157825b",
+      "Barracao AE1 ; Rua 3 ; Coluna 14 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "2ec4859e-e095-4159-885b-e1e28176ca07",
+      "Barracao AE1 ; Rua 3 ; Coluna 14 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "3a8d1025-8409-4aee-8799-df02e73d199e",
+      "Barracao AE1 ; Rua 3 ; Coluna 14 ; Nivel 5 ; Posicao 1",
+      false
+    ],
+    [
+      "f9128922-65bc-4ce2-87f6-83c5aadfdb85",
+      "Barracao AE1 ; Rua 3 ; Coluna 14 ; Nivel 6 ; Posicao 1",
+      true
+    ],
+    [
+      "651d572e-f49a-4e25-8a04-c29f78411082",
+      "Barracao AE1 ; Rua 3 ; Coluna 15 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "c55f2881-2ebf-4f76-bc11-d4efb3e85b61",
+      "Barracao AE1 ; Rua 3 ; Coluna 15 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "09393092-c303-4dfc-b0ee-66f40dd70e1e",
+      "Barracao AE1 ; Rua 3 ; Coluna 16 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "f65f5c4a-37ba-4502-a7dd-d3c4ec067de3",
+      "Barracao AE1 ; Rua 3 ; Coluna 16 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "09352cd8-e861-4788-8a8b-ca62c816c9e7",
+      "Barracao AE1 ; Rua 3 ; Coluna 16 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "8c6a2e24-2fe9-43ed-becf-52d70298a0bc",
+      "Barracao AE1 ; Rua 3 ; Coluna 16 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "a5ee89fa-e0b2-4151-8e0b-8bc8a25a3639",
+      "Barracao AE1 ; Rua 3 ; Coluna 16 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "26ea5d20-3541-4043-9e08-7625ff72b716",
+      "Barracao AE1 ; Rua 3 ; Coluna 16 ; Nivel 6 ; Posicao 1",
+      true
+    ],
+    [
+      "5e713989-3eed-4773-8796-4a510c2c2415",
+      "Barracao AE1 ; Rua 3 ; Coluna 17 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "def75e2b-6c0b-49f2-9af3-3ef46fc0e554",
+      "Barracao AE1 ; Rua 3 ; Coluna 17 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "09d617b9-71be-4e4c-a4c9-31bb7573b8ca",
+      "Barracao AE1 ; Rua 3 ; Coluna 18 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "03bc6d53-8be6-4ae6-9b97-29a6cf29d775",
+      "Barracao AE1 ; Rua 3 ; Coluna 18 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "7c3adebc-e3e1-41f4-abf4-0a5f675b76ad",
+      "Barracao AE1 ; Rua 3 ; Coluna 18 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "a94f78a0-7b78-4a14-9124-53f3a338ed7a",
+      "Barracao AE1 ; Rua 3 ; Coluna 18 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "13e02dd7-50d8-4f4b-96b4-f2ea20510e47",
+      "Barracao AE1 ; Rua 3 ; Coluna 18 ; Nivel 5 ; Posicao 1",
+      false
+    ],
+    [
+      "ab6dc3a1-e515-458f-8198-611ebb199ff2",
+      "Barracao AE1 ; Rua 3 ; Coluna 18 ; Nivel 6 ; Posicao 1",
+      false
+    ],
+    [
+      "0673a4d5-4279-404a-a8a4-b16aaab10132",
+      "Barracao AE1 ; Rua 3 ; Coluna 19 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "af717e87-1e25-45db-9ff5-924f455c706a",
+      "Barracao AE1 ; Rua 3 ; Coluna 19 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "a8062a84-ec06-422e-afaa-44e4607a5141",
+      "Barracao AE1 ; Rua 3 ; Coluna 20 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "73c9d6a5-1805-4651-8efe-387788ecb6bd",
+      "Barracao AE1 ; Rua 3 ; Coluna 20 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "dbb7f888-5410-4300-8e26-e962e425104e",
+      "Barracao AE1 ; Rua 3 ; Coluna 20 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "58c287f7-55f5-405f-b98e-f51ae643a46f",
+      "Barracao AE1 ; Rua 3 ; Coluna 20 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "756d36a2-b222-4a1d-adee-3839f8437324",
+      "Barracao AE1 ; Rua 3 ; Coluna 20 ; Nivel 5 ; Posicao 1",
+      false
+    ],
+    [
+      "44bb7900-0f7c-4bb1-9873-4014ad04e354",
+      "Barracao AE1 ; Rua 3 ; Coluna 20 ; Nivel 6 ; Posicao 1",
+      true
+    ],
+    [
+      "41e8f886-ec5d-492d-ad86-412425ad3baf",
+      "Barracao AE1 ; Rua 3 ; Coluna 21 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "7430aecf-076a-4045-9c79-48f64a85ed37",
+      "Barracao AE1 ; Rua 3 ; Coluna 21 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "2316ce77-4eac-4667-80d8-eca9e91ad67a",
+      "Barracao AE1 ; Rua 3 ; Coluna 22 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "64e7016e-9977-4842-abc7-ed1915507ee1",
+      "Barracao AE1 ; Rua 3 ; Coluna 22 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "a9a78046-912e-40f4-99f7-4b2ed0febed4",
+      "Barracao AE1 ; Rua 3 ; Coluna 22 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "25d1cdb4-1c7e-4a4d-83bf-5eb26f010ac4",
+      "Barracao AE1 ; Rua 3 ; Coluna 22 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "402deacd-57c9-4f48-87ba-8458f128e251",
+      "Barracao AE1 ; Rua 3 ; Coluna 22 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "451d67b8-f30b-4163-ba75-6bde9c38154f",
+      "Barracao AE1 ; Rua 3 ; Coluna 22 ; Nivel 6 ; Posicao 1",
+      true
+    ],
+    [
+      "a87942da-0c52-477b-9895-0cdcffb776aa",
+      "Barracao AE1 ; Rua 4 ; Coluna 1 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "fe179987-ebbf-4a38-8481-d70b7d5babb4",
+      "Barracao AE1 ; Rua 4 ; Coluna 1 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "8878fc02-a43f-4ebc-88c3-63c1c4a0b1d2",
+      "Barracao AE1 ; Rua 4 ; Coluna 1 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "de18f3f8-1933-4b18-b0f7-8c88b0a21ab1",
+      "Barracao AE1 ; Rua 4 ; Coluna 2 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "a4a16b03-3f6c-4844-8ba2-6129a6f9caee",
+      "Barracao AE1 ; Rua 4 ; Coluna 2 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "583ec25b-6e31-46d9-b29e-762e0ac998a1",
+      "Barracao AE1 ; Rua 4 ; Coluna 2 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "877ddc46-e494-4bc1-9e89-eaa919d8e2c7",
+      "Barracao AE1 ; Rua 4 ; Coluna 2 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "7cb2fa1d-6006-4007-843d-cb01343a2dc3",
+      "Barracao AE1 ; Rua 4 ; Coluna 2 ; Nivel 5 ; Posicao 1",
+      false
+    ],
+    [
+      "68eeba9d-d0dd-4ac9-a9f5-55dddecd6a6b",
+      "Barracao AE1 ; Rua 4 ; Coluna 3 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "18abe758-e83f-4a84-9cb4-f904e69034c1",
+      "Barracao AE1 ; Rua 4 ; Coluna 3 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "66123a58-54c2-4c11-bcbb-d67ae898ec5e",
+      "Barracao AE1 ; Rua 4 ; Coluna 3 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "51debd6a-8f06-4e6a-b14e-5c86cf94a732",
+      "Barracao AE1 ; Rua 4 ; Coluna 4 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "9e010351-becb-4a8e-b1a3-7a533e1a6c6e",
+      "Barracao AE1 ; Rua 4 ; Coluna 4 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "2801ee66-00a6-4119-9967-7e978c516b3a",
+      "Barracao AE1 ; Rua 4 ; Coluna 4 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "09e1fa7b-bc56-4976-868a-a0ea6de2af27",
+      "Barracao AE1 ; Rua 4 ; Coluna 4 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "ab259a2b-f98d-495c-9f54-38a39ea4c2d2",
+      "Barracao AE1 ; Rua 4 ; Coluna 4 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "c78d225e-0b0a-4fd5-9c12-2bffe3d3b92f",
+      "Barracao AE1 ; Rua 4 ; Coluna 5 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "ec3d0120-14ec-480c-bbeb-4bda6c0494cd",
+      "Barracao AE1 ; Rua 4 ; Coluna 5 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "b033a752-64a8-4218-bf7f-5847bb580166",
+      "Barracao AE1 ; Rua 4 ; Coluna 5 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "0620a39a-926a-4e11-9414-98bf9283fcd5",
+      "Barracao AE1 ; Rua 4 ; Coluna 7 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "c478819d-eb25-4211-8124-12b533e5b449",
+      "Barracao AE1 ; Rua 4 ; Coluna 7 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "8169e101-1dbc-4f8c-bc67-ea6039092aaf",
+      "Barracao AE1 ; Rua 4 ; Coluna 7 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "0b90abfd-cec3-4d8f-b5da-2a873deadf0d",
+      "Barracao AE1 ; Rua 4 ; Coluna 9 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "12e30d01-d037-4555-b177-318873d2b918",
+      "Barracao AE1 ; Rua 4 ; Coluna 9 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "d30f4371-02f1-402b-8100-7ccace9a5aa8",
+      "Barracao AE1 ; Rua 4 ; Coluna 9 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "e81a57f0-2d5a-44c4-9e96-de5be1a545e1",
+      "Barracao AE1 ; Rua 4 ; Coluna 11 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "3adc50f5-d55c-46d5-8b04-9c6669bfb05b",
+      "Barracao AE1 ; Rua 4 ; Coluna 11 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "18a8643f-b646-452d-abac-59e8d80a64b9",
+      "Barracao AE1 ; Rua 4 ; Coluna 11 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "aee153ed-39dd-4521-9829-5bc639c8f842",
+      "Barracao AE1 ; Rua 4 ; Coluna 13 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "1a399265-098f-45d9-b2b3-7213983f820a",
+      "Barracao AE1 ; Rua 4 ; Coluna 13 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "fde79c88-efc6-454e-90b7-38dac458172d",
+      "Barracao AE1 ; Rua 4 ; Coluna 13 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "b1eaf5c8-f0dd-4f6b-92d0-21bea8548fd7",
+      "Barracao AE1 ; Rua 4 ; Coluna 13 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "ba92a557-fbb4-480b-9e20-4ed6438c73bd",
+      "Barracao AE1 ; Rua 4 ; Coluna 13 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "105b146b-a692-4fdb-8b24-5bdce154a142",
+      "Barracao AE1 ; Rua 4 ; Coluna 13 ; Nivel 6 ; Posicao 1",
+      false
+    ],
+    [
+      "92872e7a-67ee-420a-85d2-d7b2b373e9b8",
+      "Barracao AE1 ; Rua 4 ; Coluna 14 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "ea5a0e2b-531e-471c-b462-11317dc7c954",
+      "Barracao AE1 ; Rua 4 ; Coluna 14 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "766b1613-53f7-4126-8829-68ca9d9c586c",
+      "Barracao AE1 ; Rua 4 ; Coluna 14 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "e9446264-6cf0-453a-9c90-ff33e404c48e",
+      "Barracao AE1 ; Rua 4 ; Coluna 15 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "3ed81f6c-4b0c-40bd-b762-7890dafc40b1",
+      "Barracao AE1 ; Rua 4 ; Coluna 15 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "96aea027-1730-4880-975b-2c19bd344a8b",
+      "Barracao AE1 ; Rua 4 ; Coluna 15 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "e54f7245-619f-4d30-9daf-33fef79dfa4d",
+      "Barracao AE1 ; Rua 4 ; Coluna 15 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "c0a129d2-a9e0-465b-8f63-415c2230f776",
+      "Barracao AE1 ; Rua 4 ; Coluna 15 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "349e9b22-b9a9-412e-ab10-b0be789f0560",
+      "Barracao AE1 ; Rua 4 ; Coluna 15 ; Nivel 6 ; Posicao 1",
+      true
+    ],
+    [
+      "34f943e2-cf6f-4340-a3e5-45a8197e3988",
+      "Barracao AE1 ; Rua 4 ; Coluna 16 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "ba5b908e-ffd6-4061-886c-447f0ae377cd",
+      "Barracao AE1 ; Rua 4 ; Coluna 16 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "0e5cba8d-6b29-44d6-89c2-384848a22c96",
+      "Barracao AE1 ; Rua 4 ; Coluna 16 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "bb91fcb5-3cf6-4387-bb48-bcf53dedd1f5",
+      "Barracao AE1 ; Rua 4 ; Coluna 17 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "db62ffc0-b9f6-4197-929d-a4bf794bbc7b",
+      "Barracao AE1 ; Rua 4 ; Coluna 17 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "aa4f4306-66f4-4198-a57e-a071eb369837",
+      "Barracao AE1 ; Rua 4 ; Coluna 17 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "46ae3ea8-e798-4b34-8c3f-f5b192643571",
+      "Barracao AE1 ; Rua 4 ; Coluna 17 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "c5046a6c-de9d-4975-9f11-23b98b6e3a8d",
+      "Barracao AE1 ; Rua 4 ; Coluna 17 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "e478896a-7140-4ae0-9ae0-014edcb5157f",
+      "Barracao AE1 ; Rua 4 ; Coluna 17 ; Nivel 6 ; Posicao 1",
+      true
+    ],
+    [
+      "27da49a3-725d-4a76-86bd-f0d220e379b0",
+      "Barracao AE1 ; Rua 4 ; Coluna 18 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "f60b141a-a9eb-4265-b446-f73be5337406",
+      "Barracao AE1 ; Rua 4 ; Coluna 18 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "5a839bc6-7163-4003-b117-c598f568ec4a",
+      "Barracao AE1 ; Rua 4 ; Coluna 18 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "0ce11980-8535-4058-b742-2ab81cd24631",
+      "Barracao AE1 ; Rua 4 ; Coluna 18 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "8b3863a0-a939-4ad2-857e-3f037b07df8f",
+      "Barracao AE1 ; Rua 4 ; Coluna 19 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "a423b884-d930-413b-9e2f-c49a291d34a4",
+      "Barracao AE1 ; Rua 4 ; Coluna 19 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "59b0aaa8-0129-4e2d-829c-0a932717d35d",
+      "Barracao AE1 ; Rua 4 ; Coluna 19 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "3ab09299-7ec6-4d02-a803-fb02d05b4f5b",
+      "Barracao AE1 ; Rua 4 ; Coluna 19 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "bbf9eb32-e2de-48ae-9785-99e04d759dbd",
+      "Barracao AE1 ; Rua 4 ; Coluna 19 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "665f3ded-6d55-4a90-9d7b-1fcf0b05d962",
+      "Barracao AE1 ; Rua 4 ; Coluna 19 ; Nivel 6 ; Posicao 1",
+      false
+    ],
+    [
+      "19d1662d-d7d0-425a-8002-bef819732bf5",
+      "Barracao AE1 ; Rua 4 ; Coluna 20 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "2dd2ab54-b1ad-4c0e-9926-14b7f2d45755",
+      "Barracao AE1 ; Rua 4 ; Coluna 20 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "0d22ee6c-d0e3-4193-8a62-18f47e0e991f",
+      "Barracao AE1 ; Rua 4 ; Coluna 20 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "7ffad6da-5857-4193-8dbc-8c3d97823440",
+      "Barracao AE1 ; Rua 4 ; Coluna 21 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "1bcc93ca-9dba-47bd-beb2-4ab57dd580d8",
+      "Barracao AE1 ; Rua 4 ; Coluna 21 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "5f4a22f1-6ac5-423c-9c80-0c7547de7a83",
+      "Barracao AE1 ; Rua 4 ; Coluna 21 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "6c3df2a0-e735-4af6-9a06-c18d5bb21de0",
+      "Barracao AE1 ; Rua 4 ; Coluna 21 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "29a61509-d5e6-4a7a-acf7-adcb4a40cf33",
+      "Barracao AE1 ; Rua 4 ; Coluna 21 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "86e6cb14-322d-4b91-b6d1-b6539e040608",
+      "Barracao AE1 ; Rua 4 ; Coluna 21 ; Nivel 6 ; Posicao 1",
+      true
+    ],
+    [
+      "2142f603-c7ec-47fe-93dc-ac8d63f715fc",
+      "Barracao AE1 ; Rua 4 ; Coluna 21 ; Nivel 7 ; Posicao 1",
+      true
+    ],
+    [
+      "93602884-4abe-493f-a14b-ea7948ca28aa",
+      "Barracao AE1 ; Rua 4 ; Coluna 21 ; Nivel 8 ; Posicao 1",
+      false
+    ],
+    [
+      "9a26d206-9b0d-4d89-9207-4a98c327bebe",
+      "Barracao AE1 ; Rua 4 ; Coluna 22 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "bb1e2b5f-c637-4cde-9ede-46b72a81b99c",
+      "Barracao AE1 ; Rua 4 ; Coluna 22 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "05477dd8-0ab1-41c9-8a71-939069759503",
+      "Barracao AE1 ; Rua 4 ; Coluna 22 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "8742f5cc-7cfa-4377-813b-995bef71654f",
+      "Barracao AE1 ; Rua 5 ; Coluna 1 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "76f4cb53-a951-46ff-ae95-16e7ab75a374",
+      "Barracao AE1 ; Rua 5 ; Coluna 1 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "770a06df-7abd-416d-90a0-e83e7cd430c3",
+      "Barracao AE1 ; Rua 5 ; Coluna 1 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "e53f247d-7819-4588-862c-b1a484e3ec12",
+      "Barracao AE1 ; Rua 5 ; Coluna 1 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "855949b0-34f3-447a-b6c4-1c37e949f2da",
+      "Barracao AE1 ; Rua 5 ; Coluna 2 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "5285ce6e-fdf8-4711-b9c3-e61c53951954",
+      "Barracao AE1 ; Rua 5 ; Coluna 2 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "d9a2af5e-0668-4a3c-afac-fbb0e0b8a2da",
+      "Barracao AE1 ; Rua 5 ; Coluna 2 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "6da7da3a-dab1-422d-b347-40609969a776",
+      "Barracao AE1 ; Rua 5 ; Coluna 2 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "b4b46c55-ce03-40cc-8d8a-33f668e83c6f",
+      "Barracao AE1 ; Rua 5 ; Coluna 3 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "e7549682-8922-4365-b9ea-e2a1994f6774",
+      "Barracao AE1 ; Rua 5 ; Coluna 3 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "4d8cc5f8-424b-416b-8c53-e67aa28482cd",
+      "Barracao AE1 ; Rua 5 ; Coluna 3 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "68596b4c-1886-44c9-9289-372df64abbfa",
+      "Barracao AE1 ; Rua 5 ; Coluna 3 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "cbd5997e-09a2-45fb-8fd9-c0f92764a474",
+      "Barracao AE1 ; Rua 5 ; Coluna 4 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "76290a26-438b-4313-9e50-65e729170211",
+      "Barracao AE1 ; Rua 5 ; Coluna 4 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "010bd28c-221e-460c-a07d-62cf1011599b",
+      "Barracao AE1 ; Rua 5 ; Coluna 4 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "8096693f-59d8-4ea8-a350-fe073bd7dfd9",
+      "Barracao AE1 ; Rua 5 ; Coluna 4 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "8c864622-4f98-4011-904a-283d714a8ea6",
+      "Barracao AE1 ; Rua 5 ; Coluna 6 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "a85b0a60-45e9-40c3-b75e-fffe90cbc6ca",
+      "Barracao AE1 ; Rua 5 ; Coluna 6 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "e52faf6d-09a3-4137-a788-ba0a7ee53c42",
+      "Barracao AE1 ; Rua 5 ; Coluna 6 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "f2458c6f-0c43-4f77-afe5-576ec5c9b13c",
+      "Barracao AE1 ; Rua 5 ; Coluna 6 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "66a6c535-b6ad-4af9-a50e-6b4479986a1d",
+      "Barracao AE1 ; Rua 5 ; Coluna 8 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "7390afe6-3a65-4411-8cca-29e7a3d8b5c7",
+      "Barracao AE1 ; Rua 5 ; Coluna 8 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "9444367e-7d76-405f-a6b7-9a8bc49c7419",
+      "Barracao AE1 ; Rua 5 ; Coluna 8 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "61ece7e1-0313-4324-ad54-7c96aaf6537d",
+      "Barracao AE1 ; Rua 5 ; Coluna 8 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "d48348bc-38e7-4357-b916-fed7174e6d63",
+      "Barracao AE2 ; Rua 1 ; Coluna 1 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "24450b78-d5a5-4485-9bc7-55208a44271c",
+      "Barracao AE2 ; Rua 1 ; Coluna 1 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "690e33bd-7084-46d2-a1cc-c4c77457e5a4",
+      "Barracao AE2 ; Rua 1 ; Coluna 1 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "d473189d-dbef-4e6a-85ec-0d61b06f9f17",
+      "Barracao AE2 ; Rua 1 ; Coluna 1 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "551d9117-65e3-4b33-a74e-05f9ee8f5591",
+      "Barracao AE2 ; Rua 1 ; Coluna 1 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "bfae2239-c507-420d-a93f-f21599f71978",
+      "Barracao AE2 ; Rua 1 ; Coluna 1 ; Nivel 6 ; Posicao 1",
+      true
+    ],
+    [
+      "ea7b6c44-36d0-4081-a780-6836ac7c2db0",
+      "Barracao AE2 ; Rua 1 ; Coluna 1 ; Nivel 7 ; Posicao 1",
+      false
+    ],
+    [
+      "4831aefe-fb2e-4645-8ec7-9bf1545e78f3",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "998aacd5-5a09-4db7-bdee-224defc9ba93",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "08977363-355c-4fb0-9b96-4d814768cef1",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 2",
+      false
+    ],
+    [
+      "57531c81-60f2-459c-bcdb-b9275c679987",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 3",
+      true
+    ],
+    [
+      "46f05303-78b1-41dc-a8aa-0cb9cb1ce9e6",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 4",
+      true
+    ],
+    [
+      "251dca26-d205-427a-ad27-552681a3aa8d",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 5",
+      true
+    ],
+    [
+      "310c259a-e9d2-48d8-ac5d-dbfadf9d0cd5",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 6",
+      true
+    ],
+    [
+      "275c8596-1fc7-4be0-b080-755828e20423",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 7",
+      false
+    ],
+    [
+      "4a2bd7fa-813f-4581-b6a7-174210ffab5f",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 8",
+      false
+    ],
+    [
+      "8013901a-0367-4f40-89ab-c953dff98e52",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 9",
+      true
+    ],
+    [
+      "e77db8a9-1c7c-47fb-82e9-380d1db7287b",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 10",
+      true
+    ],
+    [
+      "32ac4722-8d04-434f-96f2-cd7cb10d165b",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 11",
+      true
+    ],
+    [
+      "d40cb1f2-abc1-4b28-a0d7-01bd3b982b48",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 12",
+      true
+    ],
+    [
+      "e6208028-5905-45d2-bc5d-ee83d0979446",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 13",
+      true
+    ],
+    [
+      "cc5d721f-98f7-447a-9ca2-f6b04951f981",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 14",
+      true
+    ],
+    [
+      "9fb50b39-6ae2-4751-b904-d594e953339a",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 15",
+      true
+    ],
+    [
+      "f8206b12-5b10-478f-b5f0-8067e72d30f7",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 16",
+      false
+    ],
+    [
+      "a3e4b31f-bc32-4fd4-bdbe-0680ce32846c",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 17",
+      true
+    ],
+    [
+      "b33b51be-0ec9-458e-9593-737c96b3fe77",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 18",
+      false
+    ],
+    [
+      "b31cb7ad-5ea9-458f-a5dc-4f283829861d",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 19",
+      false
+    ],
+    [
+      "4ca593da-3059-4bf5-a667-677e2fb17c18",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 20",
+      true
+    ],
+    [
+      "d6c1f643-7f4e-4a66-a8da-960e99db5c1c",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 21",
+      false
+    ],
+    [
+      "896cd4be-ee0e-43d5-b13a-84e6b6424326",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 22",
+      true
+    ],
+    [
+      "0c932e23-7b16-4893-b155-4b8a9884a557",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 23",
+      true
+    ],
+    [
+      "636354a8-170f-4266-8e59-b50fcfe8fdfe",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 24",
+      true
+    ],
+    [
+      "7564a77b-d990-443b-9acb-717b574d0de9",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 25",
+      true
+    ],
+    [
+      "6c958397-435e-451a-b09a-67092e8e9877",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 26",
+      true
+    ],
+    [
+      "e14c9edb-aa5f-46f7-81eb-d68d9a03a25f",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 27",
+      true
+    ],
+    [
+      "9f31a348-0590-46c8-8d33-441d5b171c9d",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 28",
+      true
+    ],
+    [
+      "8874b477-1fa4-4c5f-97de-98467a93fa7b",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 29",
+      true
+    ],
+    [
+      "f74fd3ce-33f6-47a6-8356-8c1e14463a02",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 2 ; Posicao 30",
+      true
+    ],
+    [
+      "af055eea-9a57-44a0-883c-e49ea8a7f26c",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "c385f308-3934-4e37-b23a-69e04a7b99e0",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "b5f019d6-ca4d-4438-8231-31fd36ef9e20",
+      "Barracao AE2 ; Rua 2 ; Coluna 1 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "3ad3a316-5e85-47f9-911a-248f459001d1",
+      "Barracao AE2 ; Rua 2 ; Coluna 2 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "40439f21-83e8-4e29-bba9-863646fb61da",
+      "Barracao AE2 ; Rua 2 ; Coluna 2 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "29d6cb43-d906-41b1-b10b-4b06ff74caf7",
+      "Barracao AE2 ; Rua 2 ; Coluna 2 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "07defca3-879f-4b24-b4fe-7fee36c092f8",
+      "Barracao AE2 ; Rua 2 ; Coluna 2 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "2603da05-8689-4010-a870-c15c25e136f7",
+      "Barracao AE2 ; Rua 2 ; Coluna 2 ; Nivel 5 ; Posicao 1",
+      false
+    ],
+    [
+      "2f7fbfb5-038a-47c3-af3b-0aae4469561f",
+      "Barracao AE2 ; Rua 2 ; Coluna 2 ; Nivel 6 ; Posicao 1",
+      true
+    ],
+    [
+      "55198e61-f2c9-4398-8572-29d1c8c6dfe9",
+      "Barracao AE2 ; Rua 2 ; Coluna 2 ; Nivel 7 ; Posicao 1",
+      false
+    ],
+    [
+      "81ac1db9-6f18-47a9-adb5-242e44f9412a",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "62bd8456-97e5-4c79-925f-a72af61597f2",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "92b5638f-7b2c-463c-ab0f-f62e395903c3",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 2",
+      false
+    ],
+    [
+      "4f46d973-245d-4c0d-9b2d-76465a9314ba",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 3",
+      true
+    ],
+    [
+      "3ae36150-ff3e-43d1-a3ad-9bbbf2609ab4",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 4",
+      true
+    ],
+    [
+      "3d975627-5028-4f88-b043-6df661597bd4",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 5",
+      true
+    ],
+    [
+      "586cbe7e-329d-442f-ab67-65f35fcb607a",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 6",
+      false
+    ],
+    [
+      "a69e4b86-d613-4d9d-a107-8a082f80bf0e",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 7",
+      true
+    ],
+    [
+      "81eab675-a1ed-494a-984e-0443947c52d2",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 8",
+      true
+    ],
+    [
+      "8e4000fb-c3ff-4f69-bfc0-4d848272472a",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 9",
+      false
+    ],
+    [
+      "44ae2e85-0cd1-423e-bbc1-bb3d4bfe9d2a",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 10",
+      true
+    ],
+    [
+      "d252c19b-a23e-4c8d-90de-9b0b334ece6f",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 11",
+      false
+    ],
+    [
+      "c5b0bbd6-6c88-466b-870b-a4afe4214795",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 12",
+      true
+    ],
+    [
+      "fab9e4c0-d00c-42ab-a12e-030d3ead1c4b",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 13",
+      false
+    ],
+    [
+      "f3e88dc9-e3dd-4c6e-8095-66a240e97da3",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 14",
+      true
+    ],
+    [
+      "cd2b5a20-01d4-4dfd-9220-74c57dccdacc",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 15",
+      false
+    ],
+    [
+      "a806930f-93f3-4a1c-9033-5ce274e9b87c",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 16",
+      true
+    ],
+    [
+      "69192dcf-ede6-45b6-a082-733834b74df9",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 17",
+      true
+    ],
+    [
+      "e7ea37c3-16b3-4f2c-9a16-b416006d17d9",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 18",
+      true
+    ],
+    [
+      "19326293-cc4d-498a-89b3-1096aac5cd77",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 19",
+      true
+    ],
+    [
+      "0075b1b5-0c7d-4108-8342-5499af6a7f6c",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 20",
+      true
+    ],
+    [
+      "e1bdec8d-18ac-422f-93d8-2901626fcf8a",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 21",
+      false
+    ],
+    [
+      "32115579-87d6-4ae5-a364-188915a9120b",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 22",
+      true
+    ],
+    [
+      "60e4e278-2c20-4bc2-9dfd-8d3c3012479e",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 23",
+      true
+    ],
+    [
+      "d68b37d7-13a9-47f1-b3b6-d5b08a442099",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 24",
+      true
+    ],
+    [
+      "fd71bb91-092a-46dc-975a-ce7467160b5a",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 25",
+      true
+    ],
+    [
+      "f7a23d80-f241-437d-b117-2a32300b857d",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 26",
+      false
+    ],
+    [
+      "3bbf7402-8b3e-44fd-8a7c-64283ac3009e",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 27",
+      true
+    ],
+    [
+      "bb71c5cf-1fa6-4fef-9966-785712825a88",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 28",
+      true
+    ],
+    [
+      "7274c14f-e4bb-47d6-8509-367635cd1443",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 29",
+      true
+    ],
+    [
+      "d33c45df-6f8e-43ce-8892-925e7a0323fa",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 2 ; Posicao 30",
+      false
+    ],
+    [
+      "a3d2e971-66ac-4816-8380-ca90cb9bc7ea",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "71edcddf-5b19-48bb-8774-4f63efe3707f",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "95e88fc1-d407-46dc-b0f1-88ddce42fa54",
+      "Barracao AE2 ; Rua 2 ; Coluna 3 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "137bcecf-0280-4ad0-bc26-0a1b3aa6cdcd",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "d9d256f3-0bad-4840-be3f-0f13f4b677bb",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "31805a13-e5c9-4d29-9329-bc60d99a8e57",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 2",
+      true
+    ],
+    [
+      "fb9647fc-391b-444b-aea2-8f45b1c09e30",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 3",
+      true
+    ],
+    [
+      "6121ff09-d2f5-4a2d-9624-f0208724822c",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 4",
+      true
+    ],
+    [
+      "5be79122-93d6-4812-a80a-ad3fe4865bfd",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 5",
+      true
+    ],
+    [
+      "f19191df-cd9a-496e-8c91-b965205bc0de",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 6",
+      false
+    ],
+    [
+      "7b84b232-12db-4bbe-a915-c6d73c8ccc87",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 7",
+      true
+    ],
+    [
+      "3fa650c5-a890-4401-ba33-f5d39a821c72",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 8",
+      false
+    ],
+    [
+      "f83b89d1-51c8-4bb9-95d6-1ce30441e1d6",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 9",
+      false
+    ],
+    [
+      "0204daea-ee0c-4a16-b142-4856c07a2f59",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 10",
+      true
+    ],
+    [
+      "71c42fb7-802d-4eee-a0d8-bce09188526c",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 11",
+      false
+    ],
+    [
+      "d8043dc2-0a7f-4146-8a0a-fbe5c6001c87",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 12",
+      false
+    ],
+    [
+      "6d0ee01f-bf7f-4292-ade5-80ebbfab90bd",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 13",
+      false
+    ],
+    [
+      "d8094b0c-35c2-4d98-8775-f7fd243cc0ed",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 14",
+      false
+    ],
+    [
+      "2066cf4f-5456-4c22-b1c1-697922b5e964",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 15",
+      true
+    ],
+    [
+      "2b7e22fa-912e-4de7-86b6-39f58553e43b",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 16",
+      false
+    ],
+    [
+      "be4e4f41-10ae-4342-af29-51c0a81de056",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 17",
+      false
+    ],
+    [
+      "79cc2065-2a89-4584-aa4d-38dda4b502f0",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 18",
+      true
+    ],
+    [
+      "8474d2c1-8966-4601-a33c-597d358c2a15",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 19",
+      true
+    ],
+    [
+      "36fa4557-7862-43e8-80ed-f3845f5a2ca9",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 20",
+      true
+    ],
+    [
+      "74180e26-e8b5-4de8-9e38-36c03a0b17ae",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 21",
+      true
+    ],
+    [
+      "fa7c17af-e1e9-4f1b-9cbc-62a2b642c755",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 22",
+      true
+    ],
+    [
+      "53b9ac7d-8e80-44a5-ba2d-12c6af7499ef",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 23",
+      true
+    ],
+    [
+      "b28b98fb-6bd4-4bc8-995b-d5a5df202f14",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 24",
+      true
+    ],
+    [
+      "db47d235-d2de-474b-96da-3da308ebf55c",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 25",
+      true
+    ],
+    [
+      "8b39928a-35b3-484a-811c-2acb79203db9",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 26",
+      true
+    ],
+    [
+      "34a8ca63-824a-4581-ad04-3f3e326ce041",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 27",
+      true
+    ],
+    [
+      "31407599-3cfa-4009-8a20-f5ea4965bf03",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 28",
+      true
+    ],
+    [
+      "ca6370a8-8312-424e-9ce9-a2ce0e3631c4",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 29",
+      true
+    ],
+    [
+      "7a8809ef-a312-46ec-924e-9ef67003c2f5",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 2 ; Posicao 30",
+      true
+    ],
+    [
+      "00711307-bcf4-4876-aa26-252192fca32e",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "44e06cb0-cd1f-4438-9750-1e8f76628fae",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "c4366604-e108-4008-9c73-5fdcea4a5b5b",
+      "Barracao AE2 ; Rua 2 ; Coluna 5 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "6099531f-7d23-4d23-9652-e4d9f07cefd7",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "0f12a9b4-c8b0-41a2-8c8d-c8af4de11551",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "464c5421-3ee1-4c4e-aa81-a468ab0c4e97",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 2",
+      true
+    ],
+    [
+      "c9497b94-a6dc-4714-8b83-1e4a740016c4",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 3",
+      true
+    ],
+    [
+      "e9605aae-a72b-4cb5-85a3-ef11f842bc62",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 4",
+      false
+    ],
+    [
+      "d0b79cb6-33d7-40af-aaa4-6b9c124a0ee8",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 5",
+      true
+    ],
+    [
+      "9e593a3f-2915-4cc4-acbc-3dc9c90f9d2a",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 6",
+      true
+    ],
+    [
+      "96f60cae-2b66-4fb1-b9ab-b26787004bc8",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 7",
+      true
+    ],
+    [
+      "2246adbc-e5b0-480e-b5b2-7620e02d4462",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 8",
+      false
+    ],
+    [
+      "62dc39e9-eb2e-455d-9d39-f1339662cdb5",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 9",
+      false
+    ],
+    [
+      "665c44c3-53c1-4303-bfc3-4641b7195180",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 10",
+      false
+    ],
+    [
+      "ef032d9e-349f-41be-88c0-4e476c8b4df6",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 11",
+      true
+    ],
+    [
+      "1aba6ce8-3f16-4a9a-b4b3-ce1b80120571",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 12",
+      false
+    ],
+    [
+      "26d464b5-fc00-489b-9ddc-a38402619ea5",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 13",
+      true
+    ],
+    [
+      "f3fe5218-bb39-4db0-a4fb-3506155c8758",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 14",
+      false
+    ],
+    [
+      "7705990c-ec5f-486c-8144-cb001bd4fe9d",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 15",
+      true
+    ],
+    [
+      "4da7768f-c98b-4130-a7a4-ad011428ef89",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 16",
+      true
+    ],
+    [
+      "b38e01d2-f860-494b-9d3f-59bc1292ee73",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 17",
+      false
+    ],
+    [
+      "706a77f0-5284-42de-863c-d7d53f420a00",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 18",
+      false
+    ],
+    [
+      "d6927b69-77e6-4169-9021-b7436d6bbfcd",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 19",
+      true
+    ],
+    [
+      "21efe5e0-463d-4d4e-90e0-60db0e93b444",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 20",
+      true
+    ],
+    [
+      "82710d9b-faca-46b8-bac4-09ad7dd75a69",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 21",
+      true
+    ],
+    [
+      "28788371-1f18-4f56-812a-dc452b7a3ade",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 22",
+      true
+    ],
+    [
+      "1048c372-2e8d-4ccf-87c0-9c7971fcafe6",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 23",
+      true
+    ],
+    [
+      "610a77e2-4143-4205-b167-a25b99d75c9e",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 24",
+      true
+    ],
+    [
+      "970843e2-adf8-44a1-8e94-e5c77f16e5c7",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 25",
+      true
+    ],
+    [
+      "8c3994a7-d168-4d31-9f00-a0c847a63fec",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 26",
+      true
+    ],
+    [
+      "3a0eb25b-3c40-4be2-93f5-e2f963b924d1",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 27",
+      true
+    ],
+    [
+      "be0cecd0-6d48-4ad3-9714-7b535464fd7c",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 28",
+      true
+    ],
+    [
+      "44f118ba-b206-4739-a162-ab77021d2d24",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 29",
+      true
+    ],
+    [
+      "9c081bb4-32ef-4421-9506-7081af066857",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 2 ; Posicao 30",
+      true
+    ],
+    [
+      "45db0bff-e3cd-4252-94ea-270faf84617e",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "d1d9c85c-dc7c-4df5-aa1d-6897acbbf96f",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "e8f201b8-3080-4273-bf36-aa66c3cfc405",
+      "Barracao AE2 ; Rua 2 ; Coluna 7 ; Nivel 5 ; Posicao 1",
+      false
+    ],
+    [
+      "86288337-17dc-48f9-a201-dec7f22517a1",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "67e0dbc7-4391-45f2-99c8-bcac6dbc898f",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "cc85f2ed-ba41-4080-ad53-dfc03897d278",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 2",
+      false
+    ],
+    [
+      "d80f17fc-aa35-4ff0-aec6-590dd7cb12ee",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 3",
+      false
+    ],
+    [
+      "aaf16e70-0da0-4a49-8a38-56a2294bb6e9",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 4",
+      false
+    ],
+    [
+      "0fce36d5-45a4-43ec-ac8f-ed42b8200bcb",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 5",
+      false
+    ],
+    [
+      "a218bf26-3982-4dd6-86e1-20405cbd42d6",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 6",
+      false
+    ],
+    [
+      "18e160da-9018-4b64-884b-13fbc8653ac5",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 7",
+      false
+    ],
+    [
+      "aa702236-747b-4874-8d8c-f3dbac78433a",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 8",
+      false
+    ],
+    [
+      "df48c159-f6f6-48c1-80e3-ca7cd7bd2135",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 9",
+      false
+    ],
+    [
+      "89b440eb-8e15-48d1-a494-9485e6b1e9eb",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 10",
+      false
+    ],
+    [
+      "9f8b7233-25e1-41da-8a4b-5581378cb87d",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 11",
+      false
+    ],
+    [
+      "7fe58139-ff0d-4a31-a92b-850e9e91abd4",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 12",
+      false
+    ],
+    [
+      "576f49b6-640a-467b-bbdb-649025cc04c1",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 13",
+      false
+    ],
+    [
+      "07b6e308-9b17-46d9-983b-f3000a577545",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 14",
+      false
+    ],
+    [
+      "dc4593e0-44b8-4135-85f7-5ffcf535dc9a",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 15",
+      false
+    ],
+    [
+      "629008a6-c978-4a6e-848b-912de45f7d63",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 16",
+      false
+    ],
+    [
+      "4574207b-58dd-48b4-8522-88c0451c232e",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 17",
+      false
+    ],
+    [
+      "f093224e-e101-4a0e-a6dd-231359c38e0c",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 18",
+      false
+    ],
+    [
+      "89c23b16-63f2-443e-8b39-b0f8cea43d80",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 19",
+      true
+    ],
+    [
+      "7f4602ca-e5cd-4e93-8792-66cecc5cae5b",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 20",
+      true
+    ],
+    [
+      "06ae3f3e-dc3b-43ca-9540-fc40d5d25634",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 21",
+      false
+    ],
+    [
+      "688df77a-7c65-4d66-80b6-dee0838f7324",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 22",
+      true
+    ],
+    [
+      "ec95864f-927f-4bf2-be9b-e7d643a2a086",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 23",
+      true
+    ],
+    [
+      "f2243da8-11fd-4dfa-b14e-08318e9067ed",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 24",
+      true
+    ],
+    [
+      "ae626cf7-5a07-4970-989a-32cd6c70c8c0",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 25",
+      true
+    ],
+    [
+      "40db88c1-4b74-4dcb-8f92-1c931885ce84",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 26",
+      true
+    ],
+    [
+      "fd071a83-2ad7-48bd-9040-55d4ae1ed378",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 27",
+      true
+    ],
+    [
+      "7ee0d6c7-99ff-4726-bd9a-987964582f13",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 28",
+      true
+    ],
+    [
+      "4086d151-b45b-4487-9060-8485f236a41b",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 29",
+      false
+    ],
+    [
+      "0fcb5faf-93a9-497e-b83c-1e64a4f9b4c5",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 2 ; Posicao 30",
+      false
+    ],
+    [
+      "4ce3120d-fd11-4627-bfa1-c8bd9251aedb",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "671ee3bf-18a3-4006-8de7-63c327efb8a9",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "86b8636c-c3c3-436f-9004-dfb31eae4f37",
+      "Barracao AE2 ; Rua 2 ; Coluna 9 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "bc241a8e-0ee3-4a0f-950c-5543752f5f43",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "10d5fe40-643d-44ef-9ca7-26d5e2166bc6",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "6aba9c49-9b4b-436b-958d-7bb372e5bbb0",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 2",
+      true
+    ],
+    [
+      "29bad2f9-aa49-40b3-9d16-df266e9a75a4",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 3",
+      true
+    ],
+    [
+      "3262a79e-3324-4d53-b670-9f2ce859217d",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 4",
+      false
+    ],
+    [
+      "95b437c1-a3ec-4c99-b6c7-9718a2834f1c",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 5",
+      false
+    ],
+    [
+      "d7312e6f-be06-4fbc-9501-aa8d1b68f5b6",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 6",
+      false
+    ],
+    [
+      "c5d1cf5e-4a36-431b-900c-ddf6f4998ded",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 7",
+      false
+    ],
+    [
+      "2e1eff0d-f735-4dda-9033-2cf60a551727",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 8",
+      true
+    ],
+    [
+      "5f1c03ee-a464-4d80-9384-06a279c2d6cf",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 9",
+      true
+    ],
+    [
+      "40704620-e4fe-4153-8ad8-09b49fd35315",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 10",
+      true
+    ],
+    [
+      "eea6a696-eb15-45c4-bac1-7a4e434e2d9c",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 11",
+      true
+    ],
+    [
+      "50c2e342-cd2f-4127-b869-ba5e0de70fdb",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 12",
+      true
+    ],
+    [
+      "d705288f-0a6d-4e3d-a6be-4fb4c8b0510a",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 13",
+      false
+    ],
+    [
+      "62c0270f-14b5-4409-90b9-9dfd2a18c367",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 14",
+      false
+    ],
+    [
+      "d482116d-d9ba-47a7-a4d8-ee75f08b94bf",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 15",
+      false
+    ],
+    [
+      "75f9ad9f-50ec-49dc-b638-18821f2944fc",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 16",
+      false
+    ],
+    [
+      "009c81f3-c539-454f-bda7-1f086de72c18",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 17",
+      false
+    ],
+    [
+      "c12aaf20-72bb-4262-9367-c35f6c33af09",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 18",
+      false
+    ],
+    [
+      "43a4dbd6-1257-4b45-8d74-5658ce46e2eb",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 19",
+      false
+    ],
+    [
+      "269a7822-5622-447c-ac63-332a4dca64ea",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 20",
+      false
+    ],
+    [
+      "96966244-2737-404b-99ab-742732e3c170",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 21",
+      false
+    ],
+    [
+      "16f27331-b81b-482a-b1c9-c8bf7c1c2a5d",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 22",
+      false
+    ],
+    [
+      "e009efca-48db-4db2-9374-cc419ccd0c1a",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 23",
+      false
+    ],
+    [
+      "ad8319f5-c980-4c8e-b67d-cc7bd1e36b8c",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 24",
+      false
+    ],
+    [
+      "7831e426-07b0-46a9-b3e8-2f76fd4c7956",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 25",
+      false
+    ],
+    [
+      "e0e58be5-0d62-46ae-a919-4f69fa0a98cc",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 26",
+      false
+    ],
+    [
+      "8ca2ebb1-cca9-4ae2-b13d-ed5e277538d6",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 27",
+      false
+    ],
+    [
+      "b95ca056-96a7-4f0a-a665-ae8e8c1d8c0a",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 28",
+      false
+    ],
+    [
+      "bd3ae169-b599-4397-93da-ee4c07a011af",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 29",
+      true
+    ],
+    [
+      "12135de4-b145-45ca-8564-d328425cf3ae",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 2 ; Posicao 30",
+      false
+    ],
+    [
+      "b21bad5b-2200-4f8a-b863-7d275ec78052",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "5470fc70-a480-40aa-ae45-c446645e0d8f",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "ff144644-129b-4594-940c-cadd9302012e",
+      "Barracao AE2 ; Rua 2 ; Coluna 11 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "2f47eab2-8e5b-4192-814e-819a36251278",
+      "Barracao AE2 ; Rua 3 ; Coluna 1 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "d84c9481-efcc-4d19-bb49-7165046e882b",
+      "Barracao AE2 ; Rua 3 ; Coluna 1 ; Nivel 3 ; Posicao 2",
+      false
+    ],
+    [
+      "e2d27f29-93db-4866-93eb-d3c2a22be116",
+      "Barracao AE2 ; Rua 3 ; Coluna 1 ; Nivel 3 ; Posicao 3",
+      false
+    ],
+    [
+      "353ef420-55fb-411f-b79d-68493e390828",
+      "Barracao AE2 ; Rua 3 ; Coluna 1 ; Nivel 3 ; Posicao 4",
+      false
+    ],
+    [
+      "a07cedf9-6908-4c22-b5b1-9b6af2512df1",
+      "Barracao AE2 ; Rua 3 ; Coluna 1 ; Nivel 3 ; Posicao 5",
+      true
+    ],
+    [
+      "bd33bbd1-7c11-4c64-a046-9e61f940f98c",
+      "Barracao AE2 ; Rua 3 ; Coluna 1 ; Nivel 3 ; Posicao 6",
+      false
+    ],
+    [
+      "63d4608b-436b-4cf9-9ab0-abb578096e03",
+      "Barracao AE2 ; Rua 3 ; Coluna 1 ; Nivel 3 ; Posicao 7",
+      false
+    ],
+    [
+      "bfcd9a72-c02d-437f-879d-fdd32a6f2659",
+      "Barracao AE2 ; Rua 3 ; Coluna 1 ; Nivel 3 ; Posicao 8",
+      false
+    ],
+    [
+      "bc0969a2-9e97-40f3-9e64-fc3d3993e290",
+      "Barracao AE2 ; Rua 3 ; Coluna 1 ; Nivel 3 ; Posicao 9",
+      false
+    ],
+    [
+      "412403fe-c041-4964-8070-cf75f96d23c1",
+      "Barracao AE2 ; Rua 3 ; Coluna 1 ; Nivel 3 ; Posicao 10",
+      false
+    ],
+    [
+      "a9a2617d-a575-425e-834d-ff82086f0d42",
+      "Barracao AE2 ; Rua 3 ; Coluna 1 ; Nivel 3 ; Posicao 11",
+      true
+    ],
+    [
+      "d6646827-c997-45af-befc-70239d076813",
+      "Barracao AE2 ; Rua 3 ; Coluna 1 ; Nivel 3 ; Posicao 12",
+      false
+    ],
+    [
+      "f0db051c-877e-4547-9f58-61f9448626ee",
+      "Barracao AE2 ; Rua 3 ; Coluna 1 ; Nivel 3 ; Posicao 13",
+      true
+    ],
+    [
+      "c7a3f878-6a86-436d-afef-948d018534dd",
+      "Barracao AE2 ; Rua 3 ; Coluna 1 ; Nivel 3 ; Posicao 14",
+      false
+    ],
+    [
+      "ce80aba8-1772-49b5-8533-5ca1499765f9",
+      "Barracao AE2 ; Rua 3 ; Coluna 1 ; Nivel 3 ; Posicao 15",
+      false
+    ],
+    [
+      "ba305ced-d099-44c6-b56c-129cfaebc27b",
+      "Barracao AE2 ; Rua 3 ; Coluna 1 ; Nivel 3 ; Posicao 16",
+      false
+    ],
+    [
+      "4bcbd355-f7b7-4c40-aa9d-ea8578896717",
+      "Barracao AE2 ; Rua 3 ; Coluna 1 ; Nivel 3 ; Posicao 17",
+      false
+    ],
+    [
+      "569589f1-9e53-4361-b529-b98e0b8ee4cf",
+      "Barracao AE2 ; Rua 3 ; Coluna 1 ; Nivel 3 ; Posicao 18",
+      false
+    ],
+    [
+      "380d510a-881b-47d4-a1cd-b5a9796abc91",
+      "Barracao AE2 ; Rua 3 ; Coluna 1 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "3de14113-f593-472f-8996-89d85044470c",
+      "Barracao AE2 ; Rua 3 ; Coluna 2 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "14dea487-d4fe-4118-aa44-fe4b8bf5c0ae",
+      "Barracao AE2 ; Rua 3 ; Coluna 2 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "ed7396cc-7afd-4224-8192-43ac401d14e4",
+      "Barracao AE2 ; Rua 3 ; Coluna 2 ; Nivel 3 ; Posicao 2",
+      true
+    ],
+    [
+      "7f265980-8b45-47e1-91a1-ec31a247fd46",
+      "Barracao AE2 ; Rua 3 ; Coluna 2 ; Nivel 3 ; Posicao 3",
+      true
+    ],
+    [
+      "9c5ef775-ab74-408e-a675-694be9f79b1a",
+      "Barracao AE2 ; Rua 3 ; Coluna 2 ; Nivel 3 ; Posicao 4",
+      true
+    ],
+    [
+      "ada146ac-f8bb-45f5-8f23-c80ec2294d83",
+      "Barracao AE2 ; Rua 3 ; Coluna 2 ; Nivel 3 ; Posicao 5",
+      false
+    ],
+    [
+      "accd8818-f6a4-45b0-827e-7b6209d08677",
+      "Barracao AE2 ; Rua 3 ; Coluna 2 ; Nivel 3 ; Posicao 6",
+      true
+    ],
+    [
+      "1b9b2246-6e91-44b3-9084-b25685327b9e",
+      "Barracao AE2 ; Rua 3 ; Coluna 2 ; Nivel 3 ; Posicao 7",
+      true
+    ],
+    [
+      "2d0ef50d-a6c5-4c6c-b608-fecc25b2d21f",
+      "Barracao AE2 ; Rua 3 ; Coluna 2 ; Nivel 3 ; Posicao 8",
+      false
+    ],
+    [
+      "313dcfc5-49e3-4825-8927-c49e7e8ced90",
+      "Barracao AE2 ; Rua 3 ; Coluna 2 ; Nivel 3 ; Posicao 9",
+      true
+    ],
+    [
+      "1478f110-6170-4471-be8c-cd09d897e00b",
+      "Barracao AE2 ; Rua 3 ; Coluna 2 ; Nivel 3 ; Posicao 10",
+      false
+    ],
+    [
+      "a9dd9268-d1d0-4bf7-86ab-cf5235d40419",
+      "Barracao AE2 ; Rua 3 ; Coluna 2 ; Nivel 3 ; Posicao 11",
+      true
+    ],
+    [
+      "e93e5e3f-e7ff-4b0c-a21f-0952bccbccb5",
+      "Barracao AE2 ; Rua 3 ; Coluna 2 ; Nivel 3 ; Posicao 12",
+      true
+    ],
+    [
+      "4b214247-94de-4017-9a7e-4fe8c79aa8be",
+      "Barracao AE2 ; Rua 3 ; Coluna 2 ; Nivel 3 ; Posicao 13",
+      true
+    ],
+    [
+      "215e74f4-1a4b-48d1-8d42-edc7f2468b11",
+      "Barracao AE2 ; Rua 3 ; Coluna 2 ; Nivel 3 ; Posicao 14",
+      true
+    ],
+    [
+      "319ad2db-5479-45a8-9a48-48e9a40b7ad7",
+      "Barracao AE2 ; Rua 3 ; Coluna 2 ; Nivel 3 ; Posicao 15",
+      true
+    ],
+    [
+      "aa133442-04e4-4c03-a355-088e388ccb1d",
+      "Barracao AE2 ; Rua 3 ; Coluna 2 ; Nivel 3 ; Posicao 16",
+      true
+    ],
+    [
+      "54f2e953-fee8-427e-95ae-4ae912d3b24b",
+      "Barracao AE2 ; Rua 3 ; Coluna 2 ; Nivel 3 ; Posicao 17",
+      true
+    ],
+    [
+      "05b2128c-ae9a-4501-8b24-bc71c674db79",
+      "Barracao AE2 ; Rua 3 ; Coluna 2 ; Nivel 3 ; Posicao 18",
+      true
+    ],
+    [
+      "cc095c4a-d3d6-472e-a882-13f327065e29",
+      "Barracao AE2 ; Rua 3 ; Coluna 3 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "93070023-2de0-4594-920f-0c739a271932",
+      "Barracao AE2 ; Rua 3 ; Coluna 3 ; Nivel 3 ; Posicao 2",
+      true
+    ],
+    [
+      "d887b721-5f0d-486e-b723-3ad3ec475e5d",
+      "Barracao AE2 ; Rua 3 ; Coluna 3 ; Nivel 3 ; Posicao 3",
+      true
+    ],
+    [
+      "b407f4ea-8f49-4125-b8c3-ac55e7b0698b",
+      "Barracao AE2 ; Rua 3 ; Coluna 3 ; Nivel 3 ; Posicao 4",
+      false
+    ],
+    [
+      "7fd9debc-15c1-42c5-88e5-4d7add44c142",
+      "Barracao AE2 ; Rua 3 ; Coluna 3 ; Nivel 3 ; Posicao 5",
+      false
+    ],
+    [
+      "c5aa6a7b-c63b-4067-bdef-c53c786892d2",
+      "Barracao AE2 ; Rua 3 ; Coluna 3 ; Nivel 3 ; Posicao 6",
+      false
+    ],
+    [
+      "738d491b-6230-4ae5-a3cc-72b01d79a0dc",
+      "Barracao AE2 ; Rua 3 ; Coluna 3 ; Nivel 3 ; Posicao 7",
+      false
+    ],
+    [
+      "2e7d2f78-8460-4dbc-86f5-ee0f4d04c3f1",
+      "Barracao AE2 ; Rua 3 ; Coluna 3 ; Nivel 3 ; Posicao 8",
+      false
+    ],
+    [
+      "e3ee44ad-e6c5-4e92-a8b3-cd787291c88f",
+      "Barracao AE2 ; Rua 3 ; Coluna 3 ; Nivel 3 ; Posicao 9",
+      false
+    ],
+    [
+      "9c21055b-3043-4716-bb89-38a9baac156d",
+      "Barracao AE2 ; Rua 3 ; Coluna 3 ; Nivel 3 ; Posicao 10",
+      false
+    ],
+    [
+      "6c6b6c8e-2428-4527-a21d-2f1128db2289",
+      "Barracao AE2 ; Rua 3 ; Coluna 3 ; Nivel 3 ; Posicao 11",
+      true
+    ],
+    [
+      "74b36f88-b9bc-4321-bace-e6b34ac8c3f3",
+      "Barracao AE2 ; Rua 3 ; Coluna 3 ; Nivel 3 ; Posicao 12",
+      false
+    ],
+    [
+      "c859ddd0-8334-4ff0-b10e-2857cfd6e18e",
+      "Barracao AE2 ; Rua 3 ; Coluna 3 ; Nivel 3 ; Posicao 13",
+      false
+    ],
+    [
+      "2e96e960-ccb9-4a22-b769-71c5b5f9299c",
+      "Barracao AE2 ; Rua 3 ; Coluna 3 ; Nivel 3 ; Posicao 14",
+      false
+    ],
+    [
+      "a29c8f70-54db-4213-a427-4053aa5a25cd",
+      "Barracao AE2 ; Rua 3 ; Coluna 3 ; Nivel 3 ; Posicao 15",
+      true
+    ],
+    [
+      "ddf6a498-cee3-407c-adee-eec8b816af5e",
+      "Barracao AE2 ; Rua 3 ; Coluna 3 ; Nivel 3 ; Posicao 16",
+      true
+    ],
+    [
+      "6b141e46-e82e-4ad8-9bc4-bcdf919afd78",
+      "Barracao AE2 ; Rua 3 ; Coluna 3 ; Nivel 3 ; Posicao 17",
+      true
+    ],
+    [
+      "113d0e42-b1e3-4bf9-9c67-c74d2c9ea4fa",
+      "Barracao AE2 ; Rua 3 ; Coluna 3 ; Nivel 3 ; Posicao 18",
+      false
+    ],
+    [
+      "2dca0ac7-8d25-4baa-9691-de395868604b",
+      "Barracao AE2 ; Rua 3 ; Coluna 3 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "08462591-7b72-42cf-a055-bfe3a35ba009",
+      "Barracao AE2 ; Rua 3 ; Coluna 4 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "40d06a1d-78f7-4572-96f5-82b35dce2945",
+      "Barracao AE2 ; Rua 3 ; Coluna 4 ; Nivel 3 ; Posicao 2",
+      false
+    ],
+    [
+      "2d22a896-461b-4af9-ad54-ba284f3c8a6b",
+      "Barracao AE2 ; Rua 3 ; Coluna 4 ; Nivel 3 ; Posicao 3",
+      false
+    ],
+    [
+      "37764457-6204-4309-9a74-e31991a7074b",
+      "Barracao AE2 ; Rua 3 ; Coluna 4 ; Nivel 3 ; Posicao 4",
+      true
+    ],
+    [
+      "f1daf951-5f50-4063-9487-054a03d58f12",
+      "Barracao AE2 ; Rua 3 ; Coluna 4 ; Nivel 3 ; Posicao 5",
+      true
+    ],
+    [
+      "ba9a1887-a8fa-48a2-9281-94a7688a9986",
+      "Barracao AE2 ; Rua 3 ; Coluna 4 ; Nivel 3 ; Posicao 6",
+      true
+    ],
+    [
+      "4806e540-1ca1-44b1-bbb5-9d58d7242063",
+      "Barracao AE2 ; Rua 3 ; Coluna 4 ; Nivel 3 ; Posicao 7",
+      true
+    ],
+    [
+      "6663d0df-4202-4e63-a28d-50a335ff0cc0",
+      "Barracao AE2 ; Rua 3 ; Coluna 4 ; Nivel 3 ; Posicao 8",
+      true
+    ],
+    [
+      "5f1ae885-3385-47dc-97e0-154fdde24bff",
+      "Barracao AE2 ; Rua 3 ; Coluna 4 ; Nivel 3 ; Posicao 9",
+      true
+    ],
+    [
+      "908a4a61-be1e-4d00-ac92-c98a122b4d07",
+      "Barracao AE2 ; Rua 3 ; Coluna 4 ; Nivel 3 ; Posicao 10",
+      true
+    ],
+    [
+      "34854edc-5917-424d-9324-c91e4a7d38d3",
+      "Barracao AE2 ; Rua 3 ; Coluna 4 ; Nivel 3 ; Posicao 11",
+      false
+    ],
+    [
+      "07c75e5e-df47-4d0c-a80e-215aa001239c",
+      "Barracao AE2 ; Rua 3 ; Coluna 4 ; Nivel 3 ; Posicao 12",
+      true
+    ],
+    [
+      "e4b257bc-f7ba-49ff-8d95-aac6166062f5",
+      "Barracao AE2 ; Rua 3 ; Coluna 4 ; Nivel 3 ; Posicao 13",
+      false
+    ],
+    [
+      "d3fe4612-ef41-494d-a9d6-9ac767476271",
+      "Barracao AE2 ; Rua 3 ; Coluna 4 ; Nivel 3 ; Posicao 14",
+      true
+    ],
+    [
+      "85e7b65f-22fa-4c81-a22f-09a292887b1b",
+      "Barracao AE2 ; Rua 3 ; Coluna 4 ; Nivel 3 ; Posicao 15",
+      true
+    ],
+    [
+      "2e00c25e-386b-4b83-8548-626292eda4ad",
+      "Barracao AE2 ; Rua 3 ; Coluna 4 ; Nivel 3 ; Posicao 16",
+      true
+    ],
+    [
+      "6f5cb623-a2ba-4589-a97b-3cda4d8bf305",
+      "Barracao AE2 ; Rua 3 ; Coluna 4 ; Nivel 3 ; Posicao 17",
+      true
+    ],
+    [
+      "cf1fb662-4e10-4f09-97ab-f056af1f500c",
+      "Barracao AE2 ; Rua 3 ; Coluna 4 ; Nivel 3 ; Posicao 18",
+      true
+    ],
+    [
+      "fb2d2982-beca-4c0b-9c59-4a6975888155",
+      "Barracao AE2 ; Rua 3 ; Coluna 5 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "75d936eb-74b2-47b4-84a8-29a1c5d3949b",
+      "Barracao AE2 ; Rua 3 ; Coluna 5 ; Nivel 3 ; Posicao 2",
+      true
+    ],
+    [
+      "2a50264c-f442-4ac7-956a-925b200c14a8",
+      "Barracao AE2 ; Rua 3 ; Coluna 5 ; Nivel 3 ; Posicao 3",
+      true
+    ],
+    [
+      "1165d8ed-f744-4527-8de5-60aa1d358f4e",
+      "Barracao AE2 ; Rua 3 ; Coluna 5 ; Nivel 3 ; Posicao 4",
+      true
+    ],
+    [
+      "665f64b9-2e34-4ea6-af3a-9d65dac56fe2",
+      "Barracao AE2 ; Rua 3 ; Coluna 5 ; Nivel 3 ; Posicao 5",
+      false
+    ],
+    [
+      "a8580660-ac93-40bf-bdc6-1272b8df581f",
+      "Barracao AE2 ; Rua 3 ; Coluna 5 ; Nivel 3 ; Posicao 6",
+      true
+    ],
+    [
+      "d45ec7a7-6a7c-41a6-bbba-f785a7461d3a",
+      "Barracao AE2 ; Rua 3 ; Coluna 5 ; Nivel 3 ; Posicao 7",
+      false
+    ],
+    [
+      "0b667e0b-81ca-46e1-9152-c1929cf550ce",
+      "Barracao AE2 ; Rua 3 ; Coluna 5 ; Nivel 3 ; Posicao 8",
+      true
+    ],
+    [
+      "20f80775-4037-4c90-8d87-7d0e18a5fe48",
+      "Barracao AE2 ; Rua 3 ; Coluna 5 ; Nivel 3 ; Posicao 9",
+      false
+    ],
+    [
+      "1edc1e66-fcb8-4c76-a85c-a0c162fb4099",
+      "Barracao AE2 ; Rua 3 ; Coluna 5 ; Nivel 3 ; Posicao 10",
+      false
+    ],
+    [
+      "e360c7cb-61b0-434a-8135-70ffbbfa0f5d",
+      "Barracao AE2 ; Rua 3 ; Coluna 5 ; Nivel 3 ; Posicao 11",
+      false
+    ],
+    [
+      "5262c757-457a-47b3-be7f-ddcb3097e72a",
+      "Barracao AE2 ; Rua 3 ; Coluna 5 ; Nivel 3 ; Posicao 12",
+      false
+    ],
+    [
+      "7150a309-9014-45c4-8fe5-07b28f3a04ab",
+      "Barracao AE2 ; Rua 3 ; Coluna 5 ; Nivel 3 ; Posicao 13",
+      true
+    ],
+    [
+      "853c34b8-b78b-4b2a-98c5-1a2ffb29da60",
+      "Barracao AE2 ; Rua 3 ; Coluna 5 ; Nivel 3 ; Posicao 14",
+      false
+    ],
+    [
+      "934f0d7c-d962-457f-9bc5-999720f95553",
+      "Barracao AE2 ; Rua 3 ; Coluna 5 ; Nivel 3 ; Posicao 15",
+      true
+    ],
+    [
+      "bc62297c-baee-422e-9b32-8894fd1aec61",
+      "Barracao AE2 ; Rua 3 ; Coluna 5 ; Nivel 3 ; Posicao 16",
+      false
+    ],
+    [
+      "47d4f8a2-cd7e-424f-b82f-b97494c9c324",
+      "Barracao AE2 ; Rua 3 ; Coluna 5 ; Nivel 3 ; Posicao 17",
+      false
+    ],
+    [
+      "8ddcf830-b549-4ee2-a5c6-b5687bf77059",
+      "Barracao AE2 ; Rua 3 ; Coluna 5 ; Nivel 3 ; Posicao 18",
+      false
+    ],
+    [
+      "51393b13-99b0-4424-877a-eb89864d5589",
+      "Barracao AE2 ; Rua 3 ; Coluna 5 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "e323ca80-b44f-4351-a759-110ca9e7e7da",
+      "Barracao AE2 ; Rua 3 ; Coluna 6 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "aebfb565-d88a-4769-8f5f-d0a61b6d5726",
+      "Barracao AE2 ; Rua 3 ; Coluna 6 ; Nivel 3 ; Posicao 2",
+      true
+    ],
+    [
+      "1048775a-e61d-4e1b-8824-0986f4eee9f2",
+      "Barracao AE2 ; Rua 3 ; Coluna 6 ; Nivel 3 ; Posicao 3",
+      true
+    ],
+    [
+      "d6719884-2bb6-41b2-a333-baac66e0ec09",
+      "Barracao AE2 ; Rua 3 ; Coluna 6 ; Nivel 3 ; Posicao 4",
+      true
+    ],
+    [
+      "f85688ad-1752-435d-84a7-15dfab7f9083",
+      "Barracao AE2 ; Rua 3 ; Coluna 6 ; Nivel 3 ; Posicao 5",
+      true
+    ],
+    [
+      "2b86572f-3585-4028-8506-00dfec3c51d8",
+      "Barracao AE2 ; Rua 3 ; Coluna 6 ; Nivel 3 ; Posicao 6",
+      true
+    ],
+    [
+      "212f5bd9-cc9e-4cd7-82cd-25c7c72ba701",
+      "Barracao AE2 ; Rua 3 ; Coluna 6 ; Nivel 3 ; Posicao 7",
+      false
+    ],
+    [
+      "e36c7017-44cf-4836-b86d-d0b8b5e9813f",
+      "Barracao AE2 ; Rua 3 ; Coluna 6 ; Nivel 3 ; Posicao 8",
+      true
+    ],
+    [
+      "9f5201af-f9a8-4f17-b6b7-e15b6e0a3ba2",
+      "Barracao AE2 ; Rua 3 ; Coluna 6 ; Nivel 3 ; Posicao 9",
+      false
+    ],
+    [
+      "7e090376-e6f0-44eb-b7c2-6e2bfb0a4326",
+      "Barracao AE2 ; Rua 3 ; Coluna 6 ; Nivel 3 ; Posicao 10",
+      true
+    ],
+    [
+      "e711cbcb-d9d0-4352-ba3c-b0afafd4dfa3",
+      "Barracao AE2 ; Rua 3 ; Coluna 6 ; Nivel 3 ; Posicao 11",
+      true
+    ],
+    [
+      "04875d39-0416-4065-91d6-985711dd5101",
+      "Barracao AE2 ; Rua 3 ; Coluna 6 ; Nivel 3 ; Posicao 12",
+      true
+    ],
+    [
+      "dc2dfd52-f001-4fcc-8794-af4e3a5820d7",
+      "Barracao AE2 ; Rua 3 ; Coluna 6 ; Nivel 3 ; Posicao 13",
+      true
+    ],
+    [
+      "db207b71-96c6-453b-9e3b-22e3f997fe93",
+      "Barracao AE2 ; Rua 3 ; Coluna 6 ; Nivel 3 ; Posicao 14",
+      true
+    ],
+    [
+      "2290c0a9-e615-404c-87a8-61c07fd4e815",
+      "Barracao AE2 ; Rua 3 ; Coluna 6 ; Nivel 3 ; Posicao 15",
+      true
+    ],
+    [
+      "216c955a-0c78-4bf3-a28d-93d23ec55de7",
+      "Barracao AE2 ; Rua 3 ; Coluna 6 ; Nivel 3 ; Posicao 16",
+      true
+    ],
+    [
+      "130c513c-0486-4403-9d68-28ee960ca070",
+      "Barracao AE2 ; Rua 3 ; Coluna 6 ; Nivel 3 ; Posicao 17",
+      true
+    ],
+    [
+      "80b660f3-bf3a-4196-bb5b-621099022b3f",
+      "Barracao AE2 ; Rua 3 ; Coluna 6 ; Nivel 3 ; Posicao 18",
+      true
+    ],
+    [
+      "84b1433b-155c-4ec5-84df-78d1328b6235",
+      "Barracao AE2 ; Rua 3 ; Coluna 7 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "e66a9fa3-e45d-4c13-8a4f-845104db3088",
+      "Barracao AE2 ; Rua 3 ; Coluna 7 ; Nivel 3 ; Posicao 2",
+      true
+    ],
+    [
+      "0e22ebd6-0ca9-4def-8da8-2c243f51094b",
+      "Barracao AE2 ; Rua 3 ; Coluna 7 ; Nivel 3 ; Posicao 3",
+      true
+    ],
+    [
+      "719cae50-9b8b-4c0b-a524-e555be6f2b3e",
+      "Barracao AE2 ; Rua 3 ; Coluna 7 ; Nivel 3 ; Posicao 4",
+      true
+    ],
+    [
+      "36950387-c4cb-4788-aedd-f4eb67056c59",
+      "Barracao AE2 ; Rua 3 ; Coluna 7 ; Nivel 3 ; Posicao 5",
+      false
+    ],
+    [
+      "3cd53e23-8617-4282-a305-b9e033428cd2",
+      "Barracao AE2 ; Rua 3 ; Coluna 7 ; Nivel 3 ; Posicao 6",
+      false
+    ],
+    [
+      "11f1a326-0f7e-4ef5-a1f0-754cbe2e2559",
+      "Barracao AE2 ; Rua 3 ; Coluna 7 ; Nivel 3 ; Posicao 7",
+      false
+    ],
+    [
+      "3773ddd6-5523-45b1-a229-54e7a38ae57f",
+      "Barracao AE2 ; Rua 3 ; Coluna 7 ; Nivel 3 ; Posicao 8",
+      false
+    ],
+    [
+      "b99b600c-db38-4eda-8634-a4d27f045d5e",
+      "Barracao AE2 ; Rua 3 ; Coluna 7 ; Nivel 3 ; Posicao 9",
+      false
+    ],
+    [
+      "9b87c4cb-c81b-4b0a-bffd-85d9cd56ba5c",
+      "Barracao AE2 ; Rua 3 ; Coluna 7 ; Nivel 3 ; Posicao 10",
+      false
+    ],
+    [
+      "c9d0c173-6f35-4a22-901b-8a9954d9892b",
+      "Barracao AE2 ; Rua 3 ; Coluna 7 ; Nivel 3 ; Posicao 11",
+      false
+    ],
+    [
+      "1447f31f-884c-4e98-b84e-d26b58f878ca",
+      "Barracao AE2 ; Rua 3 ; Coluna 7 ; Nivel 3 ; Posicao 12",
+      false
+    ],
+    [
+      "b120f743-8f2c-4ac7-ba20-7bfcf2a7d67d",
+      "Barracao AE2 ; Rua 3 ; Coluna 7 ; Nivel 3 ; Posicao 13",
+      true
+    ],
+    [
+      "73d60f87-b6b1-4133-819c-2953989f8764",
+      "Barracao AE2 ; Rua 3 ; Coluna 7 ; Nivel 3 ; Posicao 14",
+      false
+    ],
+    [
+      "90c2bd00-300c-4541-b05a-86c8a255615d",
+      "Barracao AE2 ; Rua 3 ; Coluna 7 ; Nivel 3 ; Posicao 15",
+      false
+    ],
+    [
+      "a97d8166-f571-4cff-930d-14417135062f",
+      "Barracao AE2 ; Rua 3 ; Coluna 7 ; Nivel 3 ; Posicao 16",
+      true
+    ],
+    [
+      "969355fc-09bd-42e6-9464-c2921d9bf2a6",
+      "Barracao AE2 ; Rua 3 ; Coluna 7 ; Nivel 3 ; Posicao 17",
+      true
+    ],
+    [
+      "225c30d4-e4aa-4ac6-9af5-49c7272d740a",
+      "Barracao AE2 ; Rua 3 ; Coluna 7 ; Nivel 3 ; Posicao 18",
+      true
+    ],
+    [
+      "b4213905-1f0e-441e-b924-7094451eca5b",
+      "Barracao AE2 ; Rua 3 ; Coluna 7 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "3353e946-cb85-4faf-bb30-699f62f21706",
+      "Barracao AE2 ; Rua 3 ; Coluna 8 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "7d11aefc-a326-4c64-ae49-c5d5af48b672",
+      "Barracao AE2 ; Rua 3 ; Coluna 8 ; Nivel 3 ; Posicao 2",
+      true
+    ],
+    [
+      "da5af6e9-1117-4a0d-ba97-0d98639c24f9",
+      "Barracao AE2 ; Rua 3 ; Coluna 8 ; Nivel 3 ; Posicao 3",
+      false
+    ],
+    [
+      "ab41e26a-1886-40af-92ce-c1d2032e6804",
+      "Barracao AE2 ; Rua 3 ; Coluna 8 ; Nivel 3 ; Posicao 4",
+      true
+    ],
+    [
+      "234a5a7c-a928-4167-9be4-600983e952d0",
+      "Barracao AE2 ; Rua 3 ; Coluna 8 ; Nivel 3 ; Posicao 5",
+      true
+    ],
+    [
+      "ca671bda-1040-41f9-b364-6f095be18623",
+      "Barracao AE2 ; Rua 3 ; Coluna 8 ; Nivel 3 ; Posicao 6",
+      true
+    ],
+    [
+      "c5a40e7b-0fa0-4ab2-90fd-78f5c73b4c6b",
+      "Barracao AE2 ; Rua 3 ; Coluna 8 ; Nivel 3 ; Posicao 7",
+      true
+    ],
+    [
+      "3831c5b5-e19d-4ab2-80c1-3cfa653f9080",
+      "Barracao AE2 ; Rua 3 ; Coluna 8 ; Nivel 3 ; Posicao 8",
+      false
+    ],
+    [
+      "37ebb2f7-87d5-41df-b788-6818885069f3",
+      "Barracao AE2 ; Rua 3 ; Coluna 8 ; Nivel 3 ; Posicao 9",
+      true
+    ],
+    [
+      "1fda9a53-d7d3-43ea-826d-886c2284a206",
+      "Barracao AE2 ; Rua 3 ; Coluna 8 ; Nivel 3 ; Posicao 10",
+      true
+    ],
+    [
+      "fcc369c5-b55e-4afd-8718-b68622abad98",
+      "Barracao AE2 ; Rua 3 ; Coluna 8 ; Nivel 3 ; Posicao 11",
+      true
+    ],
+    [
+      "b91c3c5d-c289-4d14-bed2-68723c7b4286",
+      "Barracao AE2 ; Rua 3 ; Coluna 8 ; Nivel 3 ; Posicao 12",
+      true
+    ],
+    [
+      "67cce156-7a8e-4707-bba8-664b145163a4",
+      "Barracao AE2 ; Rua 3 ; Coluna 8 ; Nivel 3 ; Posicao 13",
+      false
+    ],
+    [
+      "e08e57f0-67fa-48d9-857b-b13e940c6538",
+      "Barracao AE2 ; Rua 3 ; Coluna 8 ; Nivel 3 ; Posicao 14",
+      true
+    ],
+    [
+      "c1a40c3b-57a7-444a-99b9-7431f139d157",
+      "Barracao AE2 ; Rua 3 ; Coluna 8 ; Nivel 3 ; Posicao 15",
+      false
+    ],
+    [
+      "1dafb1a5-b081-4243-b631-8f3a2432771a",
+      "Barracao AE2 ; Rua 3 ; Coluna 8 ; Nivel 3 ; Posicao 16",
+      true
+    ],
+    [
+      "4271161b-e470-4ff4-b44f-67317e1714a3",
+      "Barracao AE2 ; Rua 3 ; Coluna 8 ; Nivel 3 ; Posicao 17",
+      true
+    ],
+    [
+      "f7a19d26-460a-46b9-a287-cdefe25e3189",
+      "Barracao AE2 ; Rua 3 ; Coluna 8 ; Nivel 3 ; Posicao 18",
+      true
+    ],
+    [
+      "6a23bd03-bc77-4f28-81e5-87773b471975",
+      "Barracao AE2 ; Rua 3 ; Coluna 9 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "b73cb188-57bf-45a5-86bd-b5b7db0fcb39",
+      "Barracao AE2 ; Rua 3 ; Coluna 9 ; Nivel 3 ; Posicao 2",
+      true
+    ],
+    [
+      "f5023273-55f5-47a1-a3f9-cf26a7fa1f9f",
+      "Barracao AE2 ; Rua 3 ; Coluna 9 ; Nivel 3 ; Posicao 3",
+      true
+    ],
+    [
+      "f27d6940-7a60-41b0-a0b4-ea50ebec7d66",
+      "Barracao AE2 ; Rua 3 ; Coluna 9 ; Nivel 3 ; Posicao 4",
+      true
+    ],
+    [
+      "4d5714bd-84d6-4e17-8c42-b6eaaf760f17",
+      "Barracao AE2 ; Rua 3 ; Coluna 9 ; Nivel 3 ; Posicao 5",
+      true
+    ],
+    [
+      "eb37d456-d58c-492d-891a-e62aae12fca5",
+      "Barracao AE2 ; Rua 3 ; Coluna 9 ; Nivel 3 ; Posicao 6",
+      true
+    ],
+    [
+      "0d6b684d-de13-481b-8353-8de736674491",
+      "Barracao AE2 ; Rua 3 ; Coluna 9 ; Nivel 3 ; Posicao 7",
+      false
+    ],
+    [
+      "07ab34eb-5c27-441d-ba07-fe5fb2213d16",
+      "Barracao AE2 ; Rua 3 ; Coluna 9 ; Nivel 3 ; Posicao 8",
+      false
+    ],
+    [
+      "bd480945-91f5-49e7-9e50-807595f0a8ab",
+      "Barracao AE2 ; Rua 3 ; Coluna 9 ; Nivel 3 ; Posicao 9",
+      false
+    ],
+    [
+      "2d020f6d-668f-43cc-b4a2-6e2b5231201b",
+      "Barracao AE2 ; Rua 3 ; Coluna 9 ; Nivel 3 ; Posicao 10",
+      false
+    ],
+    [
+      "07e8c8c1-1538-416b-997f-177b99fbd89d",
+      "Barracao AE2 ; Rua 3 ; Coluna 9 ; Nivel 3 ; Posicao 11",
+      false
+    ],
+    [
+      "1fc324fd-7acd-4983-8fbc-f5ca17a0350c",
+      "Barracao AE2 ; Rua 3 ; Coluna 9 ; Nivel 3 ; Posicao 12",
+      true
+    ],
+    [
+      "2bee6ce8-5792-4a83-b88a-ffbe8d597d41",
+      "Barracao AE2 ; Rua 3 ; Coluna 9 ; Nivel 3 ; Posicao 13",
+      true
+    ],
+    [
+      "c6ddef65-5769-4181-8a97-cfd9fee3cb26",
+      "Barracao AE2 ; Rua 3 ; Coluna 9 ; Nivel 3 ; Posicao 14",
+      true
+    ],
+    [
+      "cd220336-a20d-477b-aff5-0c23076b7d5d",
+      "Barracao AE2 ; Rua 3 ; Coluna 9 ; Nivel 3 ; Posicao 15",
+      true
+    ],
+    [
+      "db727be1-599b-486f-a1d4-957f5be19a8d",
+      "Barracao AE2 ; Rua 3 ; Coluna 9 ; Nivel 3 ; Posicao 16",
+      false
+    ],
+    [
+      "e3110435-c5e3-49dc-ba27-7862557e99be",
+      "Barracao AE2 ; Rua 3 ; Coluna 9 ; Nivel 3 ; Posicao 17",
+      false
+    ],
+    [
+      "fe2f9f81-a51e-4045-8f6e-96c5bad43168",
+      "Barracao AE2 ; Rua 3 ; Coluna 9 ; Nivel 3 ; Posicao 18",
+      true
+    ],
+    [
+      "fc9e5b53-0f3a-45f4-96e7-28ac7bacb135",
+      "Barracao AE2 ; Rua 3 ; Coluna 9 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "7443de54-db9b-45b3-b2bd-052d38514b61",
+      "Barracao AE2 ; Rua 3 ; Coluna 10 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "e1aba5ce-1415-4793-9e68-8d768b83c663",
+      "Barracao AE2 ; Rua 3 ; Coluna 10 ; Nivel 3 ; Posicao 2",
+      true
+    ],
+    [
+      "f0e06029-bf39-4a01-8516-36a6020bac20",
+      "Barracao AE2 ; Rua 3 ; Coluna 10 ; Nivel 3 ; Posicao 3",
+      true
+    ],
+    [
+      "db735ef3-90e0-463d-b956-cbe1833a4b4d",
+      "Barracao AE2 ; Rua 3 ; Coluna 10 ; Nivel 3 ; Posicao 4",
+      false
+    ],
+    [
+      "7d82a9c7-703b-4dcf-abd9-740e6ede57d0",
+      "Barracao AE2 ; Rua 3 ; Coluna 10 ; Nivel 3 ; Posicao 5",
+      true
+    ],
+    [
+      "11d86bcb-41a7-4946-9ae3-a9950996a4e4",
+      "Barracao AE2 ; Rua 3 ; Coluna 10 ; Nivel 3 ; Posicao 6",
+      true
+    ],
+    [
+      "effb3920-fd60-4ef1-9b63-450d3d21e758",
+      "Barracao AE2 ; Rua 3 ; Coluna 10 ; Nivel 3 ; Posicao 7",
+      true
+    ],
+    [
+      "f7b3d841-c220-42e3-813c-3ebdc29cdf7d",
+      "Barracao AE2 ; Rua 3 ; Coluna 10 ; Nivel 3 ; Posicao 8",
+      true
+    ],
+    [
+      "31d97104-c071-4ba2-800c-6f1a8cfb06d3",
+      "Barracao AE2 ; Rua 3 ; Coluna 10 ; Nivel 3 ; Posicao 9",
+      true
+    ],
+    [
+      "ffae9bd2-0470-4e56-8ad1-2976241555f9",
+      "Barracao AE2 ; Rua 3 ; Coluna 10 ; Nivel 3 ; Posicao 10",
+      true
+    ],
+    [
+      "48e67e4a-3bfe-41ea-9011-73177d089252",
+      "Barracao AE2 ; Rua 3 ; Coluna 10 ; Nivel 3 ; Posicao 11",
+      true
+    ],
+    [
+      "a912144c-dcec-4040-ac19-536682fbbb7b",
+      "Barracao AE2 ; Rua 3 ; Coluna 10 ; Nivel 3 ; Posicao 12",
+      true
+    ],
+    [
+      "033aec4d-37b6-4b6b-be49-ed48eb090d71",
+      "Barracao AE2 ; Rua 3 ; Coluna 10 ; Nivel 3 ; Posicao 13",
+      true
+    ],
+    [
+      "49d8fd64-732f-4d1b-95e2-937702abfc6c",
+      "Barracao AE2 ; Rua 3 ; Coluna 10 ; Nivel 3 ; Posicao 14",
+      true
+    ],
+    [
+      "ef17bef1-d44b-49f3-bf4a-ea1c93f1b0a3",
+      "Barracao AE2 ; Rua 3 ; Coluna 10 ; Nivel 3 ; Posicao 15",
+      true
+    ],
+    [
+      "8020c1de-d066-481f-9282-094d03a4030a",
+      "Barracao AE2 ; Rua 3 ; Coluna 10 ; Nivel 3 ; Posicao 16",
+      true
+    ],
+    [
+      "b3bdc8cf-eb22-4de4-afe5-7f9e80309c9b",
+      "Barracao AE2 ; Rua 3 ; Coluna 10 ; Nivel 3 ; Posicao 17",
+      true
+    ],
+    [
+      "60bbff0e-e260-49bb-bced-c8a0d1b71a9c",
+      "Barracao AE2 ; Rua 3 ; Coluna 10 ; Nivel 3 ; Posicao 18",
+      true
+    ],
+    [
+      "bb84ddff-9036-492e-9b75-3a4bf26210c6",
+      "Barracao AE2 ; Rua 3 ; Coluna 11 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "5e1a97d2-b0bd-4504-bcbf-aa8e309ff642",
+      "Barracao AE2 ; Rua 3 ; Coluna 11 ; Nivel 3 ; Posicao 2",
+      true
+    ],
+    [
+      "59fda730-5101-4f12-bfb8-7f8a67f2fb2e",
+      "Barracao AE2 ; Rua 3 ; Coluna 11 ; Nivel 3 ; Posicao 3",
+      true
+    ],
+    [
+      "e536b868-1003-46a4-99f2-675a4683c143",
+      "Barracao AE2 ; Rua 3 ; Coluna 11 ; Nivel 3 ; Posicao 4",
+      false
+    ],
+    [
+      "ce4084ff-3674-42fa-9661-a209fdff11b4",
+      "Barracao AE2 ; Rua 3 ; Coluna 11 ; Nivel 3 ; Posicao 5",
+      true
+    ],
+    [
+      "97db44e9-b1cf-4d1f-a76f-eec128b33fd4",
+      "Barracao AE2 ; Rua 3 ; Coluna 11 ; Nivel 3 ; Posicao 6",
+      true
+    ],
+    [
+      "18e0fc28-541e-49dd-9b9b-e3108f043735",
+      "Barracao AE2 ; Rua 3 ; Coluna 11 ; Nivel 3 ; Posicao 7",
+      false
+    ],
+    [
+      "8d8d0eee-559c-4ec0-97d6-5dbb06adb7ec",
+      "Barracao AE2 ; Rua 3 ; Coluna 11 ; Nivel 3 ; Posicao 8",
+      true
+    ],
+    [
+      "accc65da-3833-433e-9c3a-c9e37841fec1",
+      "Barracao AE2 ; Rua 3 ; Coluna 11 ; Nivel 3 ; Posicao 9",
+      true
+    ],
+    [
+      "684d3cb1-9e4a-4fc9-b228-d1d85f3254b6",
+      "Barracao AE2 ; Rua 3 ; Coluna 11 ; Nivel 3 ; Posicao 10",
+      true
+    ],
+    [
+      "917430a5-de50-4822-bd30-e6fe607f9931",
+      "Barracao AE2 ; Rua 3 ; Coluna 11 ; Nivel 3 ; Posicao 11",
+      true
+    ],
+    [
+      "fcbb7f5c-1a2d-47fe-ab00-9646bd5d04f3",
+      "Barracao AE2 ; Rua 3 ; Coluna 11 ; Nivel 3 ; Posicao 12",
+      true
+    ],
+    [
+      "37969e5a-839e-41f8-b124-994037b2c236",
+      "Barracao AE2 ; Rua 3 ; Coluna 11 ; Nivel 3 ; Posicao 13",
+      false
+    ],
+    [
+      "7de6d087-9884-42f7-a295-1f6dc488a482",
+      "Barracao AE2 ; Rua 3 ; Coluna 11 ; Nivel 3 ; Posicao 14",
+      true
+    ],
+    [
+      "cdce50e6-c6c9-48e5-bdc1-10bbf6268a65",
+      "Barracao AE2 ; Rua 3 ; Coluna 11 ; Nivel 3 ; Posicao 15",
+      true
+    ],
+    [
+      "109b2bf0-9e84-48c2-ae22-9311826ebf23",
+      "Barracao AE2 ; Rua 3 ; Coluna 11 ; Nivel 3 ; Posicao 16",
+      true
+    ],
+    [
+      "a253f06c-b1d2-4c36-a801-d2b84555c384",
+      "Barracao AE2 ; Rua 3 ; Coluna 11 ; Nivel 3 ; Posicao 17",
+      true
+    ],
+    [
+      "4b8c753c-4633-4a90-beee-5a0c151bde1b",
+      "Barracao AE2 ; Rua 3 ; Coluna 11 ; Nivel 3 ; Posicao 18",
+      true
+    ],
+    [
+      "b41c0a5a-c04f-438b-947e-818642c6bad9",
+      "Barracao AE2 ; Rua 3 ; Coluna 11 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "06636c1b-73d6-4393-8094-7a116afc4c51",
+      "Barracao AE2 ; Rua 3 ; Coluna 12 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "2f34b092-e193-4b20-a3c0-fb75f13d7851",
+      "Barracao AE2 ; Rua 3 ; Coluna 12 ; Nivel 3 ; Posicao 2",
+      true
+    ],
+    [
+      "b0abbc48-2abe-43c5-86e5-b616d109ae39",
+      "Barracao AE2 ; Rua 3 ; Coluna 12 ; Nivel 3 ; Posicao 3",
+      true
+    ],
+    [
+      "481ec97f-3ec9-4d5e-9c5e-545516de63fc",
+      "Barracao AE2 ; Rua 3 ; Coluna 12 ; Nivel 3 ; Posicao 4",
+      true
+    ],
+    [
+      "fb2258c9-10a7-49c4-8574-f079959513f1",
+      "Barracao AE2 ; Rua 3 ; Coluna 12 ; Nivel 3 ; Posicao 5",
+      false
+    ],
+    [
+      "59bd2874-5e17-4945-afc9-ae1691c53d67",
+      "Barracao AE2 ; Rua 3 ; Coluna 12 ; Nivel 3 ; Posicao 6",
+      false
+    ],
+    [
+      "dadb105d-b243-4dbc-abcf-a5f4f1324063",
+      "Barracao AE2 ; Rua 3 ; Coluna 12 ; Nivel 3 ; Posicao 7",
+      true
+    ],
+    [
+      "56ab693a-b020-43ef-b1f2-c73e8310a80b",
+      "Barracao AE2 ; Rua 3 ; Coluna 12 ; Nivel 3 ; Posicao 8",
+      true
+    ],
+    [
+      "f6211d1d-4fd3-46a3-b100-507bed6f89d3",
+      "Barracao AE2 ; Rua 3 ; Coluna 12 ; Nivel 3 ; Posicao 9",
+      false
+    ],
+    [
+      "054e6cee-6802-41a8-9d1f-00fc92046c9f",
+      "Barracao AE2 ; Rua 3 ; Coluna 12 ; Nivel 3 ; Posicao 10",
+      true
+    ],
+    [
+      "47331fff-7b33-44a6-a12b-1ce422cb9878",
+      "Barracao AE2 ; Rua 3 ; Coluna 12 ; Nivel 3 ; Posicao 11",
+      true
+    ],
+    [
+      "49faea4e-dda8-4d94-8690-d31c0ecb7cbd",
+      "Barracao AE2 ; Rua 3 ; Coluna 12 ; Nivel 3 ; Posicao 12",
+      true
+    ],
+    [
+      "aa3c0fe3-10ea-4d91-be14-451dc4a8aae4",
+      "Barracao AE2 ; Rua 3 ; Coluna 12 ; Nivel 3 ; Posicao 13",
+      true
+    ],
+    [
+      "945d50cd-dec9-4fcf-b473-4aa172b4639c",
+      "Barracao AE2 ; Rua 3 ; Coluna 12 ; Nivel 3 ; Posicao 14",
+      true
+    ],
+    [
+      "4076ea3d-251c-4311-bb94-45bd84654028",
+      "Barracao AE2 ; Rua 3 ; Coluna 12 ; Nivel 3 ; Posicao 15",
+      true
+    ],
+    [
+      "efbb9b01-73f3-49bd-bcdc-21363ce848b7",
+      "Barracao AE2 ; Rua 3 ; Coluna 12 ; Nivel 3 ; Posicao 16",
+      true
+    ],
+    [
+      "e7cc6fc4-7d59-4412-b7a7-c38b41ff10f1",
+      "Barracao AE2 ; Rua 3 ; Coluna 12 ; Nivel 3 ; Posicao 17",
+      true
+    ],
+    [
+      "c51256a4-9964-4b3b-9ce5-cfde108012be",
+      "Barracao AE2 ; Rua 3 ; Coluna 12 ; Nivel 3 ; Posicao 18",
+      true
+    ],
+    [
+      "29115ea7-3b72-47b1-8eb8-65c22414ce63",
+      "Barracao AE2 ; Rua 4 ; Coluna 1 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "2946117c-53ff-432d-a78d-2d9be61adc60",
+      "Barracao AE2 ; Rua 4 ; Coluna 1 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "7fbb9c2c-1cac-46e9-8727-155be183c46c",
+      "Barracao AE2 ; Rua 4 ; Coluna 1 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "2b5932e4-1954-4764-890d-f7869654ebcc",
+      "Barracao AE2 ; Rua 4 ; Coluna 1 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "e249ffdd-ff45-40c1-ac5c-ea6ffda5896a",
+      "Barracao AE2 ; Rua 4 ; Coluna 1 ; Nivel 5 ; Posicao 1",
+      true
+    ],
+    [
+      "c21275ca-2737-42f1-be79-bcf4f2e9042a",
+      "Barracao AE2 ; Rua 4 ; Coluna 2 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "33b131e4-4907-4062-9baa-aa1aac52abf0",
+      "Barracao AE2 ; Rua 4 ; Coluna 2 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "be1c1f1d-ae99-418d-a63f-8cc05e1a3519",
+      "Barracao AE2 ; Rua 4 ; Coluna 2 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "e80684b8-9239-4363-b255-d0c3789b7701",
+      "Barracao AE2 ; Rua 4 ; Coluna 2 ; Nivel 3 ; Posicao 2",
+      true
+    ],
+    [
+      "e21c9fcb-8e3e-4fc8-9587-7761d9146334",
+      "Barracao AE2 ; Rua 4 ; Coluna 2 ; Nivel 3 ; Posicao 3",
+      true
+    ],
+    [
+      "59277fbd-2487-4efa-8a49-45c16098c46e",
+      "Barracao AE2 ; Rua 4 ; Coluna 2 ; Nivel 3 ; Posicao 4",
+      true
+    ],
+    [
+      "18fdfe60-2ccb-4b28-91b4-cfab76854ac9",
+      "Barracao AE2 ; Rua 4 ; Coluna 2 ; Nivel 3 ; Posicao 5",
+      false
+    ],
+    [
+      "ee869d86-5a84-4234-b759-f9d1a3eb15ff",
+      "Barracao AE2 ; Rua 4 ; Coluna 2 ; Nivel 3 ; Posicao 6",
+      false
+    ],
+    [
+      "795c315d-1f68-439b-8c22-43c7b7202673",
+      "Barracao AE2 ; Rua 4 ; Coluna 2 ; Nivel 3 ; Posicao 7",
+      false
+    ],
+    [
+      "1cf5180e-e83b-46bb-a957-56a3dfb02a33",
+      "Barracao AE2 ; Rua 4 ; Coluna 2 ; Nivel 3 ; Posicao 8",
+      false
+    ],
+    [
+      "da498bad-8408-48d5-beca-c691336706ac",
+      "Barracao AE2 ; Rua 4 ; Coluna 2 ; Nivel 3 ; Posicao 9",
+      false
+    ],
+    [
+      "9481ef86-6a33-41b6-afd6-8fb99beb1cf0",
+      "Barracao AE2 ; Rua 4 ; Coluna 2 ; Nivel 3 ; Posicao 10",
+      false
+    ],
+    [
+      "08985cdf-f3cd-43f5-9bbf-f40692db09db",
+      "Barracao AE2 ; Rua 4 ; Coluna 2 ; Nivel 3 ; Posicao 11",
+      false
+    ],
+    [
+      "f54e2f28-fbb8-4e03-aaea-b934d334dac4",
+      "Barracao AE2 ; Rua 4 ; Coluna 2 ; Nivel 3 ; Posicao 12",
+      false
+    ],
+    [
+      "1b06e22c-d634-4ffd-a057-eaa64e4e2392",
+      "Barracao AE2 ; Rua 4 ; Coluna 2 ; Nivel 3 ; Posicao 13",
+      false
+    ],
+    [
+      "43619f30-c34b-4095-9fc5-3adabf82d989",
+      "Barracao AE2 ; Rua 4 ; Coluna 2 ; Nivel 3 ; Posicao 14",
+      false
+    ],
+    [
+      "b4c0c9a6-e492-463c-9c9d-ef70ad68f436",
+      "Barracao AE2 ; Rua 4 ; Coluna 2 ; Nivel 3 ; Posicao 15",
+      false
+    ],
+    [
+      "0bc85165-51ad-4120-88d6-0c801ad28088",
+      "Barracao AE2 ; Rua 4 ; Coluna 2 ; Nivel 3 ; Posicao 16",
+      false
+    ],
+    [
+      "e14dfb0a-be90-47c3-938e-6dfc68988f8b",
+      "Barracao AE2 ; Rua 4 ; Coluna 2 ; Nivel 3 ; Posicao 17",
+      false
+    ],
+    [
+      "1151113b-0073-4a13-b555-597e69a37a28",
+      "Barracao AE2 ; Rua 4 ; Coluna 2 ; Nivel 3 ; Posicao 18",
+      false
+    ],
+    [
+      "a815d99d-c52a-4057-bd99-19714f01bd03",
+      "Barracao AE2 ; Rua 4 ; Coluna 2 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "30289531-f2b5-432d-9571-cd36ec0f37b7",
+      "Barracao AE2 ; Rua 4 ; Coluna 2 ; Nivel 4 ; Posicao 2",
+      true
+    ],
+    [
+      "17e7b9c7-2bc1-4046-b614-264b400d661b",
+      "Barracao AE2 ; Rua 4 ; Coluna 2 ; Nivel 4 ; Posicao 3",
+      true
+    ],
+    [
+      "5d345af5-83a0-4dba-a02b-920bc81917b6",
+      "Barracao AE2 ; Rua 4 ; Coluna 3 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "e315f307-2314-426d-b24f-6a8f808cb466",
+      "Barracao AE2 ; Rua 4 ; Coluna 3 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "ea9dd88f-6f34-4451-a14d-65f13d4a66d1",
+      "Barracao AE2 ; Rua 4 ; Coluna 3 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "df101af6-322a-497f-b696-8a70ee36b6b7",
+      "Barracao AE2 ; Rua 4 ; Coluna 3 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "0ce0abbd-2af6-49ac-92c4-0eb0684df3f9",
+      "Barracao AE2 ; Rua 4 ; Coluna 3 ; Nivel 5 ; Posicao 1",
+      false
+    ],
+    [
+      "c803b691-e87d-4fca-9d11-dea4677bde3e",
+      "Barracao AE2 ; Rua 4 ; Coluna 4 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "65d5658f-0a9e-4f08-b959-040a6b9808f8",
+      "Barracao AE2 ; Rua 4 ; Coluna 4 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "2a7e79d6-fbd5-4c7a-8e67-0ff79d0ea4f3",
+      "Barracao AE2 ; Rua 4 ; Coluna 4 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "5278b3b1-ca41-49db-a391-d6a29d356ca3",
+      "Barracao AE2 ; Rua 4 ; Coluna 4 ; Nivel 3 ; Posicao 2",
+      true
+    ],
+    [
+      "1a421776-3a16-4c4f-bc78-fa51ce0d68cc",
+      "Barracao AE2 ; Rua 4 ; Coluna 4 ; Nivel 3 ; Posicao 3",
+      false
+    ],
+    [
+      "d8ebd293-eef2-4d42-8148-e2b519a71e26",
+      "Barracao AE2 ; Rua 4 ; Coluna 4 ; Nivel 3 ; Posicao 4",
+      true
+    ],
+    [
+      "b7ec87ce-7cf8-4f0a-a267-a1960adb4722",
+      "Barracao AE2 ; Rua 4 ; Coluna 4 ; Nivel 3 ; Posicao 5",
+      true
+    ],
+    [
+      "e4b70c96-7213-4def-a379-31a51b41741d",
+      "Barracao AE2 ; Rua 4 ; Coluna 4 ; Nivel 3 ; Posicao 6",
+      true
+    ],
+    [
+      "08acfe97-9fbc-4b2f-b0e1-bb72971f3b29",
+      "Barracao AE2 ; Rua 4 ; Coluna 4 ; Nivel 3 ; Posicao 7",
+      false
+    ],
+    [
+      "820e8878-5d45-49a8-ad17-36dd10810a63",
+      "Barracao AE2 ; Rua 4 ; Coluna 4 ; Nivel 3 ; Posicao 8",
+      false
+    ],
+    [
+      "27b2d915-4a09-47c3-8e09-8a325eb3ef13",
+      "Barracao AE2 ; Rua 4 ; Coluna 4 ; Nivel 3 ; Posicao 9",
+      false
+    ],
+    [
+      "3609ef9e-ad05-443d-a2aa-f65c8e1f656a",
+      "Barracao AE2 ; Rua 4 ; Coluna 4 ; Nivel 3 ; Posicao 10",
+      false
+    ],
+    [
+      "3a5b6587-f01b-4f28-95f5-e3ec36e17afe",
+      "Barracao AE2 ; Rua 4 ; Coluna 4 ; Nivel 3 ; Posicao 11",
+      false
+    ],
+    [
+      "ad0cda78-be48-4c53-adc9-e735a7191108",
+      "Barracao AE2 ; Rua 4 ; Coluna 4 ; Nivel 3 ; Posicao 12",
+      false
+    ],
+    [
+      "4d50dc8d-c1c3-4c29-b068-0a0be06d28f7",
+      "Barracao AE2 ; Rua 4 ; Coluna 4 ; Nivel 3 ; Posicao 13",
+      false
+    ],
+    [
+      "f0cbed21-7476-44a1-a333-d8b2b6d709d3",
+      "Barracao AE2 ; Rua 4 ; Coluna 4 ; Nivel 3 ; Posicao 14",
+      false
+    ],
+    [
+      "d8efbacf-94c3-4e3d-97d4-ba85366244db",
+      "Barracao AE2 ; Rua 4 ; Coluna 4 ; Nivel 3 ; Posicao 15",
+      false
+    ],
+    [
+      "114aa7d5-370a-4299-bfc4-b19a84592de3",
+      "Barracao AE2 ; Rua 4 ; Coluna 4 ; Nivel 3 ; Posicao 16",
+      false
+    ],
+    [
+      "c9bd6735-20c2-40b7-a9e2-57f309e69d78",
+      "Barracao AE2 ; Rua 4 ; Coluna 4 ; Nivel 3 ; Posicao 17",
+      false
+    ],
+    [
+      "cae2411b-74e3-4c67-b366-ffbb17ed1ba0",
+      "Barracao AE2 ; Rua 4 ; Coluna 4 ; Nivel 3 ; Posicao 18",
+      false
+    ],
+    [
+      "ee439dc5-a195-4ef2-bdea-38e129f02240",
+      "Barracao AE2 ; Rua 4 ; Coluna 4 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "73364ada-b0be-4419-bfb9-1e967f4c6fba",
+      "Barracao AE2 ; Rua 4 ; Coluna 4 ; Nivel 4 ; Posicao 2",
+      true
+    ],
+    [
+      "6218a365-5554-4bb9-a307-54334ad97b7f",
+      "Barracao AE2 ; Rua 4 ; Coluna 4 ; Nivel 4 ; Posicao 3",
+      true
+    ],
+    [
+      "35ec2a73-aad7-4af4-830e-4feeff72e11c",
+      "Barracao AE2 ; Rua 4 ; Coluna 5 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "0b327971-aa95-4961-ac4a-467e6759bfbe",
+      "Barracao AE2 ; Rua 4 ; Coluna 6 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "4d7b5c03-9058-4b42-a392-213361ceb47f",
+      "Barracao AE2 ; Rua 4 ; Coluna 6 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "6f4f4dea-14d9-4de5-b8ab-e75e60dc4088",
+      "Barracao AE2 ; Rua 4 ; Coluna 6 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "1b35b151-5dd8-49af-83ee-d7f98b51a5fd",
+      "Barracao AE2 ; Rua 4 ; Coluna 6 ; Nivel 3 ; Posicao 2",
+      false
+    ],
+    [
+      "9990c957-7c7f-4cb6-b966-8053fdd06508",
+      "Barracao AE2 ; Rua 4 ; Coluna 6 ; Nivel 3 ; Posicao 3",
+      false
+    ],
+    [
+      "925774a8-0da2-43b2-a207-ead7bc676c52",
+      "Barracao AE2 ; Rua 4 ; Coluna 6 ; Nivel 3 ; Posicao 4",
+      false
+    ],
+    [
+      "9c5f1dd3-592a-4b01-99c0-c0b23e957248",
+      "Barracao AE2 ; Rua 4 ; Coluna 6 ; Nivel 3 ; Posicao 5",
+      false
+    ],
+    [
+      "6ba5858d-c0a7-4e4e-b5be-7dbc22b1c9bd",
+      "Barracao AE2 ; Rua 4 ; Coluna 6 ; Nivel 3 ; Posicao 6",
+      false
+    ],
+    [
+      "8bfbc8e1-fe60-49d3-90ba-ca05e3f20e12",
+      "Barracao AE2 ; Rua 4 ; Coluna 6 ; Nivel 3 ; Posicao 7",
+      false
+    ],
+    [
+      "6033b8c5-f02b-4964-9016-31c7d1026c37",
+      "Barracao AE2 ; Rua 4 ; Coluna 6 ; Nivel 3 ; Posicao 8",
+      false
+    ],
+    [
+      "0a51b916-1bbf-4a74-a6d8-9b7b8daad31a",
+      "Barracao AE2 ; Rua 4 ; Coluna 6 ; Nivel 3 ; Posicao 9",
+      false
+    ],
+    [
+      "387445b0-2f9f-4664-ad47-d322d6c5ec8f",
+      "Barracao AE2 ; Rua 4 ; Coluna 6 ; Nivel 3 ; Posicao 10",
+      false
+    ],
+    [
+      "d540bbe4-ea83-42e2-bf7f-0f2ad6697898",
+      "Barracao AE2 ; Rua 4 ; Coluna 6 ; Nivel 3 ; Posicao 11",
+      false
+    ],
+    [
+      "144ae661-2ed6-472b-99d1-31725a27fe15",
+      "Barracao AE2 ; Rua 4 ; Coluna 6 ; Nivel 3 ; Posicao 12",
+      false
+    ],
+    [
+      "13090e1d-c1c6-4783-93d5-64cef7196a08",
+      "Barracao AE2 ; Rua 4 ; Coluna 6 ; Nivel 3 ; Posicao 13",
+      false
+    ],
+    [
+      "14146272-8271-4893-ae11-82a17052ce9b",
+      "Barracao AE2 ; Rua 4 ; Coluna 6 ; Nivel 3 ; Posicao 14",
+      false
+    ],
+    [
+      "46fe406b-e0fc-4189-bb6e-31f2e1d10bb9",
+      "Barracao AE2 ; Rua 4 ; Coluna 6 ; Nivel 3 ; Posicao 15",
+      false
+    ],
+    [
+      "e2f63451-b7cf-4ae4-9d19-319fe36f0d4d",
+      "Barracao AE2 ; Rua 4 ; Coluna 6 ; Nivel 3 ; Posicao 16",
+      false
+    ],
+    [
+      "482ae926-183d-4690-9205-d2d93bf9232b",
+      "Barracao AE2 ; Rua 4 ; Coluna 6 ; Nivel 3 ; Posicao 17",
+      false
+    ],
+    [
+      "736cbac9-b5eb-4125-a6ac-ae5656bb2b03",
+      "Barracao AE2 ; Rua 4 ; Coluna 6 ; Nivel 3 ; Posicao 18",
+      false
+    ],
+    [
+      "f89b5fc9-3190-493b-ac23-4dc434193828",
+      "Barracao AE2 ; Rua 4 ; Coluna 6 ; Nivel 4 ; Posicao 1",
+      false
+    ],
+    [
+      "65c2c325-5291-42a8-a1c3-4f07e566111e",
+      "Barracao AE2 ; Rua 4 ; Coluna 6 ; Nivel 4 ; Posicao 2",
+      true
+    ],
+    [
+      "b445b03e-62dd-4e8a-848e-d06ef78a8d6f",
+      "Barracao AE2 ; Rua 4 ; Coluna 6 ; Nivel 4 ; Posicao 3",
+      true
+    ],
+    [
+      "09c132fd-1441-4efe-8e3e-474b6287a423",
+      "Barracao AE2 ; Rua 4 ; Coluna 8 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "3b19ae0d-8eae-4970-add2-31b0f1595210",
+      "Barracao AE2 ; Rua 4 ; Coluna 8 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "5dfb1d26-0985-47f1-b903-381eec0491b5",
+      "Barracao AE2 ; Rua 4 ; Coluna 8 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "75dd928c-49a5-4077-b1ee-a4c4e2c5802e",
+      "Barracao AE2 ; Rua 4 ; Coluna 8 ; Nivel 3 ; Posicao 2",
+      true
+    ],
+    [
+      "3a456d0b-5134-43dc-a383-8d66c4ac6542",
+      "Barracao AE2 ; Rua 4 ; Coluna 8 ; Nivel 3 ; Posicao 3",
+      true
+    ],
+    [
+      "164b3e6c-8a2a-41e9-9c3c-4b50c693ff46",
+      "Barracao AE2 ; Rua 4 ; Coluna 8 ; Nivel 3 ; Posicao 4",
+      true
+    ],
+    [
+      "e0c926df-a20a-415b-9378-4ded8a3f387b",
+      "Barracao AE2 ; Rua 4 ; Coluna 8 ; Nivel 3 ; Posicao 5",
+      true
+    ],
+    [
+      "4a7d06fc-d5c5-47d1-9675-278fdc6758a4",
+      "Barracao AE2 ; Rua 4 ; Coluna 8 ; Nivel 3 ; Posicao 6",
+      true
+    ],
+    [
+      "a5b4ac20-57a9-4494-8220-149045df6eb6",
+      "Barracao AE2 ; Rua 4 ; Coluna 8 ; Nivel 3 ; Posicao 7",
+      false
+    ],
+    [
+      "9d64998e-297b-4fc5-86bc-46d859dd858d",
+      "Barracao AE2 ; Rua 4 ; Coluna 8 ; Nivel 3 ; Posicao 8",
+      false
+    ],
+    [
+      "2c5ecd13-ef55-4df4-b5c6-2835501f8f63",
+      "Barracao AE2 ; Rua 4 ; Coluna 8 ; Nivel 3 ; Posicao 9",
+      false
+    ],
+    [
+      "6b049d4a-1f61-41ee-8307-0028a80f0e17",
+      "Barracao AE2 ; Rua 4 ; Coluna 8 ; Nivel 3 ; Posicao 10",
+      false
+    ],
+    [
+      "13e2aa54-051f-43ab-bb1b-9d65551a425c",
+      "Barracao AE2 ; Rua 4 ; Coluna 8 ; Nivel 3 ; Posicao 11",
+      false
+    ],
+    [
+      "57832593-72e2-46ce-852e-174aec34370c",
+      "Barracao AE2 ; Rua 4 ; Coluna 8 ; Nivel 3 ; Posicao 12",
+      false
+    ],
+    [
+      "9271ddcb-7588-4eb9-9b73-7e6c260ae00c",
+      "Barracao AE2 ; Rua 4 ; Coluna 8 ; Nivel 3 ; Posicao 13",
+      false
+    ],
+    [
+      "53c1d747-cda1-461d-99eb-b7fc8497ca4f",
+      "Barracao AE2 ; Rua 4 ; Coluna 8 ; Nivel 3 ; Posicao 14",
+      false
+    ],
+    [
+      "f1697c0c-8546-40f8-9897-7e3a0b87057c",
+      "Barracao AE2 ; Rua 4 ; Coluna 8 ; Nivel 3 ; Posicao 15",
+      false
+    ],
+    [
+      "9f17f92c-b71d-4fec-9944-6e90f13e05bb",
+      "Barracao AE2 ; Rua 4 ; Coluna 8 ; Nivel 3 ; Posicao 16",
+      false
+    ],
+    [
+      "249ebe00-7a2d-4107-a974-a5887b1a92ca",
+      "Barracao AE2 ; Rua 4 ; Coluna 8 ; Nivel 3 ; Posicao 17",
+      false
+    ],
+    [
+      "2654acb3-bca5-4ff1-847c-e169f8c4f571",
+      "Barracao AE2 ; Rua 4 ; Coluna 8 ; Nivel 3 ; Posicao 18",
+      false
+    ],
+    [
+      "45506c5d-0f2b-4f80-abd5-641fa4bfb4bf",
+      "Barracao AE2 ; Rua 4 ; Coluna 8 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "017c2180-902e-4406-bcfe-3a97bd28d199",
+      "Barracao AE2 ; Rua 4 ; Coluna 8 ; Nivel 4 ; Posicao 2",
+      true
+    ],
+    [
+      "2c01a3dc-a6e7-49ce-bc3e-44085b346166",
+      "Barracao AE2 ; Rua 4 ; Coluna 8 ; Nivel 4 ; Posicao 3",
+      true
+    ],
+    [
+      "acec430b-e368-422e-9e3c-b84aba926f56",
+      "Barracao AE2 ; Rua 4 ; Coluna 10 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "2c332263-db27-4fb6-8a7b-479f66252c6b",
+      "Barracao AE2 ; Rua 4 ; Coluna 10 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "af3e4eb6-f5c1-4e93-9ab1-40b6e4cadc81",
+      "Barracao AE2 ; Rua 4 ; Coluna 10 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "eeed8b7f-021b-45fa-863e-b5c6eb0e8e2d",
+      "Barracao AE2 ; Rua 4 ; Coluna 10 ; Nivel 3 ; Posicao 2",
+      false
+    ],
+    [
+      "c6efc012-375a-4f1e-ac7a-abb0adaae886",
+      "Barracao AE2 ; Rua 4 ; Coluna 10 ; Nivel 3 ; Posicao 3",
+      false
+    ],
+    [
+      "5cd7aca8-4139-4567-9422-a497421a0404",
+      "Barracao AE2 ; Rua 4 ; Coluna 10 ; Nivel 3 ; Posicao 4",
+      false
+    ],
+    [
+      "5b55e6e8-6f8f-439c-a29b-4cb5b83555dc",
+      "Barracao AE2 ; Rua 4 ; Coluna 10 ; Nivel 3 ; Posicao 5",
+      false
+    ],
+    [
+      "ec96a92b-37c8-4c04-a6c7-aa5161d1c510",
+      "Barracao AE2 ; Rua 4 ; Coluna 10 ; Nivel 3 ; Posicao 6",
+      false
+    ],
+    [
+      "f0a302fb-4f05-4416-8681-aefc4c293656",
+      "Barracao AE2 ; Rua 4 ; Coluna 10 ; Nivel 3 ; Posicao 7",
+      false
+    ],
+    [
+      "e1403862-e00a-4ccf-a617-1e61f3abadb2",
+      "Barracao AE2 ; Rua 4 ; Coluna 10 ; Nivel 3 ; Posicao 8",
+      false
+    ],
+    [
+      "88e0ee71-2261-4a91-97d9-3fcf5c239980",
+      "Barracao AE2 ; Rua 4 ; Coluna 10 ; Nivel 3 ; Posicao 9",
+      false
+    ],
+    [
+      "01a5f0b8-1f48-4e1b-9593-711faf2cc94b",
+      "Barracao AE2 ; Rua 4 ; Coluna 10 ; Nivel 3 ; Posicao 10",
+      false
+    ],
+    [
+      "66dc0c24-53e1-4205-a7a9-d4d7ccc487d5",
+      "Barracao AE2 ; Rua 4 ; Coluna 10 ; Nivel 3 ; Posicao 11",
+      false
+    ],
+    [
+      "a8b218a7-ff4a-40f9-9a48-8417d4e91ae6",
+      "Barracao AE2 ; Rua 4 ; Coluna 10 ; Nivel 3 ; Posicao 12",
+      false
+    ],
+    [
+      "5646acb2-b075-479b-9727-c229a40b067d",
+      "Barracao AE2 ; Rua 4 ; Coluna 10 ; Nivel 3 ; Posicao 13",
+      false
+    ],
+    [
+      "034ca05f-a2f9-49d0-a35f-821f606717cd",
+      "Barracao AE2 ; Rua 4 ; Coluna 10 ; Nivel 3 ; Posicao 14",
+      false
+    ],
+    [
+      "28a36389-c210-4752-87df-0a79f802c4f3",
+      "Barracao AE2 ; Rua 4 ; Coluna 10 ; Nivel 3 ; Posicao 15",
+      false
+    ],
+    [
+      "95c125a2-dbbe-48c7-998a-f26f5d84981f",
+      "Barracao AE2 ; Rua 4 ; Coluna 10 ; Nivel 3 ; Posicao 16",
+      false
+    ],
+    [
+      "b8113d42-b005-4a0d-8ed4-e6766b1d6dc0",
+      "Barracao AE2 ; Rua 4 ; Coluna 10 ; Nivel 3 ; Posicao 17",
+      false
+    ],
+    [
+      "7bd2024f-dddf-4ea9-b2bc-aeb09661b156",
+      "Barracao AE2 ; Rua 4 ; Coluna 10 ; Nivel 3 ; Posicao 18",
+      false
+    ],
+    [
+      "69cc22ea-9579-4442-a050-dfcea45457ad",
+      "Barracao AE2 ; Rua 4 ; Coluna 10 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "722b4257-7e5b-44c5-8688-98bd8c45160f",
+      "Barracao AE2 ; Rua 4 ; Coluna 10 ; Nivel 4 ; Posicao 2",
+      true
+    ],
+    [
+      "756f0cf2-4e07-4180-9031-20e05298c71f",
+      "Barracao AE2 ; Rua 4 ; Coluna 10 ; Nivel 4 ; Posicao 3",
+      true
+    ],
+    [
+      "5d0c8a1a-d97c-43db-968b-1dcc4689345b",
+      "Barracao AE2 ; Rua 4 ; Coluna 12 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "6ddb158c-040d-4c62-b52a-2bd912a7486d",
+      "Barracao AE2 ; Rua 4 ; Coluna 12 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "298afc88-0ab1-411d-8bcf-5717821310c9",
+      "Barracao AE2 ; Rua 4 ; Coluna 12 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "d5f1dce1-9c57-43a2-81ab-5a06b339f326",
+      "Barracao AE2 ; Rua 4 ; Coluna 12 ; Nivel 3 ; Posicao 2",
+      true
+    ],
+    [
+      "25117015-7d6c-43a0-a8f8-583cd753cc82",
+      "Barracao AE2 ; Rua 4 ; Coluna 12 ; Nivel 3 ; Posicao 3",
+      true
+    ],
+    [
+      "ac2dd7d0-8857-4a2b-ba5d-71c2352cea68",
+      "Barracao AE2 ; Rua 4 ; Coluna 12 ; Nivel 3 ; Posicao 4",
+      true
+    ],
+    [
+      "6f05dcd8-9c17-4633-8304-f047050c4769",
+      "Barracao AE2 ; Rua 4 ; Coluna 12 ; Nivel 3 ; Posicao 5",
+      false
+    ],
+    [
+      "d0170d1c-38ed-48e6-93ec-d51db7d71336",
+      "Barracao AE2 ; Rua 4 ; Coluna 12 ; Nivel 3 ; Posicao 6",
+      true
+    ],
+    [
+      "17dc57c3-68bd-4286-a9ae-cac86f3eef11",
+      "Barracao AE2 ; Rua 4 ; Coluna 12 ; Nivel 3 ; Posicao 7",
+      false
+    ],
+    [
+      "82352457-4205-4584-a2da-a4f5e5a5526c",
+      "Barracao AE2 ; Rua 4 ; Coluna 12 ; Nivel 3 ; Posicao 8",
+      false
+    ],
+    [
+      "d1f7ddb5-063c-4d4d-ad13-9fec8d90d4cf",
+      "Barracao AE2 ; Rua 4 ; Coluna 12 ; Nivel 3 ; Posicao 9",
+      false
+    ],
+    [
+      "7abf4072-c7ee-4b95-b7dd-b8f846411d3f",
+      "Barracao AE2 ; Rua 4 ; Coluna 12 ; Nivel 3 ; Posicao 10",
+      true
+    ],
+    [
+      "0ca4bdcb-f490-48d8-bbc4-2c702837908a",
+      "Barracao AE2 ; Rua 4 ; Coluna 12 ; Nivel 3 ; Posicao 11",
+      false
+    ],
+    [
+      "0d26298e-a4cb-46a0-a5c8-a1cecd616329",
+      "Barracao AE2 ; Rua 4 ; Coluna 12 ; Nivel 3 ; Posicao 12",
+      false
+    ],
+    [
+      "2d8c469e-6f4f-409a-b1ef-598a9ebd67f8",
+      "Barracao AE2 ; Rua 4 ; Coluna 12 ; Nivel 3 ; Posicao 13",
+      false
+    ],
+    [
+      "792721de-3113-400d-bed7-05a9d064f081",
+      "Barracao AE2 ; Rua 4 ; Coluna 12 ; Nivel 3 ; Posicao 14",
+      true
+    ],
+    [
+      "5850605c-dd87-4805-bc67-ff356e82399b",
+      "Barracao AE2 ; Rua 4 ; Coluna 12 ; Nivel 3 ; Posicao 15",
+      false
+    ],
+    [
+      "227e93a9-e016-4596-b800-f97e6ddc2e9c",
+      "Barracao AE2 ; Rua 4 ; Coluna 12 ; Nivel 3 ; Posicao 16",
+      false
+    ],
+    [
+      "e8f8c471-385c-4f3c-a490-091cf2e9ebc6",
+      "Barracao AE2 ; Rua 4 ; Coluna 12 ; Nivel 3 ; Posicao 17",
+      true
+    ],
+    [
+      "7ca64781-736b-4691-ae87-c883b0407a91",
+      "Barracao AE2 ; Rua 4 ; Coluna 12 ; Nivel 3 ; Posicao 18",
+      false
+    ],
+    [
+      "2583084c-8a0c-4260-80d7-8aba9cbe53d8",
+      "Barracao AE2 ; Rua 4 ; Coluna 12 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "98ca0242-ea0c-4099-b550-9594ded6dd06",
+      "Barracao AE2 ; Rua 4 ; Coluna 12 ; Nivel 4 ; Posicao 2",
+      true
+    ],
+    [
+      "42b07b5d-4f08-4335-8507-5ef99368d3a5",
+      "Barracao AE2 ; Rua 4 ; Coluna 12 ; Nivel 4 ; Posicao 3",
+      true
+    ],
+    [
+      "7c273404-4170-4c19-9152-dbd89600708e",
+      "Barracao AE2 ; Rua 5 ; Coluna 1 ; Nivel 1 ; Posicao 1",
+      true
+    ],
+    [
+      "0554373d-c607-4d9e-acd9-c20b0c5414b2",
+      "Barracao AE2 ; Rua 5 ; Coluna 1 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "542b9b59-335e-45f7-8a2f-7d6ec26d10cf",
+      "Barracao AE2 ; Rua 5 ; Coluna 1 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "90aa60b7-98be-4d40-8c79-0027597a0135",
+      "Barracao AE2 ; Rua 5 ; Coluna 1 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "64244347-4045-4898-9c73-58e67a599796",
+      "Barracao AE2 ; Rua 5 ; Coluna 3 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "09e71d19-f2fc-45b5-8173-25daa2571d6b",
+      "Barracao AE2 ; Rua 5 ; Coluna 3 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "15568330-429d-426e-9b78-2782bdeb31ac",
+      "Barracao AE2 ; Rua 5 ; Coluna 3 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "d466ce1f-5095-45f3-97e4-1ae453bca812",
+      "Barracao AE2 ; Rua 5 ; Coluna 3 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "fe4f965c-64fc-4b47-9a9a-0f551f7f84f8",
+      "Barracao AE2 ; Rua 5 ; Coluna 5 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "6136ba4c-0451-4403-860f-e74fc84decb3",
+      "Barracao AE2 ; Rua 5 ; Coluna 5 ; Nivel 2 ; Posicao 1",
+      true
+    ],
+    [
+      "512bc87d-0ad7-4571-b281-fb9e08846487",
+      "Barracao AE2 ; Rua 5 ; Coluna 5 ; Nivel 3 ; Posicao 1",
+      true
+    ],
+    [
+      "d290f45f-cb1d-4789-a1f9-a2fcbc3788bc",
+      "Barracao AE2 ; Rua 5 ; Coluna 5 ; Nivel 4 ; Posicao 1",
+      true
+    ],
+    [
+      "c037cf35-bd10-4f59-9b4d-73ab52ac70dd",
+      "Barracao AE2 ; Rua 5 ; Coluna 9 ; Nivel 1 ; Posicao 1",
+      false
+    ],
+    [
+      "1c4606bd-dc06-4834-be06-0dac2c6c5d8b",
+      "Barracao AE2 ; Rua 5 ; Coluna 9 ; Nivel 2 ; Posicao 1",
+      false
+    ],
+    [
+      "32d07186-076c-4eb5-b239-23b013e48573",
+      "Barracao AE2 ; Rua 5 ; Coluna 9 ; Nivel 3 ; Posicao 1",
+      false
+    ],
+    [
+      "6b569086-ce78-463e-93aa-1f5c27fbbfa9",
+      "Barracao AE2 ; Rua 5 ; Coluna 9 ; Nivel 4 ; Posicao 1",
+      false
+    ]
+  ]
+}
